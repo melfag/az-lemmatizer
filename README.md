@@ -155,9 +155,6 @@ If you use this code, please cite the original thesis:
 }
 ```
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgments
 
