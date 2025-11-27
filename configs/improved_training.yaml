@@ -1,0 +1,69 @@
+# Improved training configuration
+# Expected to achieve 75-85% with 1.33M dataset (vs 60-70% with 500K)
+
+# Data paths - UPDATED for 1.33M dataset
+data:
+  train_path: "data/processed/moraz_850k_train.json"  # 1.06M examples
+  val_path: "data/processed/moraz_850k_val.json"      # 133K examples
+  test_path: "data/processed/moraz_850k_test.json"    # 133K examples
+  num_workers: 0
+
+# Vocabulary
+vocab_path: "data/processed/char_vocab.json"
+
+# Model architecture - IMPROVED
+model:
+  char_embedding_dim: 64
+  char_hidden_dim: 128
+  char_num_layers: 1
+  bert_model_name: "allmalab/bert-base-aze"
+  bert_freeze_layers: 8
+
+  # Fusion and decoder
+  fusion_output_dim: 256
+  decoder_hidden_dim: 256
+  decoder_num_layers: 1
+  dropout: 0.3  # Increased for better regularization
+
+  # Copy mechanism - REDUCED
+  use_copy: true
+  copy_penalty: 0.3  # NEW: Penalize copying (0-1, higher = less copying)
+
+# Training hyperparameters - IMPROVED
+training:
+  num_epochs: 20  # More epochs for better convergence
+  batch_size: 32
+  gradient_accumulation_steps: 1
+
+  # Learning rates
+  bert_lr: 1.0e-5
+  other_lr: 3.0e-4
+  weight_decay: 1.0e-5
+
+  # Scheduler
+  warmup_ratio: 0.15  # Longer warmup
+
+  # Regularization
+  max_grad_norm: 1.0
+  label_smoothing: 0.1
+
+  # Teacher forcing - DYNAMIC
+  teacher_forcing_ratio: 0.7  # Start higher
+  teacher_forcing_schedule: 'linear'  # NEW: Decay to 0
+  teacher_forcing_end_ratio: 0.1  # NEW: End at 10%
+
+  # Loss weights - ADJUSTED
+  char_class_weight: 0.1
+  attention_coverage_weight: 0.05
+  transformation_loss_weight: 0.15  # NEW: Encourage transformations
+
+  # Early stopping
+  early_stopping_patience: 8  # Increased patience
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/improved_training"
+  save_every: 2
+
+# Hardware
+device: "auto"
+mixed_precision: false

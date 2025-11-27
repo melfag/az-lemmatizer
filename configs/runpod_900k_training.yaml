@@ -1,0 +1,69 @@
+# RunPod training configuration for 900K cleaned dataset
+# Expected to achieve 75-85% accuracy with cleaned data
+
+# Data paths - 900K cleaned dataset
+data:
+  train_path: "data/processed/moraz_900k_train.json"  # 719,972 examples (cleaned)
+  val_path: "data/processed/moraz_900k_val.json"      # 89,996 examples
+  test_path: "data/processed/moraz_900k_test.json"    # 89,997 examples
+  num_workers: 4  # RunPod has good CPUs
+
+# Vocabulary
+vocab_path: "data/processed/char_vocab.json"
+
+# Model architecture
+model:
+  char_embedding_dim: 64
+  char_hidden_dim: 128
+  char_num_layers: 1
+  bert_model_name: "allmalab/bert-base-aze"
+  bert_freeze_layers: 8
+
+  # Fusion and decoder
+  fusion_output_dim: 256
+  decoder_hidden_dim: 256
+  decoder_num_layers: 1
+  dropout: 0.3
+
+  # Copy mechanism
+  use_copy: true
+  copy_penalty: 0.3
+
+# Training hyperparameters
+training:
+  num_epochs: 20
+  batch_size: 64  # Larger batch for GPU
+  gradient_accumulation_steps: 1
+
+  # Learning rates
+  bert_lr: 1.0e-5
+  other_lr: 3.0e-4
+  weight_decay: 1.0e-5
+
+  # Scheduler
+  warmup_ratio: 0.15
+
+  # Regularization
+  max_grad_norm: 1.0
+  label_smoothing: 0.1
+
+  # Teacher forcing - Dynamic
+  teacher_forcing_ratio: 0.7
+  teacher_forcing_schedule: 'linear'
+  teacher_forcing_end_ratio: 0.1
+
+  # Loss weights
+  char_class_weight: 0.1
+  attention_coverage_weight: 0.05
+  transformation_loss_weight: 0.15
+
+  # Early stopping
+  early_stopping_patience: 8
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/runpod_900k_training"
+  save_every: 2
+
+# Hardware - Optimized for RunPod GPU
+device: "cuda"
+mixed_precision: true  # Enable for faster training

@@ -1,0 +1,161 @@
+# # Training Configuration
+# # Based on Table 5 and Section 4.4 from the thesis
+
+# training:
+#   # Basic settings
+#   num_epochs: 15  # As mentioned in Section 4.4.4
+#   batch_size: 64  # Table 5
+#   gradient_accumulation_steps: 1  # Increase if OOM
+  
+#   # Optimization (Section 4.4.1)
+#   optimizer:
+#     type: "adamw"
+    
+#     # Differential learning rates (Section 4.4.1)
+#     bert_learning_rate: 1.0e-5  # For pre-trained AllmaBERT
+#     other_learning_rate: 3.0e-4  # For character encoder, fusion, decoder
+    
+#     weight_decay: 1.0e-5  # Table 5
+#     betas: [0.9, 0.999]
+#     eps: 1.0e-8
+  
+#   # Learning rate schedule (Section 4.4.2)
+#   scheduler:
+#     type: "warmup_linear"
+#     warmup_ratio: 0.1  # 10% of total steps (Section 4.4.2)
+    
+#   # Regularization (Section 4.4.3)
+#   regularization:
+#     gradient_clipping: 1.0  # Max gradient norm (Table 5)
+#     early_stopping_patience: 5  # epochs (Table 5)
+    
+#   # Checkpointing
+#   checkpoint:
+#     save_every_n_epochs: 1
+#     keep_last_n_checkpoints: 3
+#     save_best_only: false
+    
+#   # Logging
+#   logging:
+#     log_every_n_steps: 100
+#     use_wandb: false  # Set to true if you want to use Weights & Biases
+#     project_name: "azerbaijani-lemmatizer"
+
+# # Data settings (Section 4.2)
+# data:
+#   # Dataset
+#   dataset_name: "allmalab/DOLLMA"
+#   max_samples: null  # null for all data, or specify number for testing
+  
+#   # Split ratios (Section 4.2.3)
+#   train_split: 0.8
+#   val_split: 0.1
+#   test_split: 0.1
+  
+#   # Context window (Section 4.2.2)
+#   max_context_length: 128  # Maximum tokens for AllmaBERT
+#   context_window_type: "full_sentence"  # Options: full_sentence, fixed_window
+  
+#   # Preprocessing
+#   lowercase: false
+#   normalize_unicode: true
+#   remove_diacritics: false  # Azerbaijani uses diacritics
+
+# # Evaluation settings
+# evaluation:
+#   eval_every_n_epochs: 1
+  
+#   # Metrics (Section 5.2)
+#   metrics:
+#     - "accuracy"
+#     - "edit_distance"
+#     - "f1_score"
+#     - "precision"
+#     - "recall"
+  
+#   # Specialized test sets (Section 5.3)
+#   specialized_tests:
+#     run_ambiguity_test: true
+#     run_complexity_test: true
+#     run_linguistic_phenomena_test: true
+
+# # Hardware optimization for M4 MacBook Pro
+# hardware:
+#   # For Apple Silicon
+#   use_mps: true  # Metal Performance Shaders
+#   pin_memory: false  # Not needed for MPS
+#   num_workers: 4  # M4 has 12 cores, use 4 for data loading
+  
+#   # Memory management
+#   empty_cache_every_n_steps: 100
+#   max_memory_allocated_gb: 20  # Leave 3GB for system
+  
+#   # Mixed precision
+#   mixed_precision: true
+  
+# # Reproducibility
+# seed: 42
+# deterministic: false  # Set to true for reproducible results (slower)
+
+
+# Training Configuration for Azerbaijani Lemmatizer
+
+# Data paths
+data:
+  train_path: "data/processed/train.json"
+  val_path: "data/processed/val.json"
+  test_path: "data/processed/test.json"
+  num_workers: 2
+
+# Vocabulary
+vocab_path: "data/processed/char_vocab.json"
+
+# Model architecture
+model:
+  char_embedding_dim: 128
+  char_hidden_dim: 256
+  char_num_layers: 2
+  bert_model_name: "allmalab/bert-base-aze"  # or bert-small-aze, bert-large-aze
+  bert_freeze_layers: 4
+  fusion_output_dim: 512
+  decoder_hidden_dim: 512
+  decoder_num_layers: 1
+  dropout: 0.3
+  use_copy: true
+
+# Training hyperparameters
+training:
+  num_epochs: 15
+  batch_size: 64
+  gradient_accumulation_steps: 1
+  
+  # Learning rates
+  bert_lr: 1.0e-5
+  other_lr: 3.0e-4
+  weight_decay: 1.0e-5
+  
+  # Scheduler
+  warmup_ratio: 0.1  # 10% of training steps
+  
+  # Regularization
+  max_grad_norm: 1.0
+  label_smoothing: 0.1
+  
+  # Teacher forcing
+  teacher_forcing_ratio: 0.5
+  
+  # Loss weights
+  char_class_weight: 0.1
+  attention_coverage_weight: 0.05
+  char_hidden_dim: 512  # For auxiliary loss
+  
+  # Early stopping
+  early_stopping_patience: 5
+  
+  # Checkpointing
+  checkpoint_dir: "checkpoints"
+  save_every: 5  # Save checkpoint every N epochs
+
+# Hardware
+device: "auto"  # auto, cuda, mps, cpu
+mixed_precision: true  # Use FP16 training if available

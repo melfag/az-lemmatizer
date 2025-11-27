@@ -1,0 +1,42 @@
+# Paths Configuration
+
+# Data paths
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  cache_dir: "data/cache"
+  
+  # Processed files
+  train_file: "data/processed/train.json"
+  val_file: "data/processed/val.json"
+  test_file: "data/processed/test.json"
+  
+  # Vocabulary
+  char_vocab_file: "data/processed/char_vocab.json"
+  
+  # Specialized test sets
+  specialized_tests_dir: "data/specialized_tests"
+  ambiguity_test_file: "data/specialized_tests/ambiguity_test.json"
+  complexity_test_file: "data/specialized_tests/morphological_complexity_test.json"
+  linguistic_test_file: "data/specialized_tests/linguistic_phenomena_test.json"
+
+# Model paths
+models:
+  checkpoints_dir: "checkpoints"
+  best_model_path: "checkpoints/best_model.pt"
+  last_model_path: "checkpoints/last_model.pt"
+  
+# Logging paths
+logging:
+  logs_dir: "logs"
+  tensorboard_dir: "logs/tensorboard"
+  results_dir: "results"
+  
+  # Error analysis
+  error_analysis_dir: "results/error_analysis"
+  attention_visualizations_dir: "results/attention_viz"
+  
+# Output paths
+output:
+  predictions_dir: "outputs/predictions"
+  evaluation_results: "outputs/evaluation_results.json"

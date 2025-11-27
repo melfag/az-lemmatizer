@@ -1,0 +1,64 @@
+# Full training configuration - 15 epochs
+# 500K dataset (450K train, 50K val) - Full training
+# Created: 2025-11-09
+# Resume between epochs for laptop cooling breaks
+
+# Data paths
+data:
+  train_path: "data/processed/moraz_500k_train.json"
+  val_path: "data/processed/moraz_500k_val.json"
+  test_path: "data/processed/ud_test.json"
+  num_workers: 0  # Reduced for stability on Mac
+
+# Vocabulary
+vocab_path: "data/processed/char_vocab.json"
+
+# Model architecture
+model:
+  char_embedding_dim: 64
+  char_hidden_dim: 128
+  char_num_layers: 1
+  bert_model_name: "allmalab/bert-base-aze"
+  bert_freeze_layers: 8   # Keep 8 layers frozen for stability
+  fusion_output_dim: 256
+  decoder_hidden_dim: 256
+  decoder_num_layers: 1
+  dropout: 0.2
+  use_copy: true
+
+# Training hyperparameters - FULL TRAINING (15 epochs)
+training:
+  num_epochs: 15          # Full 15 epochs
+  batch_size: 32          # Moderate batch size for M-series Mac
+  gradient_accumulation_steps: 1
+
+  # Learning rates
+  bert_lr: 1.0e-5         # Conservative for BERT
+  other_lr: 3.0e-4        # Higher for other layers
+  weight_decay: 1.0e-5
+
+  # Scheduler
+  warmup_ratio: 0.1       # Warmup for first 10% of training
+
+  # Regularization
+  max_grad_norm: 1.0
+  label_smoothing: 0.1
+
+  # Teacher forcing
+  teacher_forcing_ratio: 0.5
+
+  # Loss weights
+  char_class_weight: 0.1
+  attention_coverage_weight: 0.05
+  char_hidden_dim: 256
+
+  # Early stopping
+  early_stopping_patience: 10  # Increased for 15 epochs
+
+  # Checkpointing
+  checkpoint_dir: "checkpoints/full_training_15epochs"
+  save_every: 1  # Save every epoch
+
+# Hardware
+device: "auto"  # Will use MPS on MacBook Pro
+mixed_precision: false  # Disable for stability
