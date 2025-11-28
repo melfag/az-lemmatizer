@@ -1,5 +1,8 @@
-/data
 /evaluation_results
 /checkpoints
 /review_samples
-/docs
+/data/processed/archive
+/data/raw
+/data/specialized_tests
+
+/data/processed/
