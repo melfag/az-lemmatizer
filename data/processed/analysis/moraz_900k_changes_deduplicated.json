@@ -1,0 +1,7737 @@
+[
+  {
+    "word": "edilmişdir",
+    "original_lemma": "edilmişdir",
+    "new_lemma": "edil" // wrong, must be et
+  },
+  {
+    "word": "edilməmişdir",
+    "original_lemma": "edilməmişdir",
+    "new_lemma": "edilmə" // wrong, must be et
+  },
+  {
+    "word": "sayəsində",
+    "original_lemma": "sayəsində",
+    "new_lemma": "sayə"
+  },
+  {
+    "word": "hüceyrəsinin",
+    "original_lemma": "hüceyrəsinin",
+    "new_lemma": "hüceyrə"
+  },
+  {
+    "word": "kulturasında",
+    "original_lemma": "kulturasında",
+    "new_lemma": "kultura"
+  },
+  {
+    "word": "siyasının",
+    "original_lemma": "siyasının",
+    "new_lemma": "siya"
+  },
+  {
+    "word": "tonusunun",
+    "original_lemma": "tonusunun",
+    "new_lemma": "tonu"
+  },
+  {
+    "word": "böyüməsinə",
+    "original_lemma": "böyüməsinə",
+    "new_lemma": "böyümə" // wrong, must be böyü
+  },
+  {
+    "word": "xoralaşmasına",
+    "original_lemma": "xoralaşmasına",
+    "new_lemma": "xoralaşma"
+  },
+  {
+    "word": "edilməsinə",
+    "original_lemma": "edilməsinə",
+    "new_lemma": "edilmə" // wrong, must be et
+  },
+  {
+    "word": "Amerikasının",
+    "original_lemma": "Amerikasının",
+    "new_lemma": "Amerika"
+  },
+  {
+    "word": "bölgəsində",
+    "original_lemma": "bölgəsində",
+    "new_lemma": "bölgə"
+  },
+  {
+    "word": "doğulmuşdur",
+    "original_lemma": "doğulmuşdur",
+    "new_lemma": "doğul"  // wrong, must be doğu
+  },
+  {
+    "word": "bitirmişdir",
+    "original_lemma": "bitirmişdir",
+    "new_lemma": "bitir"
+  },
+  {
+    "word": "Komitəsinin",
+    "original_lemma": "Komitəsinin",
+    "new_lemma": "Komitə"
+  },
+  {
+    "word": "Ordusunun",
+    "original_lemma": "Ordusunun",
+    "new_lemma": "Ordu"
+  },
+  {
+    "word": "Məclisinə",
+    "original_lemma": "Məclisinə",
+    "new_lemma": "Məcli"
+  },
+  {
+    "word": "Akademiyasının",
+    "original_lemma": "Akademiyasının",
+    "new_lemma": "Akademiya"
+  },
+  {
+    "word": "tərəqqisinə",
+    "original_lemma": "tərəqqisinə",
+    "new_lemma": "tərəqqi"
+  },
+  {
+    "word": "çəkilmişdir",
+    "original_lemma": "çəkilmişdir",
+    "new_lemma": "çəkil"
+  },
+  {
+    "word": "bəzədilmişdir",
+    "original_lemma": "bəzədilmişdir",
+    "new_lemma": "bəzədil" // wrong, must be bəzə
+  },
+  {
+    "word": "Məhkəməsinin",
+    "original_lemma": "Məhkəməsinin",
+    "new_lemma": "Məhkəmə"
+  },
+  {
+    "word": "edilməsinin",
+    "original_lemma": "edilməsinin",
+    "new_lemma": "edilmə" // wrong, must be et
+  },
+  {
+    "word": "kateqoriyasına",
+    "original_lemma": "kateqoriyasına",
+    "new_lemma": "kateqoriya"
+  },
+  {
+    "word": "gətirilmışdır",
+    "original_lemma": "gətirilmışdır",
+    "new_lemma": "gətiril"  // wrong, must be gətir
+  },
+  {
+    "word": "miqyasında",
+    "original_lemma": "miqyasında",
+    "new_lemma": "miqya" // wrong, must be miqyas
+  },
+  {
+    "word": "Kapellasının",
+    "original_lemma": "Kapellasının",
+    "new_lemma": "Kapella"
+  },
+  {
+    "word": "bölünmüşdür",
+    "original_lemma": "bölünmüşdür",
+    "new_lemma": "bölün" // wrong, must be böl
+  },
+  {
+    "word": "distoniyasında",
+    "original_lemma": "distoniyasında",
+    "new_lemma": "distoniya"
+  },
+  {
+    "word": "Xəritəsinə",
+    "original_lemma": "Xəritəsinə",
+    "new_lemma": "Xəritə"
+  },
+  {
+    "word": "Seriyasına",
+    "original_lemma": "Seriyasına",
+    "new_lemma": "Seriya"
+  },
+  {
+    "word": "Ərazisinin",
+    "original_lemma": "Ərazisinin",
+    "new_lemma": "Ərazi"
+  },
+  {
+    "word": "mənasına",
+    "original_lemma": "mənasına",
+    "new_lemma": "məna"
+  },
+  {
+    "word": "Əhalisinin",
+    "original_lemma": "Əhalisinin",
+    "new_lemma": "Əhali"
+  },
+  {
+    "word": "yaradılmışdır",
+    "original_lemma": "yaradılmışdır",
+    "new_lemma": "yaradıl" // wrong, must be yar
+  },
+  {
+    "word": "Albaniyasına",
+    "original_lemma": "Albaniyasına",
+    "new_lemma": "Albaniya"
+  },
+  {
+    "word": "musiqisinin",
+    "original_lemma": "musiqisinin",
+    "new_lemma": "musiqi"
+  },
+  {
+    "word": "premyerasında",
+    "original_lemma": "premyerasında",
+    "new_lemma": "premyera"
+  },
+  {
+    "word": "Partiyasının",
+    "original_lemma": "Partiyasının",
+    "new_lemma": "Partiya"
+  },
+  {
+    "word": "müsabiqəsinin",
+    "original_lemma": "müsabiqəsinin",
+    "new_lemma": "müsabiqə"
+  },
+  {
+    "word": "Respublikasında",
+    "original_lemma": "Respublikasında",
+    "new_lemma": "Respublika"
+  },
+  {
+    "word": "müsabiqəsində",
+    "original_lemma": "müsabiqəsində",
+    "new_lemma": "müsabiqə"
+  },
+  {
+    "word": "musiqisinə",
+    "original_lemma": "musiqisinə",
+    "new_lemma": "musiqi"
+  },
+  {
+    "word": "Konqresinin",
+    "original_lemma": "Konqresinin",
+    "new_lemma": "Konqre" // wrong, must be konqres
+  },
+  {
+    "word": "musabiqəsində",
+    "original_lemma": "musabiqəsində",
+    "new_lemma": "musabiqə"
+  },
+  {
+    "word": "musabiqəsinin",
+    "original_lemma": "musabiqəsinin",
+    "new_lemma": "musabiqə"
+  },
+  {
+    "word": "konqresinin",
+    "original_lemma": "konqresinin",
+    "new_lemma": "konqre"
+  },
+  {
+    "word": "Şöbəsinin",
+    "original_lemma": "Şöbəsinin",
+    "new_lemma": "Şöbə"
+  },
+  {
+    "word": "yönəldilmişdir",
+    "original_lemma": "yönəldilmişdir",
+    "new_lemma": "yönəldil" // wrong, must be yönəl
+  },
+  {
+    "word": "karyerasına",
+    "original_lemma": "karyerasına",
+    "new_lemma": "karyera"
+  },
+  {
+    "word": "Dərəsinin",
+    "original_lemma": "Dərəsinin",
+    "new_lemma": "Dərə"
+  },
+  {
+    "word": "Federasiyasının",
+    "original_lemma": "Federasiyasının",
+    "new_lemma": "Federasiya"
+  },
+  {
+    "word": "bölgəsinin",
+    "original_lemma": "bölgəsinin",
+    "new_lemma": "bölgə"
+  },
+  {
+    "word": "Televiziyasında",
+    "original_lemma": "Televiziyasında",
+    "new_lemma": "Televiziya"
+  },
+  {
+    "word": "öyrədilməsində",
+    "original_lemma": "öyrədilməsində",
+    "new_lemma": "öyrədilmə" // wrong, must be öyrət
+  },
+  {
+    "word": "Liqasına",
+    "original_lemma": "Liqasına",
+    "new_lemma": "Liqa"
+  },
+  {
+    "word": "Rusiyasında",
+    "original_lemma": "Rusiyasında",
+    "new_lemma": "Rusiya"
+  },
+  {
+    "word": "Rusiyasının",
+    "original_lemma": "Rusiyasının",
+    "new_lemma": "Rusiya"
+  },
+  {
+    "word": "Müsabiqəsində",
+    "original_lemma": "Müsabiqəsində",
+    "new_lemma": "Müsabiqə"
+  },
+  {
+    "word": "Müsabiqəsinə",
+    "original_lemma": "Müsabiqəsinə",
+    "new_lemma": "Müsabiqə"
+  },
+  {
+    "word": "Müsabiqəsinin",
+    "original_lemma": "Müsabiqəsinin",
+    "new_lemma": "Müsabiqə"
+  },
+  {
+    "word": "Respublikasına",
+    "original_lemma": "Respublikasına",
+    "new_lemma": "Respublika"
+  },
+  {
+    "word": "Siyahısına",
+    "original_lemma": "Siyahısına",
+    "new_lemma": "Siyahı"
+  },
+  {
+    "word": "Məclisinin",
+    "original_lemma": "Məclisinin",
+    "new_lemma": "Məcli"
+  },
+  {
+    "word": "Mərəzəsinin",
+    "original_lemma": "Mərəzəsinin",
+    "new_lemma": "Mərəzə"
+  },
+  {
+    "word": "versiyasının",
+    "original_lemma": "versiyasının",
+    "new_lemma": "versiya"
+  },
+  {
+    "word": "versiyasında",
+    "original_lemma": "versiyasında",
+    "new_lemma": "versiya"
+  },
+  {
+    "word": "Körpüsünün",
+    "original_lemma": "Körpüsünün",
+    "new_lemma": "Körpü"
+  },
+  {
+    "word": "Stansiyasına",
+    "original_lemma": "Stansiyasına",
+    "new_lemma": "Stansiya"
+  },
+  {
+    "word": "Cənazəsində",
+    "original_lemma": "Cənazəsində",
+    "new_lemma": "Cənazə"
+  },
+  {
+    "word": "Korpusunun",
+    "original_lemma": "Korpusunun",
+    "new_lemma": "Korpu"
+  },
+  {
+    "word": "yayımlanmışdır",
+    "original_lemma": "yayımlanmışdır",
+    "new_lemma": "yayımlan" // wrong, must be yayımla
+  },
+  {
+    "word": "Müqaviləsinə",
+    "original_lemma": "Müqaviləsinə",
+    "new_lemma": "Müqavilə"
+  },
+  {
+    "word": "Cəbhəsində",
+    "original_lemma": "Cəbhəsində",
+    "new_lemma": "Cəbhə"
+  },
+  {
+    "word": "Pespublikasının",
+    "original_lemma": "Pespublikasının",
+    "new_lemma": "Pespublika"
+  },
+  {
+    "word": "Cəbhəsinin",
+    "original_lemma": "Cəbhəsinin",
+    "new_lemma": "Cəbhə"
+  },
+  {
+    "word": "idarəetməsində",
+    "original_lemma": "idarəetməsində",
+    "new_lemma": "idarəetmə"
+  },
+  {
+    "word": "bölgəsinə",
+    "original_lemma": "bölgəsinə",
+    "new_lemma": "bölgə"
+  },
+  {
+    "word": "Diviziyasının",
+    "original_lemma": "Diviziyasının",
+    "new_lemma": "Diviziya"
+  },
+  {
+    "word": "Cəbhəsinə",
+    "original_lemma": "Cəbhəsinə",
+    "new_lemma": "Cəbhə"
+  },
+  {
+    "word": "Stansiyasının",
+    "original_lemma": "Stansiyasının",
+    "new_lemma": "Stansiya"
+  },
+  {
+    "word": "yrdılmışdır",
+    "original_lemma": "yrdılmışdır",
+    "new_lemma": "yrdıl" // wrong, must be deleted completely
+  },
+  {
+    "word": "qayıtmışdır",
+    "original_lemma": "qayıtmışdır",
+    "new_lemma": "qayıt"
+  },
+  {
+    "word": "miqrasiyasının",
+    "original_lemma": "miqrasiyasının",
+    "new_lemma": "miqrasiya"
+  },
+  {
+    "word": "ilçəsində",
+    "original_lemma": "ilçəsində",
+    "new_lemma": "ilçə"
+  },
+  {
+    "word": "götürmüşdür",
+    "original_lemma": "götürmüşdür",
+    "new_lemma": "götür"
+  },
+  {
+    "word": "ilçəsinin",
+    "original_lemma": "ilçəsinin",
+    "new_lemma": "ilçə"
+  },
+  {
+    "word": "Ərazisində",
+    "original_lemma": "Ərazisində",
+    "new_lemma": "Ərazi"
+  },
+  {
+    "word": "azaldılmışdır",
+    "original_lemma": "azaldılmışdır",
+    "new_lemma": "azaldıl" // wrong, must be azalt
+  },
+  {
+    "word": "tikilmişdir",
+    "original_lemma": "tikilmişdir",
+    "new_lemma": "tikil"
+  },
+  {
+    "word": "aşkarlanmışdır",
+    "original_lemma": "aşkarlanmışdır",
+    "new_lemma": "aşkarlan" // wrong, must be aşkarla
+  },
+  {
+    "word": "azaltmışdır",
+    "original_lemma": "azaltmışdır",
+    "new_lemma": "azalt"
+  },
+  {
+    "word": "vəzivəsində",
+    "original_lemma": "vəzivəsində",
+    "new_lemma": "vəzivə"
+  },
+  {
+    "word": "versiyasına",
+    "original_lemma": "versiyasına",
+    "new_lemma": "versiya"
+  },
+  {
+    "word": "bəyanaməsində",
+    "original_lemma": "bəyanaməsində",
+    "new_lemma": "bəyanamə"
+  },
+  {
+    "word": "Akademiyasında",
+    "original_lemma": "Akademiyasında",
+    "new_lemma": "Akademiya"
+  },
+  {
+    "word": "Konfransına",
+    "original_lemma": "Konfransına",
+    "new_lemma": "Konfran" // wrong, must be konfrans
+  },
+  {
+    "word": "Ailəsinin",
+    "original_lemma": "Ailəsinin",
+    "new_lemma": "Ailə"
+  },
+  {
+    "word": "nöqtəsinə",
+    "original_lemma": "nöqtəsinə",
+    "new_lemma": "nöqtə"
+  },
+  {
+    "word": "yarəmadasında",
+    "original_lemma": "yarəmadasında",
+    "new_lemma": "yarəmada"
+  },
+  {
+    "word": "mənasında",
+    "original_lemma": "mənasında",
+    "new_lemma": "məna"
+  },
+  {
+    "word": "Sənayesinin",
+    "original_lemma": "Sənayesinin",
+    "new_lemma": "Sənaye"
+  },
+  {
+    "word": "çevrilmişdir",
+    "original_lemma": "çevrilmişdir",
+    "new_lemma": "çevril" // wrong, must be çevir
+  },
+  {
+    "word": "uniyasına",
+    "original_lemma": "uniyasına",
+    "new_lemma": "uniya"
+  },
+  {
+    "word": "itirilməsinə",
+    "original_lemma": "itirilməsinə",
+    "new_lemma": "itirilmə"
+  },
+  {
+    "word": "öyrətməmişdir",
+    "original_lemma": "öyrətməmişdir",
+    "new_lemma": "öyrətmə"
+  },
+  {
+    "word": "Dəstəsində",
+    "original_lemma": "Dəstəsində",
+    "new_lemma": "Dəstə"
+  },
+  {
+    "word": "Liqasında",
+    "original_lemma": "Liqasında",
+    "new_lemma": "Liqa"
+  },
+  {
+    "word": "edilməsində",
+    "original_lemma": "edilməsində",
+    "new_lemma": "edilmə" // wrong, must be et
+  },
+  {
+    "word": "İmperiyasının",
+    "original_lemma": "İmperiyasının",
+    "new_lemma": "İmperiya"
+  },
+  {
+    "word": "yeniəmişdir",
+    "original_lemma": "yeniəmişdir",
+    "new_lemma": "yeniə"
+  },
+  {
+    "word": "uduzmuşdur",
+    "original_lemma": "uduzmuşdur",
+    "new_lemma": "uduz"
+  },
+  {
+    "word": "məntəqəsinə",
+    "original_lemma": "məntəqəsinə",
+    "new_lemma": "məntəqə"
+  },
+  {
+    "word": "məntəqəsində",
+    "original_lemma": "məntəqəsində",
+    "new_lemma": "məntəqə"
+  },
+  {
+    "word": "poeziyasının",
+    "original_lemma": "poeziyasının",
+    "new_lemma": "poeziya"
+  },
+  {
+    "word": "iş-ləmişdir",
+    "original_lemma": "iş-ləmişdir",
+    "new_lemma": "iş-lə"
+  },
+  {
+    "word": "İeyasunun",
+    "original_lemma": "İeyasunun",
+    "new_lemma": "İeya"
+  },
+  {
+    "word": "Seminariyasında",
+    "original_lemma": "Seminariyasında",
+    "new_lemma": "Seminariya"
+  },
+  {
+    "word": "səhasində",
+    "original_lemma": "səhasində",
+    "new_lemma": "səha"
+  },
+  {
+    "word": "briqadasının",
+    "original_lemma": "briqadasının",
+    "new_lemma": "briqada"
+  },
+  {
+    "word": "Diviziyasına",
+    "original_lemma": "Diviziyasına",
+    "new_lemma": "Diviziya"
+  },
+  {
+    "word": "verirmişdir",
+    "original_lemma": "verirmişdir",
+    "new_lemma": "verir" // wrong, must be ver
+  },
+  {
+    "word": "başladılmışdır",
+    "original_lemma": "başladılmışdır",
+    "new_lemma": "başladıl"  // wrong, must be başlat
+  },
+  {
+    "word": "Konqresinə",
+    "original_lemma": "Konqresinə",
+    "new_lemma": "Konqre"  // wrong, must be konqres
+  },
+  {
+    "word": "Federasiyasında",
+    "original_lemma": "Federasiyasında",
+    "new_lemma": "Federasiya"
+  },
+  {
+    "word": "Koalisiyasının",
+    "original_lemma": "Koalisiyasının",
+    "new_lemma": "Koalisiya"
+  },
+  {
+    "word": "Partiyasına",
+    "original_lemma": "Partiyasına",
+    "new_lemma": "Partiya"
+  },
+  {
+    "word": "koalisiyasının",
+    "original_lemma": "koalisiyasının",
+    "new_lemma": "koalisiya"
+  },
+  {
+    "word": "yarımfəsiləsinə",
+    "original_lemma": "yarımfəsiləsinə",
+    "new_lemma": "yarımfəsilə"
+  },
+  {
+    "word": "Şurasının",
+    "original_lemma": "Şurasının",
+    "new_lemma": "Şura"
+  },
+  {
+    "word": "nominasiyasına",
+    "original_lemma": "nominasiyasına",
+    "new_lemma": "nominasiya"
+  },
+  {
+    "word": "xəstaxanasında",
+    "original_lemma": "xəstaxanasında",
+    "new_lemma": "xəstaxana"
+  },
+  {
+    "word": "içərsində",
+    "original_lemma": "içərsində",
+    "new_lemma": "içər"
+  },
+  {
+    "word": "performasnsına",
+    "original_lemma": "performasnsına",
+    "new_lemma": "performasn"
+  },
+  {
+    "word": "performansının",
+    "original_lemma": "performansının",
+    "new_lemma": "performan" // wrong, must be performans
+  },
+  {
+    "word": "götürülmüşdür",
+    "original_lemma": "götürülmüşdür",
+    "new_lemma": "götürül" // wrong, must be götür
+  },
+  {
+    "word": "Komitəsində",
+    "original_lemma": "Komitəsində",
+    "new_lemma": "Komitə"
+  },
+  {
+    "word": "hamısının",
+    "original_lemma": "hamısının",
+    "new_lemma": "hamı"
+  },
+  {
+    "word": "Kitabxanasının",
+    "original_lemma": "Kitabxanasının",
+    "new_lemma": "Kitabxana"
+  },
+  {
+    "word": "Bildirmişdir",
+    "original_lemma": "Bildirmişdir",
+    "new_lemma": "Bildir"
+  },
+  {
+    "word": "mənənəsinin",
+    "original_lemma": "mənənəsinin",
+    "new_lemma": "mənənə"
+  },
+  {
+    "word": "ümərasının",
+    "original_lemma": "ümərasının",
+    "new_lemma": "üməra"
+  },
+  {
+    "word": "məntəqəsinin",
+    "original_lemma": "məntəqəsinin",
+    "new_lemma": "məntəqə"
+  },
+  {
+    "word": "mövqelənməsinə",
+    "original_lemma": "mövqelənməsinə",
+    "new_lemma": "mövqelənmə" // wrong, must be mövqe
+  },
+  {
+    "word": "bağlantısına",
+    "original_lemma": "bağlantısına",
+    "new_lemma": "bağlantı"
+  },
+  {
+    "word": "azaldılmasına",
+    "original_lemma": "azaldılmasına",
+    "new_lemma": "azaldılma" // wrong, must be azal
+  },
+  {
+    "word": "donamasının",
+    "original_lemma": "donamasının",
+    "new_lemma": "donama"
+  },
+  {
+    "word": "devrilmişdir",
+    "original_lemma": "devrilmişdir",
+    "new_lemma": "devril" // wrong, must be devir
+  },
+  {
+    "word": "Akademiyasına",
+    "original_lemma": "Akademiyasına",
+    "new_lemma": "Akademiya"
+  },
+  {
+    "word": "Arxasında",
+    "original_lemma": "Arxasında",
+    "new_lemma": "Arxa"
+  },
+  {
+    "word": "Kilsəsində",
+    "original_lemma": "Kilsəsində",
+    "new_lemma": "Kilsə"
+  },
+  {
+    "word": "Şurasında",
+    "original_lemma": "Şurasında",
+    "new_lemma": "Şura"
+  },
+  {
+    "word": "şou-biznesində",
+    "original_lemma": "şou-biznesində",
+    "new_lemma": "şou-bizne"
+  },
+  {
+    "word": "yerləşkəsinin",
+    "original_lemma": "yerləşkəsinin",
+    "new_lemma": "yerləşkə"
+  },
+  {
+    "word": "əhatələnmişdir",
+    "original_lemma": "əhatələnmişdir",
+    "new_lemma": "əhatələn" // wrong, must be əhatə
+  },
+  {
+    "word": "Publisinin",
+    "original_lemma": "Publisinin",
+    "new_lemma": "Publi" // wrong, must be deleted entirely
+  },
+  {
+    "word": "Qapısına",
+    "original_lemma": "Qapısına",
+    "new_lemma": "Qapı"
+  },
+  {
+    "word": "Bölməsinin",
+    "original_lemma": "Bölməsinin",
+    "new_lemma": "Bölmə"
+  },
+  {
+    "word": "Akademiyasinin",
+    "original_lemma": "Akademiyasinin",
+    "new_lemma": "Akademiya"
+  },
+  {
+    "word": "fakultəsində",
+    "original_lemma": "fakultəsində",
+    "new_lemma": "fakultə"
+  },
+  {
+    "word": "Sərğisində",
+    "original_lemma": "Sərğisində",
+    "new_lemma": "Sərği"
+  },
+  {
+    "word": "Şurasinin",
+    "original_lemma": "Şurasinin",
+    "new_lemma": "Şura"
+  },
+  {
+    "word": "Komisiyasında",
+    "original_lemma": "Komisiyasında",
+    "new_lemma": "Komisiya"
+  },
+  {
+    "word": "Sərğisinin",
+    "original_lemma": "Sərğisinin",
+    "new_lemma": "Sərği"
+  },
+  {
+    "word": "prefekturasının",
+    "original_lemma": "prefekturasının",
+    "new_lemma": "prefektura"
+  },
+  {
+    "word": "miqrasiyasına",
+    "original_lemma": "miqrasiyasına",
+    "new_lemma": "miqrasiya"
+  },
+  {
+    "word": "məqaləsində",
+    "original_lemma": "məqaləsində",
+    "new_lemma": "məqalə"
+  },
+  {
+    "word": "Rusiyasına",
+    "original_lemma": "Rusiyasına",
+    "new_lemma": "Rusiya"
+  },
+  {
+    "word": "karyerasında",
+    "original_lemma": "karyerasında",
+    "new_lemma": "karyera"
+  },
+  {
+    "word": "Konvensiyasının",
+    "original_lemma": "Konvensiyasının",
+    "new_lemma": "Konvensiya"
+  },
+  {
+    "word": "Bekasinin",
+    "original_lemma": "Bekasinin",
+    "new_lemma": "Beka"
+  },
+  {
+    "word": "nominasiyasında",
+    "original_lemma": "nominasiyasında",
+    "new_lemma": "nominasiya"
+  },
+  {
+    "word": "usmisinə",
+    "original_lemma": "usmisinə",
+    "new_lemma": "usmi"
+  },
+  {
+    "word": "usmisinin",
+    "original_lemma": "usmisinin",
+    "new_lemma": "usmi"
+  },
+  {
+    "word": "İmperiyasına",
+    "original_lemma": "İmperiyasına",
+    "new_lemma": "İmperiya"
+  },
+  {
+    "word": "Kollegiyasına",
+    "original_lemma": "Kollegiyasına",
+    "new_lemma": "Kollegiya"
+  },
+  {
+    "word": "Kollesiyasına",
+    "original_lemma": "Kollesiyasına",
+    "new_lemma": "Kollesiya"
+  },
+  {
+    "word": "gerisinə",
+    "original_lemma": "gerisinə",
+    "new_lemma": "geri"
+  },
+  {
+    "word": "tənzimlənməsinə",
+    "original_lemma": "tənzimlənməsinə",
+    "new_lemma": "tənzimlənmə" // wrong, must be tənzim
+  },
+  {
+    "word": "deyişmişdir",
+    "original_lemma": "deyişmişdir",
+    "new_lemma": "deyiş"
+  },
+  {
+    "word": "abbasısında",
+    "original_lemma": "abbasısında",
+    "new_lemma": "abbası"
+  },
+  {
+    "word": "çəkilməsində",
+    "original_lemma": "çəkilməsində",
+    "new_lemma": "çəkilmə" // wrong, must be çək
+  },
+  {
+    "word": "barəsində",
+    "original_lemma": "barəsində",
+    "new_lemma": "barə"
+  },
+  {
+    "word": "qvardiyasının",
+    "original_lemma": "qvardiyasının",
+    "new_lemma": "qvardiya"
+  },
+  {
+    "word": "çoğrafiyasının",
+    "original_lemma": "çoğrafiyasının",
+    "new_lemma": "çoğrafiya"
+  },
+  {
+    "word": "toponimikasının",
+    "original_lemma": "toponimikasının",
+    "new_lemma": "toponimika"
+  },
+  {
+    "word": "örgüsünün",
+    "original_lemma": "örgüsünün",
+    "new_lemma": "örgü"
+  },
+  {
+    "word": "Amerikasında",
+    "original_lemma": "Amerikasında",
+    "new_lemma": "Amerika"
+  },
+  {
+    "word": "Xəstəxanasının",
+    "original_lemma": "Xəstəxanasının",
+    "new_lemma": "Xəstəxana"
+  },
+  {
+    "word": "nahiyyəsində",
+    "original_lemma": "nahiyyəsində",
+    "new_lemma": "nahiyyə"
+  },
+  {
+    "word": "komiksinin",
+    "original_lemma": "komiksinin",
+    "new_lemma": "komik"
+  },
+  {
+    "word": "çalıb-oxumuşdur",
+    "original_lemma": "çalıb-oxumuşdur",
+    "new_lemma": "çalıb-oxu"
+  },
+  {
+    "word": "Müharibəsinin",
+    "original_lemma": "Müharibəsinin",
+    "new_lemma": "Müharibə"
+  },
+  {
+    "word": "Almaniyasının",
+    "original_lemma": "Almaniyasının",
+    "new_lemma": "Almaniya"
+  },
+  {
+    "word": "Almaniyasında",
+    "original_lemma": "Almaniyasında",
+    "new_lemma": "Almaniya"
+  },
+  {
+    "word": "iyerarxiyasında",
+    "original_lemma": "iyerarxiyasında",
+    "new_lemma": "iyerarxiya"
+  },
+  {
+    "word": "Həbsxanasında",
+    "original_lemma": "Həbsxanasında",
+    "new_lemma": "Həbsxana"
+  },
+  {
+    "word": "mühafəzəsinin",
+    "original_lemma": "mühafəzəsinin",
+    "new_lemma": "mühafəzə"
+  },
+  {
+    "word": "Giləsində",
+    "original_lemma": "Giləsində",
+    "new_lemma": "Gilə"
+  },
+  {
+    "word": "məskunlaşmışdır",
+    "original_lemma": "məskunlaşmışdır",
+    "new_lemma": "məskunlaş"
+  },
+  {
+    "word": "mal-qarasının",
+    "original_lemma": "mal-qarasının",
+    "new_lemma": "mal-qara"
+  },
+  {
+    "word": "edlimişdir",
+    "original_lemma": "edlimişdir",
+    "new_lemma": "edli"
+  },
+  {
+    "word": "Sahəsində",
+    "original_lemma": "Sahəsində",
+    "new_lemma": "Sahə"
+  },
+  {
+    "word": "çağrılmışdır",
+    "original_lemma": "çağrılmışdır",
+    "new_lemma": "çağrıl"
+  },
+  {
+    "word": "əqidəsinə",
+    "original_lemma": "əqidəsinə",
+    "new_lemma": "əqidə"
+  },
+  {
+    "word": "qaldırlmasında",
+    "original_lemma": "qaldırlmasında",
+    "new_lemma": "qaldırlma" // wrong, must be qaldır
+  },
+  {
+    "word": "göndərilimişdir",
+    "original_lemma": "göndərilimişdir",
+    "new_lemma": "göndərili" // wrong, must be göndər
+  },
+  {
+    "word": "birisinə",
+    "original_lemma": "birisinə",
+    "new_lemma": "biri" // wrong, must be bir
+  },
+  {
+    "word": "itirmişdir",
+    "original_lemma": "itirmişdir",
+    "new_lemma": "itir"
+  },
+  {
+    "word": "həzəriyyəsinin",
+    "original_lemma": "həzəriyyəsinin",
+    "new_lemma": "həzəriyyə"
+  },
+  {
+    "word": "Məcəlləsinə",
+    "original_lemma": "Məcəlləsinə",
+    "new_lemma": "Məcəllə"
+  },
+  {
+    "word": "Palatasının",
+    "original_lemma": "Palatasının",
+    "new_lemma": "Palata"
+  },
+  {
+    "word": "Müharibəsinə",
+    "original_lemma": "Müharibəsinə",
+    "new_lemma": "Müharibə"
+  },
+  {
+    "word": "platasının",
+    "original_lemma": "platasının",
+    "new_lemma": "plata"
+  },
+  {
+    "word": "Təzəsinin",
+    "original_lemma": "Təzəsinin",
+    "new_lemma": "Təzə"
+  },
+  {
+    "word": "ruhiyyəsinin",
+    "original_lemma": "ruhiyyəsinin",
+    "new_lemma": "ruhiyyə"
+  },
+  {
+    "word": "tərəqqisinin",
+    "original_lemma": "tərəqqisinin",
+    "new_lemma": "tərəqqi"
+  },
+  {
+    "word": "İdarəsində",
+    "original_lemma": "İdarəsində",
+    "new_lemma": "İdarə"
+  },
+  {
+    "word": "Dəstəsinin",
+    "original_lemma": "Dəstəsinin",
+    "new_lemma": "Dəstə"
+  },
+  {
+    "word": "kenassasına",
+    "original_lemma": "kenassasına",
+    "new_lemma": "kenassa"
+  },
+  {
+    "word": "dağıdılmışdır",
+    "original_lemma": "dağıdılmışdır",
+    "new_lemma": "dağıdıl" // wrong, must be dağ
+  },
+  {
+    "word": "kenassasının",
+    "original_lemma": "kenassasının",
+    "new_lemma": "kenassa"
+  },
+  {
+    "word": "Polineziyasına",
+    "original_lemma": "Polineziyasına",
+    "new_lemma": "Polineziya"
+  },
+  {
+    "word": "Bölməsində",
+    "original_lemma": "Bölməsində",
+    "new_lemma": "Bölmə"
+  },
+  {
+    "word": "qovulmuşdur",
+    "original_lemma": "qovulmuşdur",
+    "new_lemma": "qovul"
+  },
+  {
+    "word": "İdarəsinin",
+    "original_lemma": "İdarəsinin",
+    "new_lemma": "İdarə"
+  },
+  {
+    "word": "Florasında",
+    "original_lemma": "Florasında",
+    "new_lemma": "Flora"
+  },
+  {
+    "word": "Konfransında",
+    "original_lemma": "Konfransında",
+    "new_lemma": "Konfran"
+  },
+  {
+    "word": "periferiyasında",
+    "original_lemma": "periferiyasında",
+    "new_lemma": "periferiya"
+  },
+  {
+    "word": "prefekturasında",
+    "original_lemma": "prefekturasında",
+    "new_lemma": "prefektura"
+  },
+  {
+    "word": "çağrılmasının",
+    "original_lemma": "çağrılmasının",
+    "new_lemma": "çağrılma" // wrong, must be çağır
+  },
+  {
+    "word": "Texnologiyasına",
+    "original_lemma": "Texnologiyasına",
+    "new_lemma": "Texnologiya"
+  },
+  {
+    "word": "Komissiyasının",
+    "original_lemma": "Komissiyasının",
+    "new_lemma": "Komissiya"
+  },
+  {
+    "word": "Kolleksiyasında",
+    "original_lemma": "Kolleksiyasında",
+    "new_lemma": "Kolleksiya"
+  },
+  {
+    "word": "fomasının",
+    "original_lemma": "fomasının",
+    "new_lemma": "foma"
+  },
+  {
+    "word": "sayənsində",
+    "original_lemma": "sayənsində",
+    "new_lemma": "sayən"
+  },
+  {
+    "word": "gətrimişdir",
+    "original_lemma": "gətrimişdir",
+    "new_lemma": "gətri" // wrong, must be gətir
+  },
+  {
+    "word": "Briqadasının",
+    "original_lemma": "Briqadasının",
+    "new_lemma": "Briqada"
+  },
+  {
+    "word": "törədilmişdir",
+    "original_lemma": "törədilmişdir",
+    "new_lemma": "törədil" // wrong, must be törət
+  },
+  {
+    "word": "tikilməsinə",
+    "original_lemma": "tikilməsinə",
+    "new_lemma": "tikilmə" // wrong, must be tik
+  },
+  {
+    "word": "hərəsinə",
+    "original_lemma": "hərəsinə",
+    "new_lemma": "hərə"
+  },
+  {
+    "word": "tendensiyasına",
+    "original_lemma": "tendensiyasına",
+    "new_lemma": "tendensiya"
+  },
+  {
+    "word": "Rəsədxanasının",
+    "original_lemma": "Rəsədxanasının",
+    "new_lemma": "Rəsədxana"
+  },
+  {
+    "word": "İçərisində",
+    "original_lemma": "İçərisində",
+    "new_lemma": "İçəri"
+  },
+  {
+    "word": "yararlanmışdır",
+    "original_lemma": "yararlanmışdır",
+    "new_lemma": "yararlan" // wrong, must be yarar
+  },
+  {
+    "word": "aşkarlamışdır",
+    "original_lemma": "aşkarlamışdır",
+    "new_lemma": "aşkarla" // wrong, must be aşkarl
+  },
+  {
+    "word": "hazılanmışdır",
+    "original_lemma": "hazılanmışdır",
+    "new_lemma": "hazılan"
+  },
+  {
+    "word": "numunəsində",
+    "original_lemma": "numunəsində",
+    "new_lemma": "numunə"
+  },
+  {
+    "word": "Hekayəsinin",
+    "original_lemma": "Hekayəsinin",
+    "new_lemma": "Hekayə"
+  },
+  {
+    "word": "dəqiqəsində",
+    "original_lemma": "dəqiqəsində",
+    "new_lemma": "dəqiqə"
+  },
+  {
+    "word": "surəsinin",
+    "original_lemma": "surəsinin",
+    "new_lemma": "surə"
+  },
+  {
+    "word": "Liqasının",
+    "original_lemma": "Liqasının",
+    "new_lemma": "Liqa"
+  },
+  {
+    "word": "tiraniyasının",
+    "original_lemma": "tiraniyasının",
+    "new_lemma": "tiraniya"
+  },
+  {
+    "word": "Bürosunun",
+    "original_lemma": "Bürosunun",
+    "new_lemma": "Büro"
+  },
+  {
+    "word": "hamısına",
+    "original_lemma": "hamısına",
+    "new_lemma": "hamı"
+  },
+  {
+    "word": "Xəmsəsinin",
+    "original_lemma": "Xəmsəsinin",
+    "new_lemma": "Xəmsə"
+  },
+  {
+    "word": "Əlyazmasında",
+    "original_lemma": "Əlyazmasında",
+    "new_lemma": "Əlyazma"
+  },
+  {
+    "word": "Əlyazmasının",
+    "original_lemma": "Əlyazmasının",
+    "new_lemma": "Əlyazma"
+  },
+  {
+    "word": "Fakültəsinin",
+    "original_lemma": "Fakültəsinin",
+    "new_lemma": "Fakültə"
+  },
+  {
+    "word": "Dünyasında",
+    "original_lemma": "Dünyasında",
+    "new_lemma": "Dünya"
+  },
+  {
+    "word": "Hövzəsinin",
+    "original_lemma": "Hövzəsinin",
+    "new_lemma": "Hövzə"
+  },
+  {
+    "word": "lisenziyasına",
+    "original_lemma": "lisenziyasına",
+    "new_lemma": "lisenziya"
+  },
+  {
+    "word": "Metropolisinə",
+    "original_lemma": "Metropolisinə",
+    "new_lemma": "Metropoli"
+  },
+  {
+    "word": "məqaləsinə",
+    "original_lemma": "məqaləsinə",
+    "new_lemma": "məqalə"
+  },
+  {
+    "word": "Sayansının",
+    "original_lemma": "Sayansının",
+    "new_lemma": "Sayan"
+  },
+  {
+    "word": "lirikasında",
+    "original_lemma": "lirikasında",
+    "new_lemma": "lirika"
+  },
+  {
+    "word": "idarəetməsinin",
+    "original_lemma": "idarəetməsinin",
+    "new_lemma": "idarəetmə"
+  },
+  {
+    "word": "norma-sının",
+    "original_lemma": "norma-sının",
+    "new_lemma": "norma-"
+  },
+  {
+    "word": "ideya-sının",
+    "original_lemma": "ideya-sının",
+    "new_lemma": "ideya-"
+  },
+  {
+    "word": "bağçasının",
+    "original_lemma": "bağçasının",
+    "new_lemma": "bağça"
+  },
+  {
+    "word": "Kilsəsinə",
+    "original_lemma": "Kilsəsinə",
+    "new_lemma": "Kilsə"
+  },
+  {
+    "word": "Albaniyasının",
+    "original_lemma": "Albaniyasının",
+    "new_lemma": "Albaniya"
+  },
+  {
+    "word": "müqaviləsinin",
+    "original_lemma": "müqaviləsinin",
+    "new_lemma": "müqavilə"
+  },
+  {
+    "word": "Qalereyasının",
+    "original_lemma": "Qalereyasının",
+    "new_lemma": "Qalereya"
+  },
+  {
+    "word": "Deposunun",
+    "original_lemma": "Deposunun",
+    "new_lemma": "Depo"
+  },
+  {
+    "word": "oynadılmışdır",
+    "original_lemma": "oynadılmışdır",
+    "new_lemma": "oynadıl" // wrong, must be oyna
+  },
+  {
+    "word": "yiyəlməsinə",
+    "original_lemma": "yiyəlməsinə",
+    "new_lemma": "yiyəlmə" // wrong, must be yiyə
+  },
+  {
+    "word": "Genizasında",
+    "original_lemma": "Genizasında",
+    "new_lemma": "Geniza"
+  },
+  {
+    "word": "Bölgəsində",
+    "original_lemma": "Bölgəsində",
+    "new_lemma": "Bölgə"
+  },
+  {
+    "word": "borosunun",
+    "original_lemma": "borosunun",
+    "new_lemma": "boro"
+  },
+  {
+    "word": "Formasına",
+    "original_lemma": "Formasına",
+    "new_lemma": "Forma"
+  },
+  {
+    "word": "ikonasına",
+    "original_lemma": "ikonasına",
+    "new_lemma": "ikona"
+  },
+  {
+    "word": "işlədilmişdir",
+    "original_lemma": "işlədilmişdir",
+    "new_lemma": "işlədil"
+  },
+  {
+    "word": "kolleqiyasının",
+    "original_lemma": "kolleqiyasının",
+    "new_lemma": "kolleqiya"
+  },
+  {
+    "word": "Kompleksinin",
+    "original_lemma": "Kompleksinin",
+    "new_lemma": "Komplek"
+  },
+  {
+    "word": "ucaldılmasının",
+    "original_lemma": "ucaldılmasının",
+    "new_lemma": "ucaldılma"
+  },
+  {
+    "word": "kolonnadasının",
+    "original_lemma": "kolonnadasının",
+    "new_lemma": "kolonnada"
+  },
+  {
+    "word": "sökülmüşdür",
+    "original_lemma": "sökülmüşdür",
+    "new_lemma": "sökül"
+  },
+  {
+    "word": "şırıntısına",
+    "original_lemma": "şırıntısına",
+    "new_lemma": "şırıntı"
+  },
+  {
+    "word": "suayırıcısında",
+    "original_lemma": "suayırıcısında",
+    "new_lemma": "suayırıcı"
+  },
+  {
+    "word": "firqəsinin",
+    "original_lemma": "firqəsinin",
+    "new_lemma": "firqə"
+  },
+  {
+    "word": "fırqəsinin",
+    "original_lemma": "fırqəsinin",
+    "new_lemma": "fırqə"
+  },
+  {
+    "word": "müqaviləsinə",
+    "original_lemma": "müqaviləsinə",
+    "new_lemma": "müqavilə"
+  },
+  {
+    "word": "Missiyasının",
+    "original_lemma": "Missiyasının",
+    "new_lemma": "Missiya"
+  },
+  {
+    "word": "Bəyannaməsinin",
+    "original_lemma": "Bəyannaməsinin",
+    "new_lemma": "Bəyannamə"
+  },
+  {
+    "word": "Savannasının",
+    "original_lemma": "Savannasının",
+    "new_lemma": "Savanna"
+  },
+  {
+    "word": "böyümüşdür",
+    "original_lemma": "böyümüşdür",
+    "new_lemma": "böyü"
+  },
+  {
+    "word": "Kəndisinin",
+    "original_lemma": "Kəndisinin",
+    "new_lemma": "Kəndi"
+  },
+  {
+    "word": "kəndisinə",
+    "original_lemma": "kəndisinə",
+    "new_lemma": "kəndi"
+  },
+  {
+    "word": "rubrikasında",
+    "original_lemma": "rubrikasında",
+    "new_lemma": "rubrika"
+  },
+  {
+    "word": "idiƏhalisinin",
+    "original_lemma": "idiƏhalisinin",
+    "new_lemma": "idiƏhali"
+  },
+  {
+    "word": "İdarəsinə",
+    "original_lemma": "İdarəsinə",
+    "new_lemma": "İdarə"
+  },
+  {
+    "word": "Tikintisinə",
+    "original_lemma": "Tikintisinə",
+    "new_lemma": "Tikinti"
+  },
+  {
+    "word": "incələmişdir",
+    "original_lemma": "incələmişdir",
+    "new_lemma": "incələ"
+  },
+  {
+    "word": "səpələnmişdir",
+    "original_lemma": "səpələnmişdir",
+    "new_lemma": "səpələn"
+  },
+  {
+    "word": "yatarmışdır",
+    "original_lemma": "yatarmışdır",
+    "new_lemma": "yatar"
+  },
+  {
+    "word": "çəkilməsinə",
+    "original_lemma": "çəkilməsinə",
+    "new_lemma": "çəkilmə"
+  },
+  {
+    "word": "Federasiyasına",
+    "original_lemma": "Federasiyasına",
+    "new_lemma": "Federasiya"
+  },
+  {
+    "word": "nöqtəsində",
+    "original_lemma": "nöqtəsində",
+    "new_lemma": "nöqtə"
+  },
+  {
+    "word": "bağçasında",
+    "original_lemma": "bağçasında",
+    "new_lemma": "bağça"
+  },
+  {
+    "word": "bağçasına",
+    "original_lemma": "bağçasına",
+    "new_lemma": "bağça"
+  },
+  {
+    "word": "Məhkəməsinə",
+    "original_lemma": "Məhkəməsinə",
+    "new_lemma": "Məhkəmə"
+  },
+  {
+    "word": "preambulasına",
+    "original_lemma": "preambulasına",
+    "new_lemma": "preambula"
+  },
+  {
+    "word": "poeziyasına",
+    "original_lemma": "poeziyasına",
+    "new_lemma": "poeziya"
+  },
+  {
+    "word": "hamısında",
+    "original_lemma": "hamısında",
+    "new_lemma": "hamı"
+  },
+  {
+    "word": "karyesında",
+    "original_lemma": "karyesında",
+    "new_lemma": "karye"
+  },
+  {
+    "word": "lirikasının",
+    "original_lemma": "lirikasının",
+    "new_lemma": "lirika"
+  },
+  {
+    "word": "ekspozisiyasına",
+    "original_lemma": "ekspozisiyasına",
+    "new_lemma": "ekspozisiya"
+  },
+  {
+    "word": "Şöbəsinə",
+    "original_lemma": "Şöbəsinə",
+    "new_lemma": "Şöbə"
+  },
+  {
+    "word": "Studiyasında",
+    "original_lemma": "Studiyasında",
+    "new_lemma": "Studiya"
+  },
+  {
+    "word": "düzəldilmişdir",
+    "original_lemma": "düzəldilmişdir",
+    "new_lemma": "düzəldil"
+  },
+  {
+    "word": "müqayisəsinə",
+    "original_lemma": "müqayisəsinə",
+    "new_lemma": "müqayisə"
+  },
+  {
+    "word": "familyasına",
+    "original_lemma": "familyasına",
+    "new_lemma": "familya"
+  },
+  {
+    "word": "Şurasına",
+    "original_lemma": "Şurasına",
+    "new_lemma": "Şura"
+  },
+  {
+    "word": "Firdovsinin",
+    "original_lemma": "Firdovsinin",
+    "new_lemma": "Firdov"
+  },
+  {
+    "word": "Bələdiyyəsinin",
+    "original_lemma": "Bələdiyyəsinin",
+    "new_lemma": "Bələdiyyə"
+  },
+  {
+    "word": "İmperiyasında",
+    "original_lemma": "İmperiyasında",
+    "new_lemma": "İmperiya"
+  },
+  {
+    "word": "ÜMM-sinin",
+    "original_lemma": "ÜMM-sinin",
+    "new_lemma": "ÜMM-"
+  },
+  {
+    "word": "ÜDM-sinə",
+    "original_lemma": "ÜDM-sinə",
+    "new_lemma": "ÜDM-"
+  },
+  {
+    "word": "tarixçəsinə",
+    "original_lemma": "tarixçəsinə",
+    "new_lemma": "tarixçə"
+  },
+  {
+    "word": "ilçəsinə",
+    "original_lemma": "ilçəsinə",
+    "new_lemma": "ilçə"
+  },
+  {
+    "word": "İspaniyasında",
+    "original_lemma": "İspaniyasında",
+    "new_lemma": "İspaniya"
+  },
+  {
+    "word": "Kitabxanasına",
+    "original_lemma": "Kitabxanasına",
+    "new_lemma": "Kitabxana"
+  },
+  {
+    "word": "Kitabxanasında",
+    "original_lemma": "Kitabxanasında",
+    "new_lemma": "Kitabxana"
+  },
+  {
+    "word": "mualicəsində",
+    "original_lemma": "mualicəsində",
+    "new_lemma": "mualicə"
+  },
+  {
+    "word": "Asambleyasının",
+    "original_lemma": "Asambleyasının",
+    "new_lemma": "Asambleya"
+  },
+  {
+    "word": "Prefekturasının",
+    "original_lemma": "Prefekturasının",
+    "new_lemma": "Prefektura"
+  },
+  {
+    "word": "liqasında",
+    "original_lemma": "liqasında",
+    "new_lemma": "liqa"
+  },
+  {
+    "word": "hədəfləmişdir",
+    "original_lemma": "hədəfləmişdir",
+    "new_lemma": "hədəflə"
+  },
+  {
+    "word": "ucaldılmışdır",
+    "original_lemma": "ucaldılmışdır",
+    "new_lemma": "ucaldıl" // wrong, must be ucal
+  },
+  {
+    "word": "eparxiyasının",
+    "original_lemma": "eparxiyasının",
+    "new_lemma": "eparxiya"
+  },
+  {
+    "word": "tökülməsinin",
+    "original_lemma": "tökülməsinin",
+    "new_lemma": "tökülmə" // wrong, must be tök
+  },
+  {
+    "word": "Komandasının",
+    "original_lemma": "Komandasının",
+    "new_lemma": "Komanda"
+  },
+  {
+    "word": "Komitəsinə",
+    "original_lemma": "Komitəsinə",
+    "new_lemma": "Komitə"
+  },
+  {
+    "word": "politikasının",
+    "original_lemma": "politikasının",
+    "new_lemma": "politika"
+  },
+  {
+    "word": "çevrilməmişdir",
+    "original_lemma": "çevrilməmişdir",
+    "new_lemma": "çevrilmə" // wrong, must be çevir
+  },
+  {
+    "word": "Müharibəsində",
+    "original_lemma": "Müharibəsində",
+    "new_lemma": "Müharibə"
+  },
+  {
+    "word": "Dinamosunun",
+    "original_lemma": "Dinamosunun",
+    "new_lemma": "Dinamo"
+  },
+  {
+    "word": "Alyansına",
+    "original_lemma": "Alyansına",
+    "new_lemma": "Alyan"
+  },
+  {
+    "word": "Almaniyasına",
+    "original_lemma": "Almaniyasına",
+    "new_lemma": "Almaniya"
+  },
+  {
+    "word": "Dairəsinin",
+    "original_lemma": "Dairəsinin",
+    "new_lemma": "Dairə"
+  },
+  {
+    "word": "fakultəsinə",
+    "original_lemma": "fakultəsinə",
+    "new_lemma": "fakultə"
+  },
+  {
+    "word": "cağırılmışdır",
+    "original_lemma": "cağırılmışdır",
+    "new_lemma": "cağırıl" // wrong, must be çağır
+  },
+  {
+    "word": "moizəsində",
+    "original_lemma": "moizəsində",
+    "new_lemma": "moizə"
+  },
+  {
+    "word": "Məclisində",
+    "original_lemma": "Məclisində",
+    "new_lemma": "Məcli"
+  },
+  {
+    "word": "xeyir-duasının",
+    "original_lemma": "xeyir-duasının",
+    "new_lemma": "xeyir-dua"
+  },
+  {
+    "word": "aşkarlanmasına",
+    "original_lemma": "aşkarlanmasına",
+    "new_lemma": "aşkarlanma" // wrong, must be aşkar
+  },
+  {
+    "word": "Oroqrafiyasına",
+    "original_lemma": "Oroqrafiyasına",
+    "new_lemma": "Oroqrafiya"
+  },
+  {
+    "word": "səhəsində",
+    "original_lemma": "səhəsində",
+    "new_lemma": "səhə"
+  },
+  {
+    "word": "yerləşmışdır",
+    "original_lemma": "yerləşmışdır",
+    "new_lemma": "yerləş"
+  },
+  {
+    "word": "ytuvasının",
+    "original_lemma": "ytuvasının",
+    "new_lemma": "ytuva"
+  },
+  {
+    "word": "Televiziyasının",
+    "original_lemma": "Televiziyasının",
+    "new_lemma": "Televiziya"
+  },
+  {
+    "word": "Radiosunun",
+    "original_lemma": "Radiosunun",
+    "new_lemma": "Radio"
+  },
+  {
+    "word": "şkalasının",
+    "original_lemma": "şkalasının",
+    "new_lemma": "şkala"
+  },
+  {
+    "word": "şkalasına",
+    "original_lemma": "şkalasına",
+    "new_lemma": "şkala"
+  },
+  {
+    "word": "şkalasında",
+    "original_lemma": "şkalasında",
+    "new_lemma": "şkala"
+  },
+  {
+    "word": "Bundesliqasında",
+    "original_lemma": "Bundesliqasında",
+    "new_lemma": "Bundesliqa"
+  },
+  {
+    "word": "Emreciksinin",
+    "original_lemma": "Emreciksinin",
+    "new_lemma": "Emrecik"
+  },
+  {
+    "word": "quber-niyasının",
+    "original_lemma": "quber-niyasının",
+    "new_lemma": "quber-niya"
+  },
+  {
+    "word": "qaçırılmışdır",
+    "original_lemma": "qaçırılmışdır",
+    "new_lemma": "qaçırıl"
+  },
+  {
+    "word": "arxivlənmişdir",
+    "original_lemma": "arxivlənmişdir",
+    "new_lemma": "arxivlən"
+  },
+  {
+    "word": "statstikasına",
+    "original_lemma": "statstikasına",
+    "new_lemma": "statstika"
+  },
+  {
+    "word": "magiyasının",
+    "original_lemma": "magiyasının",
+    "new_lemma": "magiya"
+  },
+  {
+    "word": "nöbəsində",
+    "original_lemma": "nöbəsində",
+    "new_lemma": "nöbə"
+  },
+  {
+    "word": "paradiqmasına",
+    "original_lemma": "paradiqmasına",
+    "new_lemma": "paradiqma"
+  },
+  {
+    "word": "tektonikasının",
+    "original_lemma": "tektonikasının",
+    "new_lemma": "tektonika"
+  },
+  {
+    "word": "yayımlamışdır",
+    "original_lemma": "yayımlamışdır",
+    "new_lemma": "yayımla" // wrong, must be yay
+  },
+  {
+    "word": "Ölkəsində",
+    "original_lemma": "Ölkəsində",
+    "new_lemma": "Ölkə"
+  },
+  {
+    "word": "tundrasına",
+    "original_lemma": "tundrasına",
+    "new_lemma": "tundra"
+  },
+  {
+    "word": "Platformasının",
+    "original_lemma": "Platformasının",
+    "new_lemma": "Platforma"
+  },
+  {
+    "word": "tetrasının",
+    "original_lemma": "tetrasının",
+    "new_lemma": "tetra"
+  },
+  {
+    "word": "Artilleriasına",
+    "original_lemma": "Artilleriasına",
+    "new_lemma": "Artilleria"
+  },
+  {
+    "word": "artilleriyasına",
+    "original_lemma": "artilleriyasına",
+    "new_lemma": "artilleriya"
+  },
+  {
+    "word": "əlkəsində",
+    "original_lemma": "əlkəsində",
+    "new_lemma": "əlkə"
+  },
+  {
+    "word": "konqresində",
+    "original_lemma": "konqresində",
+    "new_lemma": "konqre"
+  },
+  {
+    "word": "əs-Sənusinin",
+    "original_lemma": "əs-Sənusinin",
+    "new_lemma": "əs-Sənu"
+  },
+  {
+    "word": "yayımlanmasına",
+    "original_lemma": "yayımlanmasına",
+    "new_lemma": "yayımlanma"
+  },
+  {
+    "word": "Meselesinin",
+    "original_lemma": "Meselesinin",
+    "new_lemma": "Mesele"
+  },
+  {
+    "word": "Rütbəsinə",
+    "original_lemma": "Rütbəsinə",
+    "new_lemma": "Rütbə"
+  },
+  {
+    "word": "konqresinə",
+    "original_lemma": "konqresinə",
+    "new_lemma": "konqre"
+  },
+  {
+    "word": "müqaviləsində",
+    "original_lemma": "müqaviləsində",
+    "new_lemma": "müqavilə"
+  },
+  {
+    "word": "vəsiqəsində",
+    "original_lemma": "vəsiqəsində",
+    "new_lemma": "vəsiqə"
+  },
+  {
+    "word": "Fermasına",
+    "original_lemma": "Fermasına",
+    "new_lemma": "Ferma"
+  },
+  {
+    "word": "kateqoriyasında",
+    "original_lemma": "kateqoriyasında",
+    "new_lemma": "kateqoriya"
+  },
+  {
+    "word": "İşçisinin",
+    "original_lemma": "İşçisinin",
+    "new_lemma": "İşçi"
+  },
+  {
+    "word": "Biloksinin",
+    "original_lemma": "Biloksinin",
+    "new_lemma": "Bilok"
+  },
+  {
+    "word": "dərgisində",
+    "original_lemma": "dərgisində",
+    "new_lemma": "dərgi"
+  },
+  {
+    "word": "karyerasının",
+    "original_lemma": "karyerasının",
+    "new_lemma": "karyera"
+  },
+  {
+    "word": "sənayəsində",
+    "original_lemma": "sənayəsində",
+    "new_lemma": "sənayə"
+  },
+  {
+    "word": "stuadiyasının",
+    "original_lemma": "stuadiyasının",
+    "new_lemma": "stuadiya"
+  },
+  {
+    "word": "eidlmişdir",
+    "original_lemma": "eidlmişdir",
+    "new_lemma": "eidl"
+  },
+  {
+    "word": "tənzimləməsinə",
+    "original_lemma": "tənzimləməsinə",
+    "new_lemma": "tənzimləmə"
+  },
+  {
+    "word": "Kinosunun",
+    "original_lemma": "Kinosunun",
+    "new_lemma": "Kino"
+  },
+  {
+    "word": "slnmmışdır",
+    "original_lemma": "slnmmışdır",
+    "new_lemma": "slnm"
+  },
+  {
+    "word": "bəzisinin",
+    "original_lemma": "bəzisinin",
+    "new_lemma": "bəzi"
+  },
+  {
+    "word": "televizyasında",
+    "original_lemma": "televizyasında",
+    "new_lemma": "televizya"
+  },
+  {
+    "word": "musiqisində",
+    "original_lemma": "musiqisində",
+    "new_lemma": "musiqi"
+  },
+  {
+    "word": "musqisinin",
+    "original_lemma": "musqisinin",
+    "new_lemma": "musqi"
+  },
+  {
+    "word": "Konsepsiyasının",
+    "original_lemma": "Konsepsiyasının",
+    "new_lemma": "Konsepsiya"
+  },
+  {
+    "word": "Radasının",
+    "original_lemma": "Radasının",
+    "new_lemma": "Rada"
+  },
+  {
+    "word": "edilməməsinə",
+    "original_lemma": "edilməməsinə",
+    "new_lemma": "edilməmə"
+  },
+  {
+    "word": "müraribəsində",
+    "original_lemma": "müraribəsində",
+    "new_lemma": "müraribə"
+  },
+  {
+    "word": "Ekspertizasının",
+    "original_lemma": "Ekspertizasının",
+    "new_lemma": "Ekspertiza"
+  },
+  {
+    "word": "hesablanamışdır",
+    "original_lemma": "hesablanamışdır",
+    "new_lemma": "hesablana"
+  },
+  {
+    "word": "mediasının",
+    "original_lemma": "mediasının",
+    "new_lemma": "media"
+  },
+  {
+    "word": "fətvasına",
+    "original_lemma": "fətvasına",
+    "new_lemma": "fətva"
+  },
+  {
+    "word": "Konqresində",
+    "original_lemma": "Konqresində",
+    "new_lemma": "Konqre"
+  },
+  {
+    "word": "premyerasına",
+    "original_lemma": "premyerasına",
+    "new_lemma": "premyera"
+  },
+  {
+    "word": "götürməsinə",
+    "original_lemma": "götürməsinə",
+    "new_lemma": "götürmə"
+  },
+  {
+    "word": "konvensiyasının",
+    "original_lemma": "konvensiyasının",
+    "new_lemma": "konvensiya"
+  },
+  {
+    "word": "ata-babasının",
+    "original_lemma": "ata-babasının",
+    "new_lemma": "ata-baba"
+  },
+  {
+    "word": "ellipsisinə",
+    "original_lemma": "ellipsisinə",
+    "new_lemma": "ellipsi"
+  },
+  {
+    "word": "Gövdəsinin",
+    "original_lemma": "Gövdəsinin",
+    "new_lemma": "Gövdə"
+  },
+  {
+    "word": "Miqrasiyasının",
+    "original_lemma": "Miqrasiyasının",
+    "new_lemma": "Miqrasiya"
+  },
+  {
+    "word": "Dumasında",
+    "original_lemma": "Dumasında",
+    "new_lemma": "Duma"
+  },
+  {
+    "word": "inspeksiyasının",
+    "original_lemma": "inspeksiyasının",
+    "new_lemma": "inspeksiya"
+  },
+  {
+    "word": "Konfransının",
+    "original_lemma": "Konfransının",
+    "new_lemma": "Konfran"
+  },
+  {
+    "word": "Komissiyasına",
+    "original_lemma": "Komissiyasına",
+    "new_lemma": "Komissiya"
+  },
+  {
+    "word": "təcridxanasında",
+    "original_lemma": "təcridxanasında",
+    "new_lemma": "təcridxana"
+  },
+  {
+    "word": "çevrilməsinə",
+    "original_lemma": "çevrilməsinə",
+    "new_lemma": "çevrilmə"
+  },
+  {
+    "word": "əkilmişdir",
+    "original_lemma": "əkilmişdir",
+    "new_lemma": "əkil"
+  },
+  {
+    "word": "Olimpiadasında",
+    "original_lemma": "Olimpiadasında",
+    "new_lemma": "Olimpiada"
+  },
+  {
+    "word": "Olimpiadasının",
+    "original_lemma": "Olimpiadasının",
+    "new_lemma": "Olimpiada"
+  },
+  {
+    "word": "lojasına",
+    "original_lemma": "lojasına",
+    "new_lemma": "loja"
+  },
+  {
+    "word": "Lojasına",
+    "original_lemma": "Lojasına",
+    "new_lemma": "Loja"
+  },
+  {
+    "word": "mayasında",
+    "original_lemma": "mayasında",
+    "new_lemma": "maya"
+  },
+  {
+    "word": "təbəqəsinin",
+    "original_lemma": "təbəqəsinin",
+    "new_lemma": "təbəqə"
+  },
+  {
+    "word": "çevrilməsinin",
+    "original_lemma": "çevrilməsinin",
+    "new_lemma": "çevrilmə"
+  },
+  {
+    "word": "efilmişdir",
+    "original_lemma": "efilmişdir",
+    "new_lemma": "efil"
+  },
+  {
+    "word": "konvensiyasına",
+    "original_lemma": "konvensiyasına",
+    "new_lemma": "konvensiya"
+  },
+  {
+    "word": "Akademyasının",
+    "original_lemma": "Akademyasının",
+    "new_lemma": "Akademya"
+  },
+  {
+    "word": "nətiəclənmişdir",
+    "original_lemma": "nətiəclənmişdir",
+    "new_lemma": "nətiəclən"
+  },
+  {
+    "word": "Qalereyasında",
+    "original_lemma": "Qalereyasında",
+    "new_lemma": "Qalereya"
+  },
+  {
+    "word": "Bilgisinin",
+    "original_lemma": "Bilgisinin",
+    "new_lemma": "Bilgi"
+  },
+  {
+    "word": "sayısında",
+    "original_lemma": "sayısında",
+    "new_lemma": "sayı"
+  },
+  {
+    "word": "Bilgisində",
+    "original_lemma": "Bilgisində",
+    "new_lemma": "Bilgi"
+  },
+  {
+    "word": "sonlandırmışdır",
+    "original_lemma": "sonlandırmışdır",
+    "new_lemma": "sonlandır" // wrong, must be son
+  },
+  {
+    "word": "Yarmarkasının",
+    "original_lemma": "Yarmarkasının",
+    "new_lemma": "Yarmarka"
+  },
+  {
+    "word": "kompaniyasının",
+    "original_lemma": "kompaniyasının",
+    "new_lemma": "kompaniya"
+  },
+  {
+    "word": "Gildiyasının",
+    "original_lemma": "Gildiyasının",
+    "new_lemma": "Gildiya"
+  },
+  {
+    "word": "səhiyyəsinin",
+    "original_lemma": "səhiyyəsinin",
+    "new_lemma": "səhiyyə"
+  },
+  {
+    "word": "Superliqasının",
+    "original_lemma": "Superliqasının",
+    "new_lemma": "Superliqa"
+  },
+  {
+    "word": "Firenzesinin",
+    "original_lemma": "Firenzesinin",
+    "new_lemma": "Firenze"
+  },
+  {
+    "word": "Superliqasında",
+    "original_lemma": "Superliqasında",
+    "new_lemma": "Superliqa"
+  },
+  {
+    "word": "Ukraynasının",
+    "original_lemma": "Ukraynasının",
+    "new_lemma": "Ukrayna"
+  },
+  {
+    "word": "ab-havasına",
+    "original_lemma": "ab-havasına",
+    "new_lemma": "ab-hava"
+  },
+  {
+    "word": "sivrilməmişdir",
+    "original_lemma": "sivrilməmişdir",
+    "new_lemma": "sivrilmə" // wrong, must be sivr
+  },
+  {
+    "word": "gerisində",
+    "original_lemma": "gerisində",
+    "new_lemma": "geri"
+  },
+  {
+    "word": "Assosasiyasının",
+    "original_lemma": "Assosasiyasının",
+    "new_lemma": "Assosasiya"
+  },
+  {
+    "word": "karvansarasına",
+    "original_lemma": "karvansarasına",
+    "new_lemma": "karvansara"
+  },
+  {
+    "word": "xronikasında",
+    "original_lemma": "xronikasında",
+    "new_lemma": "xronika"
+  },
+  {
+    "word": "bəzədimişdir",
+    "original_lemma": "bəzədimişdir",
+    "new_lemma": "bəzədi"
+  },
+  {
+    "word": "Serbiyasının",
+    "original_lemma": "Serbiyasının",
+    "new_lemma": "Serbiya"
+  },
+  {
+    "word": "Xəstəxanasında",
+    "original_lemma": "Xəstəxanasında",
+    "new_lemma": "Xəstəxana"
+  },
+  {
+    "word": "təsdiqlənmişdir",
+    "original_lemma": "təsdiqlənmişdir",
+    "new_lemma": "təsdiqlən"
+  },
+  {
+    "word": "cərrahiyyəsində",
+    "original_lemma": "cərrahiyyəsində",
+    "new_lemma": "cərrahiyyə"
+  },
+  {
+    "word": "Feodosinin",
+    "original_lemma": "Feodosinin",
+    "new_lemma": "Feodo"
+  },
+  {
+    "word": "unudulmasında",
+    "original_lemma": "unudulmasında",
+    "new_lemma": "unudulma" // wrong, must be unut
+  },
+  {
+    "word": "hüceyrəsində",
+    "original_lemma": "hüceyrəsində",
+    "new_lemma": "hüceyrə"
+  },
+  {
+    "word": "populyasiyasına",
+    "original_lemma": "populyasiyasına",
+    "new_lemma": "populyasiya"
+  },
+  {
+    "word": "686-sının",
+    "original_lemma": "686-sının",
+    "new_lemma": "686-"
+  },
+  {
+    "word": "dərgisinin",
+    "original_lemma": "dərgisinin",
+    "new_lemma": "dərgi"
+  },
+  {
+    "word": "fakülətsinin",
+    "original_lemma": "fakülətsinin",
+    "new_lemma": "fakülət"
+  },
+  {
+    "word": "Mühafizəsinə",
+    "original_lemma": "Mühafizəsinə",
+    "new_lemma": "Mühafizə"
+  },
+  {
+    "word": "yayımlanmasının",
+    "original_lemma": "yayımlanmasının",
+    "new_lemma": "yayımlanma"
+  },
+  {
+    "word": "İkincisində",
+    "original_lemma": "İkincisində",
+    "new_lemma": "İkinci"
+  },
+  {
+    "word": "Sevgilisinin",
+    "original_lemma": "Sevgilisinin",
+    "new_lemma": "Sevgili"
+  },
+  {
+    "word": "liqasına",
+    "original_lemma": "liqasına",
+    "new_lemma": "liqa"
+  },
+  {
+    "word": "motivasiyasının",
+    "original_lemma": "motivasiyasının",
+    "new_lemma": "motivasiya"
+  },
+  {
+    "word": "Türkiyəsinin",
+    "original_lemma": "Türkiyəsinin",
+    "new_lemma": "Türkiyə"
+  },
+  {
+    "word": "Donanmasına",
+    "original_lemma": "Donanmasına",
+    "new_lemma": "Donanma"
+  },
+  {
+    "word": "Missiyasında",
+    "original_lemma": "Missiyasında",
+    "new_lemma": "Missiya"
+  },
+  {
+    "word": "Sahəsinə",
+    "original_lemma": "Sahəsinə",
+    "new_lemma": "Sahə"
+  },
+  {
+    "word": "törədmişdir",
+    "original_lemma": "törədmişdir",
+    "new_lemma": "törəd"
+  },
+  {
+    "word": "statusunun",
+    "original_lemma": "statusunun",
+    "new_lemma": "statu"
+  },
+  {
+    "word": "tənzimləməsinin",
+    "original_lemma": "tənzimləməsinin",
+    "new_lemma": "tənzimləmə" // wrong must be tənzim
+  },
+  {
+    "word": "çölləşməsinə",
+    "original_lemma": "çölləşməsinə",
+    "new_lemma": "çölləşmə" // wrong, must be çöl
+  },
+  {
+    "word": "pleyadasının",
+    "original_lemma": "pleyadasının",
+    "new_lemma": "pleyada"
+  },
+  {
+    "word": "poeziyasında",
+    "original_lemma": "poeziyasında",
+    "new_lemma": "poeziya"
+  },
+  {
+    "word": "tikilməsində",
+    "original_lemma": "tikilməsində",
+    "new_lemma": "tikilmə" // wrong, must be tik
+  },
+  {
+    "word": "Konvensiyasına",
+    "original_lemma": "Konvensiyasına",
+    "new_lemma": "Konvensiya"
+  },
+  {
+    "word": "Kilsəsinin",
+    "original_lemma": "Kilsəsinin",
+    "new_lemma": "Kilsə"
+  },
+  {
+    "word": "önşəkilçisinin",
+    "original_lemma": "önşəkilçisinin",
+    "new_lemma": "önşəkilçi"
+  },
+  {
+    "word": "surəsində",
+    "original_lemma": "surəsində",
+    "new_lemma": "surə"
+  },
+  {
+    "word": "Gimnaziyasında",
+    "original_lemma": "Gimnaziyasında",
+    "new_lemma": "Gimnaziya"
+  },
+  {
+    "word": "itirməmişdir",
+    "original_lemma": "itirməmişdir",
+    "new_lemma": "itirmə"
+  },
+  {
+    "word": "kafedrasinin",
+    "original_lemma": "kafedrasinin",
+    "new_lemma": "kafedra"
+  },
+  {
+    "word": "stabilləşməsinə",
+    "original_lemma": "stabilləşməsinə",
+    "new_lemma": "stabilləşmə" // wrong, must be stabil
+  },
+  {
+    "word": "yayınlanmışdır",
+    "original_lemma": "yayınlanmışdır",
+    "new_lemma": "yayınlan" // wrong, must be yay
+  },
+  {
+    "word": "judetsinin",
+    "original_lemma": "judetsinin",
+    "new_lemma": "judet"
+  },
+  {
+    "word": "kurulmasında",
+    "original_lemma": "kurulmasında",
+    "new_lemma": "kurulma"
+  },
+  {
+    "word": "öldurulməsində",
+    "original_lemma": "öldurulməsində",
+    "new_lemma": "öldurulmə" // wrong, must be öl
+  },
+  {
+    "word": "qəriyəsində",
+    "original_lemma": "qəriyəsində",
+    "new_lemma": "qəriyə"
+  },
+  {
+    "word": "Vücudnaməsində",
+    "original_lemma": "Vücudnaməsində",
+    "new_lemma": "Vücudnamə"
+  },
+  {
+    "word": "etnosunun",
+    "original_lemma": "etnosunun",
+    "new_lemma": "etno"
+  },
+  {
+    "word": "mərhəsində",
+    "original_lemma": "mərhəsində",
+    "new_lemma": "mərhə"
+  },
+  {
+    "word": "işlədilməsinə",
+    "original_lemma": "işlədilməsinə",
+    "new_lemma": "işlədilmə"
+  },
+  {
+    "word": "Məcəlləsinin",
+    "original_lemma": "Məcəlləsinin",
+    "new_lemma": "Məcəllə"
+  },
+  {
+    "word": "boşaldılmasında",
+    "original_lemma": "boşaldılmasında",
+    "new_lemma": "boşaldılma" // wrong, must be boş
+  },
+  {
+    "word": "tökülməsinə",
+    "original_lemma": "tökülməsinə",
+    "new_lemma": "tökülmə" // wrong, must be tök
+  },
+  {
+    "word": "siyahıalmasına",
+    "original_lemma": "siyahıalmasına",
+    "new_lemma": "siyahıalma"
+  },
+  {
+    "word": "korporasiyasına",
+    "original_lemma": "korporasiyasına",
+    "new_lemma": "korporasiya"
+  },
+  {
+    "word": "hərəsində",
+    "original_lemma": "hərəsində",
+    "new_lemma": "hərə"
+  },
+  {
+    "word": "Çuntsinin",
+    "original_lemma": "Çuntsinin",
+    "new_lemma": "Çunt"
+  },
+  {
+    "word": "Nizamnaməsinə",
+    "original_lemma": "Nizamnaməsinə",
+    "new_lemma": "Nizamnamə"
+  },
+  {
+    "word": "İndeksinin",
+    "original_lemma": "İndeksinin",
+    "new_lemma": "İndek"
+  },
+  {
+    "word": "sitoplazmasına",
+    "original_lemma": "sitoplazmasına",
+    "new_lemma": "sitoplazma"
+  },
+  {
+    "word": "induksiyasına",
+    "original_lemma": "induksiyasına",
+    "new_lemma": "induksiya"
+  },
+  {
+    "word": "funsiyasının",
+    "original_lemma": "funsiyasının",
+    "new_lemma": "funsiya"
+  },
+  {
+    "word": "Yaradılmasında",
+    "original_lemma": "Yaradılmasında",
+    "new_lemma": "Yaradılma" // wrong, must be yar
+  },
+  {
+    "word": "şorbasının",
+    "original_lemma": "şorbasının",
+    "new_lemma": "şorba"
+  },
+  {
+    "word": "sahilboyusunun",
+    "original_lemma": "sahilboyusunun",
+    "new_lemma": "sahilboyu"
+  },
+  {
+    "word": "komiksində",
+    "original_lemma": "komiksində",
+    "new_lemma": "komik"
+  },
+  {
+    "word": "Şöbəsində",
+    "original_lemma": "Şöbəsində",
+    "new_lemma": "Şöbə"
+  },
+  {
+    "word": "fəzifəsinə",
+    "original_lemma": "fəzifəsinə",
+    "new_lemma": "fəzifə"
+  },
+  {
+    "word": "vəzlfəsinə",
+    "original_lemma": "vəzlfəsinə",
+    "new_lemma": "vəzlfə"
+  },
+  {
+    "word": "çəxmasına",
+    "original_lemma": "çəxmasına",
+    "new_lemma": "çəxma"
+  },
+  {
+    "word": "Xalasına",
+    "original_lemma": "Xalasına",
+    "new_lemma": "Xala"
+  },
+  {
+    "word": "seksiyasının",
+    "original_lemma": "seksiyasının",
+    "new_lemma": "seksiya"
+  },
+  {
+    "word": "əasasında",
+    "original_lemma": "əasasında",
+    "new_lemma": "əasa"
+  },
+  {
+    "word": "Donanmasında",
+    "original_lemma": "Donanmasında",
+    "new_lemma": "Donanma"
+  },
+  {
+    "word": "Mühafizəsinin",
+    "original_lemma": "Mühafizəsinin",
+    "new_lemma": "Mühafizə"
+  },
+  {
+    "word": "Koloniyasında",
+    "original_lemma": "Koloniyasında",
+    "new_lemma": "Koloniya"
+  },
+  {
+    "word": "Müəssisəsində",
+    "original_lemma": "Müəssisəsində",
+    "new_lemma": "Müəssisə"
+  },
+  {
+    "word": "haubitsasının",
+    "original_lemma": "haubitsasının",
+    "new_lemma": "haubitsa"
+  },
+  {
+    "word": "Seriyasında",
+    "original_lemma": "Seriyasında",
+    "new_lemma": "Seriya"
+  },
+  {
+    "word": "təxliyyəsində",
+    "original_lemma": "təxliyyəsində",
+    "new_lemma": "təxliyyə"
+  },
+  {
+    "word": "Bazilikasının",
+    "original_lemma": "Bazilikasının",
+    "new_lemma": "Bazilika"
+  },
+  {
+    "word": "Bazilikasında",
+    "original_lemma": "Bazilikasında",
+    "new_lemma": "Bazilika"
+  },
+  {
+    "word": "darülhədisinə",
+    "original_lemma": "darülhədisinə",
+    "new_lemma": "darülhədi"
+  },
+  {
+    "word": "yüksəltmişdir",
+    "original_lemma": "yüksəltmişdir",
+    "new_lemma": "yüksəlt"
+  },
+  {
+    "word": "Assambleyasında",
+    "original_lemma": "Assambleyasında",
+    "new_lemma": "Assambleya"
+  },
+  {
+    "word": "Qvardiyasının",
+    "original_lemma": "Qvardiyasının",
+    "new_lemma": "Qvardiya"
+  },
+  {
+    "word": "seriasında",
+    "original_lemma": "seriasında",
+    "new_lemma": "seria"
+  },
+  {
+    "word": "Strategiyasına",
+    "original_lemma": "Strategiyasına",
+    "new_lemma": "Strategiya"
+  },
+  {
+    "word": "miqyasına",
+    "original_lemma": "miqyasına",
+    "new_lemma": "miqya"
+  },
+  {
+    "word": "Nizamnaməsinin",
+    "original_lemma": "Nizamnaməsinin",
+    "new_lemma": "Nizamnamə"
+  },
+  {
+    "word": "Akayesunun",
+    "original_lemma": "Akayesunun",
+    "new_lemma": "Akaye"
+  },
+  {
+    "word": "mediasına",
+    "original_lemma": "mediasına",
+    "new_lemma": "media"
+  },
+  {
+    "word": "İtaliyasında",
+    "original_lemma": "İtaliyasında",
+    "new_lemma": "İtaliya"
+  },
+  {
+    "word": "Dünyasının",
+    "original_lemma": "Dünyasının",
+    "new_lemma": "Dünya"
+  },
+  {
+    "word": "yozulmasına",
+    "original_lemma": "yozulmasına",
+    "new_lemma": "yozulma" // wrong, must be yoz
+  },
+  {
+    "word": "düşərqəsində",
+    "original_lemma": "düşərqəsində",
+    "new_lemma": "düşərqə"
+  },
+  {
+    "word": "üsulidarəsinin",
+    "original_lemma": "üsulidarəsinin",
+    "new_lemma": "üsulidarə"
+  },
+  {
+    "word": "repressiyasının",
+    "original_lemma": "repressiyasının",
+    "new_lemma": "repressiya"
+  },
+  {
+    "word": "olumasının",
+    "original_lemma": "olumasının",
+    "new_lemma": "oluma"
+  },
+  {
+    "word": "Respublikasinin",
+    "original_lemma": "Respublikasinin",
+    "new_lemma": "Respublika"
+  },
+  {
+    "word": "Dairəsində",
+    "original_lemma": "Dairəsində",
+    "new_lemma": "Dairə"
+  },
+  {
+    "word": "müəssəsinin",
+    "original_lemma": "müəssəsinin",
+    "new_lemma": "müəssə"
+  },
+  {
+    "word": "yükslmişdir",
+    "original_lemma": "yükslmişdir",
+    "new_lemma": "yüksl"
+  },
+  {
+    "word": "teoqoniyasına",
+    "original_lemma": "teoqoniyasına",
+    "new_lemma": "teoqoniya"
+  },
+  {
+    "word": "Komissiyasında",
+    "original_lemma": "Komissiyasında",
+    "new_lemma": "Komissiya"
+  },
+  {
+    "word": "göstəmişdir",
+    "original_lemma": "göstəmişdir",
+    "new_lemma": "göstə"
+  },
+  {
+    "word": "koalisiyasına",
+    "original_lemma": "koalisiyasına",
+    "new_lemma": "koalisiya"
+  },
+  {
+    "word": "partladılmışdır",
+    "original_lemma": "partladılmışdır",
+    "new_lemma": "partladıl"  // wrong, must be partla?????
+  },
+  {
+    "word": "təsdiqləmişdir",
+    "original_lemma": "təsdiqləmişdir",
+    "new_lemma": "təsdiqlə" // wrong, must be təsdiq
+  },
+  {
+    "word": "açıqlanımışdır",
+    "original_lemma": "açıqlanımışdır",
+    "new_lemma": "açıqlanı" // wrong, must be açıq
+  },
+  {
+    "word": "Qarşısının",
+    "original_lemma": "Qarşısının",
+    "new_lemma": "Qarşı"
+  },
+  {
+    "word": "Müqaviləsinin",
+    "original_lemma": "Müqaviləsinin",
+    "new_lemma": "Müqavilə"
+  },
+  {
+    "word": "toponimiyasında",
+    "original_lemma": "toponimiyasında",
+    "new_lemma": "toponimiya"
+  },
+  {
+    "word": "hözəsinə",
+    "original_lemma": "hözəsinə",
+    "new_lemma": "hözə"
+  },
+  {
+    "word": "bitirilmişdir",
+    "original_lemma": "bitirilmişdir",
+    "new_lemma": "bitiril"
+  },
+  {
+    "word": "görulmüşdür",
+    "original_lemma": "görulmüşdür",
+    "new_lemma": "görul"
+  },
+  {
+    "word": "oturdulmuşdur",
+    "original_lemma": "oturdulmuşdur",
+    "new_lemma": "oturdul" // wrong, must be otur
+  },
+  {
+    "word": "harasında",
+    "original_lemma": "harasında",
+    "new_lemma": "hara"
+  },
+  {
+    "word": "saqasında",
+    "original_lemma": "saqasında",
+    "new_lemma": "saqa"
+  },
+  {
+    "word": "notasiyasına",
+    "original_lemma": "notasiyasına",
+    "new_lemma": "notasiya"
+  },
+  {
+    "word": "notasiyasında",
+    "original_lemma": "notasiyasında",
+    "new_lemma": "notasiya"
+  },
+  {
+    "word": "vərəqəsində",
+    "original_lemma": "vərəqəsində",
+    "new_lemma": "vərəqə"
+  },
+  {
+    "word": "yayımcısının",
+    "original_lemma": "yayımcısının",
+    "new_lemma": "yayımcı"
+  },
+  {
+    "word": "öyrətmişdir",
+    "original_lemma": "öyrətmişdir",
+    "new_lemma": "öyrət"
+  },
+  {
+    "word": "keçilirmişdir",
+    "original_lemma": "keçilirmişdir",
+    "new_lemma": "keçilir"  // wrong, must be keç
+  },
+  {
+    "word": "çoxağızlısının",
+    "original_lemma": "çoxağızlısının",
+    "new_lemma": "çoxağızlı"
+  },
+  {
+    "word": "enliləşmişdir",
+    "original_lemma": "enliləşmişdir",
+    "new_lemma": "enliləş" // wrong, must be en
+  },
+  {
+    "word": "Leksikasına",
+    "original_lemma": "Leksikasına",
+    "new_lemma": "Leksika"
+  },
+  {
+    "word": "resursunun",
+    "original_lemma": "resursunun",
+    "new_lemma": "resur" // wrong, must be resurs
+  },
+  {
+    "word": "Sərgisində",
+    "original_lemma": "Sərgisində",
+    "new_lemma": "Sərgi"
+  },
+  {
+    "word": "Biennalesində",
+    "original_lemma": "Biennalesində",
+    "new_lemma": "Biennale"
+  },
+  {
+    "word": "Slavinasında",
+    "original_lemma": "Slavinasında",
+    "new_lemma": "Slavina"
+  },
+  {
+    "word": "karvansarasının",
+    "original_lemma": "karvansarasının",
+    "new_lemma": "karvansara"
+  },
+  {
+    "word": "müasbiqəsində",
+    "original_lemma": "müasbiqəsində",
+    "new_lemma": "müasbiqə" // wrong: original word is wrong, must be müsabiqəsində, and the lemma must be müsabiqə
+  },
+  {
+    "word": "Polisində",
+    "original_lemma": "Polisində",
+    "new_lemma": "Poli"
+  },
+  {
+    "word": "yaşqmışdır",
+    "original_lemma": "yaşqmışdır",
+    "new_lemma": "yaşq" // wrong: original word is wrong, must be deleted
+  },
+  {
+    "word": "finksiyasının",
+    "original_lemma": "finksiyasının",
+    "new_lemma": "finksiya" // wrong, original word is wrong, must be funksiyasının, and the lemma must be funksiya
+  },
+  {
+    "word": "kazarmasında",
+    "original_lemma": "kazarmasında",
+    "new_lemma": "kazarma"
+  },
+  {
+    "word": "animesinin",
+    "original_lemma": "animesinin",
+    "new_lemma": "anime"
+  },
+  {
+    "word": "Konvensiyasında",
+    "original_lemma": "Konvensiyasında",
+    "new_lemma": "Konvensiya"
+  },
+  {
+    "word": "İçərisinə",
+    "original_lemma": "İçərisinə",
+    "new_lemma": "İçəri" // wrong, must be iç
+  },
+  {
+    "word": "Kürəsinin",
+    "original_lemma": "Kürəsinin",
+    "new_lemma": "Kürə"
+  },
+  {
+    "word": "Təşəbbüsünün",
+    "original_lemma": "Təşəbbüsünün",
+    "new_lemma": "Təşəbbü" // wrong, must be Təşəbbüs
+  },
+  {
+    "word": "Layihəsinin",
+    "original_lemma": "Layihəsinin",
+    "new_lemma": "Layihə"
+  },
+  {
+    "word": "mühafazasının",
+    "original_lemma": "mühafazasının",
+    "new_lemma": "mühafaza"
+  },
+  {
+    "word": "təbəqəsinə",
+    "original_lemma": "təbəqəsinə",
+    "new_lemma": "təbəqə"
+  },
+  {
+    "word": "Ekspedisiyasına",
+    "original_lemma": "Ekspedisiyasına",
+    "new_lemma": "Ekspedisiya"
+  },
+  {
+    "word": "Karyerasının",
+    "original_lemma": "Karyerasının",
+    "new_lemma": "Karyera"
+  },
+  {
+    "word": "Debüssinin",
+    "original_lemma": "Debüssinin",
+    "new_lemma": "Debüs"
+  },
+  {
+    "word": "Şahzadəsinin",
+    "original_lemma": "Şahzadəsinin",
+    "new_lemma": "Şahzadə"
+  },
+  {
+    "word": "Qalereyasına",
+    "original_lemma": "Qalereyasına",
+    "new_lemma": "Qalereya"
+  },
+  {
+    "word": "rodusunun",
+    "original_lemma": "rodusunun",
+    "new_lemma": "rodu"
+  },
+  {
+    "word": "külliyəsində",
+    "original_lemma": "külliyəsində",
+    "new_lemma": "külliyə"
+  },
+  {
+    "word": "bölüşmüşdür",
+    "original_lemma": "bölüşmüşdür",
+    "new_lemma": "bölüş" // wrong, must be böl
+  },
+  {
+    "word": "əlyazısında",
+    "original_lemma": "əlyazısında",
+    "new_lemma": "əlyazı"
+  },
+  {
+    "word": "əlihbasının",
+    "original_lemma": "əlihbasının",
+    "new_lemma": "əlihba"
+  },
+  {
+    "word": "primyerasında",
+    "original_lemma": "primyerasında",
+    "new_lemma": "primyera"
+  },
+  {
+    "word": "paradoksunun",
+    "original_lemma": "paradoksunun",
+    "new_lemma": "paradok"
+  },
+  {
+    "word": "şürasının",
+    "original_lemma": "şürasının",
+    "new_lemma": "şüra"
+  },
+  {
+    "word": "yarımadsının",
+    "original_lemma": "yarımadsının",
+    "new_lemma": "yarımad"
+  },
+  {
+    "word": "məqbərəsinin",
+    "original_lemma": "məqbərəsinin",
+    "new_lemma": "məqbərə"
+  },
+  {
+    "word": "kmitəsinin",
+    "original_lemma": "kmitəsinin",
+    "new_lemma": "kmitə"
+  },
+  {
+    "word": "cəmisinə",
+    "original_lemma": "cəmisinə",
+    "new_lemma": "cəmi"
+  },
+  {
+    "word": "sülasəsinin",
+    "original_lemma": "sülasəsinin",
+    "new_lemma": "sülasə"
+  },
+  {
+    "word": "Yarışmasının",
+    "original_lemma": "Yarışmasının",
+    "new_lemma": "Yarışma"
+  },
+  {
+    "word": "flamasının",
+    "original_lemma": "flamasının",
+    "new_lemma": "flama"
+  },
+  {
+    "word": "əqidəsində",
+    "original_lemma": "əqidəsində",
+    "new_lemma": "əqidə"
+  },
+  {
+    "word": "apologiyasına",
+    "original_lemma": "apologiyasına",
+    "new_lemma": "apologiya"
+  },
+  {
+    "word": "əqidəsinin",
+    "original_lemma": "əqidəsinin",
+    "new_lemma": "əqidə"
+  },
+  {
+    "word": "Larmessinin",
+    "original_lemma": "Larmessinin",
+    "new_lemma": "Larmes"
+  },
+  {
+    "word": "mənasının",
+    "original_lemma": "mənasının",
+    "new_lemma": "məna"
+  },
+  {
+    "word": "müdəfiəsində",
+    "original_lemma": "müdəfiəsində",
+    "new_lemma": "müdəfiə"
+  },
+  {
+    "word": "Karyerasına",
+    "original_lemma": "Karyerasına",
+    "new_lemma": "Karyera"
+  },
+  {
+    "word": "möhkəmlətmişdir",
+    "original_lemma": "möhkəmlətmişdir",
+    "new_lemma": "möhkəmlət" // wrong, must be möhkəm
+  },
+  {
+    "word": "fakuitəsinin",
+    "original_lemma": "fakuitəsinin",
+    "new_lemma": "fakuitə" // wrong: original word is wrong, must be fakültəsinin, and the lemma must be fakültə
+  },
+  {
+    "word": "Polisinin",
+    "original_lemma": "Polisinin",
+    "new_lemma": "Poli"
+  },
+  {
+    "word": "marksiscəsinə",
+    "original_lemma": "marksiscəsinə",
+    "new_lemma": "marksiscə"
+  },
+  {
+    "word": "Hövzəsində",
+    "original_lemma": "Hövzəsində",
+    "new_lemma": "Hövzə"
+  },
+  {
+    "word": "Donamasına",
+    "original_lemma": "Donamasına",
+    "new_lemma": "Donama"
+  },
+  {
+    "word": "heraldikasında",
+    "original_lemma": "heraldikasında",
+    "new_lemma": "heraldika"
+  },
+  {
+    "word": "Seminariyasının",
+    "original_lemma": "Seminariyasının",
+    "new_lemma": "Seminariya"
+  },
+  {
+    "word": "Seminariyasına",
+    "original_lemma": "Seminariyasına",
+    "new_lemma": "Seminariya"
+  },
+  {
+    "word": "ordasının",
+    "original_lemma": "ordasının",
+    "new_lemma": "orda"
+  },
+  {
+    "word": "livasının",
+    "original_lemma": "livasının",
+    "new_lemma": "liva"
+  },
+  {
+    "word": "nahiyyəsinə",
+    "original_lemma": "nahiyyəsinə",
+    "new_lemma": "nahiyyə"
+  },
+  {
+    "word": "səviyəsində",
+    "original_lemma": "səviyəsində",
+    "new_lemma": "səviyə"
+  },
+  {
+    "word": "boşldılmışdır",
+    "original_lemma": "boşldılmışdır",
+    "new_lemma": "boşldıl" // wrong, original word is wrong, must be boşaldılmışdır, and the lemma must be boş
+  },
+  {
+    "word": "zəiflədilməsinə",
+    "original_lemma": "zəiflədilməsinə",
+    "new_lemma": "zəiflədilmə" // wrong, must be zəif
+  },
+  {
+    "word": "emfizemasının",
+    "original_lemma": "emfizemasının",
+    "new_lemma": "emfizema"
+  },
+  {
+    "word": "əl-Qeysinin",
+    "original_lemma": "əl-Qeysinin",
+    "new_lemma": "əl-Qey"
+  },
+  {
+    "word": "İkiçayarasında",
+    "original_lemma": "İkiçayarasında",
+    "new_lemma": "İkiçayara"
+  },
+  {
+    "word": "İkiçayarasının",
+    "original_lemma": "İkiçayarasının",
+    "new_lemma": "İkiçayara"
+  },
+  {
+    "word": "əngəllənmişdir",
+    "original_lemma": "əngəllənmişdir",
+    "new_lemma": "əngəllən" // wrong, must be əngəl
+  },
+  {
+    "word": "Fransasına",
+    "original_lemma": "Fransasına",
+    "new_lemma": "Fransa"
+  },
+  {
+    "word": "geometriyasının",
+    "original_lemma": "geometriyasının",
+    "new_lemma": "geometriya"
+  },
+  {
+    "word": "Mədrəsəsində",
+    "original_lemma": "Mədrəsəsində",
+    "new_lemma": "Mədrəsə"
+  },
+  {
+    "word": "vəsifəsində",
+    "original_lemma": "vəsifəsində",
+    "new_lemma": "vəsifə"
+  },
+  {
+    "word": "pillələsində",
+    "original_lemma": "pillələsində",
+    "new_lemma": "pillələ" // wrong, must be pillə
+  },
+  {
+    "word": "tikilməsinin",
+    "original_lemma": "tikilməsinin",
+    "new_lemma": "tikilmə" // wrong, must be tik
+  },
+  {
+    "word": "Mehmanxanasında",
+    "original_lemma": "Mehmanxanasında",
+    "new_lemma": "Mehmanxana"
+  },
+  {
+    "word": "Palatasında",
+    "original_lemma": "Palatasında",
+    "new_lemma": "Palata"
+  },
+  {
+    "word": "Olimpiadasına",
+    "original_lemma": "Olimpiadasına",
+    "new_lemma": "Olimpiada"
+  },
+  {
+    "word": "çarisasına",
+    "original_lemma": "çarisasına",
+    "new_lemma": "çarisa"
+  },
+  {
+    "word": "Məhkəməsində",
+    "original_lemma": "Məhkəməsində",
+    "new_lemma": "Məhkəmə"
+  },
+  {
+    "word": "dosiyesinin",
+    "original_lemma": "dosiyesinin",
+    "new_lemma": "dosiye"
+  },
+  {
+    "word": "pandemiyasının",
+    "original_lemma": "pandemiyasının",
+    "new_lemma": "pandemiya"
+  },
+  {
+    "word": "mövqelənmişdir",
+    "original_lemma": "mövqelənmişdir",
+    "new_lemma": "mövqelən"
+  },
+  {
+    "word": "Diktaturasının",
+    "original_lemma": "Diktaturasının",
+    "new_lemma": "Diktatura"
+  },
+  {
+    "word": "Qalasının",
+    "original_lemma": "Qalasının",
+    "new_lemma": "Qala"
+  },
+  {
+    "word": "oxutdurmuşdur",
+    "original_lemma": "oxutdurmuşdur",
+    "new_lemma": "oxutdur"
+  },
+  {
+    "word": "yabgusunun",
+    "original_lemma": "yabgusunun",
+    "new_lemma": "yabgu"
+  },
+  {
+    "word": "işarələnmişdir",
+    "original_lemma": "işarələnmişdir",
+    "new_lemma": "işarələn" // wrong, must be işarə
+  },
+  {
+    "word": "çerilmişdir",
+    "original_lemma": "çerilmişdir",
+    "new_lemma": "çeril" // wrong, original word is wrong, must be çəkilmişdir, and the lemma must be çək
+  },
+  {
+    "word": "ereksiyasının",
+    "original_lemma": "ereksiyasının",
+    "new_lemma": "ereksiya"
+  },
+  {
+    "word": "ereksiyasında",
+    "original_lemma": "ereksiyasında",
+    "new_lemma": "ereksiya"
+  },
+  {
+    "word": "azaldmışdır",
+    "original_lemma": "azaldmışdır",
+    "new_lemma": "azald" // wrong, must be az
+  },
+  {
+    "word": "komissyasının",
+    "original_lemma": "komissyasının",
+    "new_lemma": "komissya"
+  },
+  {
+    "word": "ərzisində",
+    "original_lemma": "ərzisində",
+    "new_lemma": "ərzi" // wrong, must be deleted
+  },
+  {
+    "word": "Şəbəkəsinə",
+    "original_lemma": "Şəbəkəsinə",
+    "new_lemma": "Şəbəkə"
+  },
+  {
+    "word": "politbürosunun",
+    "original_lemma": "politbürosunun",
+    "new_lemma": "politbüro"
+  },
+  {
+    "word": "həlqəsinin",
+    "original_lemma": "həlqəsinin",
+    "new_lemma": "həlqə"
+  },
+  {
+    "word": "üdəbasına",
+    "original_lemma": "üdəbasına",
+    "new_lemma": "üdəba"
+  },
+  {
+    "word": "Müjdəsinin",
+    "original_lemma": "Müjdəsinin",
+    "new_lemma": "Müjdə"
+  },
+  {
+    "word": "Partiyasında",
+    "original_lemma": "Partiyasında",
+    "new_lemma": "Partiya"
+  },
+  {
+    "word": "Assambleyasının",
+    "original_lemma": "Assambleyasının",
+    "new_lemma": "Assambleya"
+  },
+  {
+    "word": "Abbasinin",
+    "original_lemma": "Abbasinin",
+    "new_lemma": "Abba"
+  },
+  {
+    "word": "avroseriyasının",
+    "original_lemma": "avroseriyasının",
+    "new_lemma": "avroseriya"
+  },
+  {
+    "word": "Kəlləsinin",
+    "original_lemma": "Kəlləsinin",
+    "new_lemma": "Kəllə"
+  },
+  {
+    "word": "keçirtmişdir",
+    "original_lemma": "keçirtmişdir",
+    "new_lemma": "keçirt"
+  },
+  {
+    "word": "meriyasına",
+    "original_lemma": "meriyasına",
+    "new_lemma": "meriya"
+  },
+  {
+    "word": "briqadasına",
+    "original_lemma": "briqadasına",
+    "new_lemma": "briqada"
+  },
+  {
+    "word": "kobudcasına",
+    "original_lemma": "kobudcasına",
+    "new_lemma": "kobudca"
+  },
+  {
+    "word": "faktoriyasının",
+    "original_lemma": "faktoriyasının",
+    "new_lemma": "faktoriya"
+  },
+  {
+    "word": "Gövdəsində",
+    "original_lemma": "Gövdəsində",
+    "new_lemma": "Gövdə"
+  },
+  {
+    "word": "Fakültəsinə",
+    "original_lemma": "Fakültəsinə",
+    "new_lemma": "Fakültə"
+  },
+  {
+    "word": "sərgilənmişdir",
+    "original_lemma": "sərgilənmişdir",
+    "new_lemma": "sərgilən" // wrong, must be sərgi
+  },
+  {
+    "word": "şabalıdsinə",
+    "original_lemma": "şabalıdsinə",
+    "new_lemma": "şabalıd"
+  },
+  {
+    "word": "qaramtılsinə",
+    "original_lemma": "qaramtılsinə",
+    "new_lemma": "qaramtıl"
+  },
+  {
+    "word": "şeirləşmişdir",
+    "original_lemma": "şeirləşmişdir",
+    "new_lemma": "şeirləş"
+  },
+  {
+    "word": "Yaponiyasında",
+    "original_lemma": "Yaponiyasında",
+    "new_lemma": "Yaponiya"
+  },
+  {
+    "word": "edərcəsinə",
+    "original_lemma": "edərcəsinə",
+    "new_lemma": "edərcə" // wrong, must be et
+  },
+  {
+    "word": "Liviyasına",
+    "original_lemma": "Liviyasına",
+    "new_lemma": "Liviya"
+  },
+  {
+    "word": "periferiyasının",
+    "original_lemma": "periferiyasının",
+    "new_lemma": "periferiya"
+  },
+  {
+    "word": "məskunlaşmasına",
+    "original_lemma": "məskunlaşmasına",
+    "new_lemma": "məskunlaşma" // wrong, must be məskun
+  },
+  {
+    "word": "müqəddəsinin",
+    "original_lemma": "müqəddəsinin",
+    "new_lemma": "müqəddə"
+  },
+  {
+    "word": "Monarxiyasının",
+    "original_lemma": "Monarxiyasının",
+    "new_lemma": "Monarxiya" // wrong, must be Monarx
+  },
+  {
+    "word": "İndeksinə",
+    "original_lemma": "İndeksinə",
+    "new_lemma": "İndek"
+  },
+  {
+    "word": "nöqtəsinin",
+    "original_lemma": "nöqtəsinin",
+    "new_lemma": "nöqtə"
+  },
+  {
+    "word": "sahasində",
+    "original_lemma": "sahasində",
+    "new_lemma": "saha"
+  },
+  {
+    "word": "tədqiqatçısının",
+    "original_lemma": "tədqiqatçısının",
+    "new_lemma": "tədqiqatçı" // wrong, must be tədqiq
+  },
+  {
+    "word": "Barəsində",
+    "original_lemma": "Barəsində",
+    "new_lemma": "Barə"
+  },
+  {
+    "word": "siyrilməsinin",
+    "original_lemma": "siyrilməsinin",
+    "new_lemma": "siyrilmə" // wrong, must be siyir
+  },
+  {
+    "word": "silkələnməsinin",
+    "original_lemma": "silkələnməsinin",
+    "new_lemma": "silkələnmə" // wrong, must be silkəl
+  },
+  {
+    "word": "müsabiqəsinə",
+    "original_lemma": "müsabiqəsinə",
+    "new_lemma": "müsabiqə"
+  },
+  {
+    "word": "oyananılmışdır",
+    "original_lemma": "oyananılmışdır",
+    "new_lemma": "oyananıl" // wrong, must be oyan
+  },
+  {
+    "word": "aktuallaşmışdır",
+    "original_lemma": "aktuallaşmışdır",
+    "new_lemma": "aktuallaş" // wrong, must be aktuall
+  },
+  {
+    "word": "sayısına",
+    "original_lemma": "sayısına",
+    "new_lemma": "sayı"
+  },
+  {
+    "word": "Lİqasının",
+    "original_lemma": "Lİqasının",
+    "new_lemma": "Lİqa"
+  },
+  {
+    "word": "sektasına",
+    "original_lemma": "sektasına",
+    "new_lemma": "sekta"
+  },
+  {
+    "word": "yaradılmamışdır",
+    "original_lemma": "yaradılmamışdır",
+    "new_lemma": "yaradılma" // fixxx???
+  },
+  {
+    "word": "Kompaniyasının",
+    "original_lemma": "Kompaniyasının",
+    "new_lemma": "Kompaniya"
+  },
+  {
+    "word": "tökülmüşdür",
+    "original_lemma": "tökülmüşdür",
+    "new_lemma": "tökül" // wrong, must be tök
+  },
+  {
+    "word": "yekunlaşmışdır",
+    "original_lemma": "yekunlaşmışdır",
+    "new_lemma": "yekunlaş" // wrong, must be yekun
+  },
+  {
+    "word": "Karyerasında",
+    "original_lemma": "Karyerasında",
+    "new_lemma": "Karyera"
+  },
+  {
+    "word": "qaçırılmasında",
+    "original_lemma": "qaçırılmasında",
+    "new_lemma": "qaçırılma" // wrong, must be qaç
+  },
+  {
+    "word": "hibiskusunun",
+    "original_lemma": "hibiskusunun",
+    "new_lemma": "hibisku"
+  },
+  {
+    "word": "laşdırmışdır",
+    "original_lemma": "laşdırmışdır",
+    "new_lemma": "laşdır" // wrong, word is incorrect, must be deleted completely
+  },
+  {
+    "word": "açıqlmasında",
+    "original_lemma": "açıqlmasında",
+    "new_lemma": "açıqlma" // wrong, must be açıq
+  },
+  {
+    "word": "ucaldırılmışdır",
+    "original_lemma": "ucaldırılmışdır",
+    "new_lemma": "ucaldırıl" // wrong, must be uca
+  },
+  {
+    "word": "təjrübəsində",
+    "original_lemma": "təjrübəsində",
+    "new_lemma": "təjrübə"
+  },
+  {
+    "word": "medyesinə",
+    "original_lemma": "medyesinə",
+    "new_lemma": "medye"
+  },
+  {
+    "word": "qaçırılmasının",
+    "original_lemma": "qaçırılmasının",
+    "new_lemma": "qaçırılma"
+  },
+  {
+    "word": "klinikasına",
+    "original_lemma": "klinikasına",
+    "new_lemma": "klinika"
+  },
+  {
+    "word": "franşizasının",
+    "original_lemma": "franşizasının",
+    "new_lemma": "franşiza"
+  },
+  {
+    "word": "butkasına",
+    "original_lemma": "butkasına",
+    "new_lemma": "butka"
+  },
+  {
+    "word": "Ölkəsinə",
+    "original_lemma": "Ölkəsinə",
+    "new_lemma": "Ölkə"
+  },
+  {
+    "word": "mollaxanasında",
+    "original_lemma": "mollaxanasında",
+    "new_lemma": "mollaxana"
+  },
+  {
+    "word": "qazisinin",
+    "original_lemma": "qazisinin",
+    "new_lemma": "qazi"
+  },
+  {
+    "word": "olunumuşdur",
+    "original_lemma": "olunumuşdur",
+    "new_lemma": "olunu" // wrong, must be ol
+  },
+  {
+    "word": "minasına",
+    "original_lemma": "minasına",
+    "new_lemma": "mina"
+  },
+  {
+    "word": "bolgəsində",
+    "original_lemma": "bolgəsində",
+    "new_lemma": "bolgə"
+  },
+  {
+    "word": "Dumasına",
+    "original_lemma": "Dumasına",
+    "new_lemma": "Duma"
+  },
+  {
+    "word": "Fraksiyasının",
+    "original_lemma": "Fraksiyasının",
+    "new_lemma": "Fraksiya"
+  },
+  {
+    "word": "lojasının",
+    "original_lemma": "lojasının",
+    "new_lemma": "loja"
+  },
+  {
+    "word": "qruppasının",
+    "original_lemma": "qruppasının",
+    "new_lemma": "qruppa" // wrong, must be qrup
+  },
+  {
+    "word": "matrisinin",
+    "original_lemma": "matrisinin",
+    "new_lemma": "matri"
+  },
+  {
+    "word": "matrisinə",
+    "original_lemma": "matrisinə",
+    "new_lemma": "matri"
+  },
+  {
+    "word": "matrisində",
+    "original_lemma": "matrisində",
+    "new_lemma": "matri"
+  },
+  {
+    "word": "Idarəsinə",
+    "original_lemma": "Idarəsinə",
+    "new_lemma": "Idarə"
+  },
+  {
+    "word": "İngiltərəsində",
+    "original_lemma": "İngiltərəsində",
+    "new_lemma": "İngiltərə"
+  },
+  {
+    "word": "Vadisində",
+    "original_lemma": "Vadisində",
+    "new_lemma": "Vadi"
+  },
+  {
+    "word": "vərilməsinin",
+    "original_lemma": "vərilməsinin",
+    "new_lemma": "vərilmə" // wrong, must be ver
+  },
+  {
+    "word": "karşısında",
+    "original_lemma": "karşısında",
+    "new_lemma": "karşı"
+  },
+  {
+    "word": "Müzəsində",
+    "original_lemma": "Müzəsində",
+    "new_lemma": "Müzə"
+  },
+  {
+    "word": "yeparxiyasının",
+    "original_lemma": "yeparxiyasının",
+    "new_lemma": "yeparxiya"
+  },
+  {
+    "word": "humuslaşmasında",
+    "original_lemma": "humuslaşmasında",
+    "new_lemma": "humuslaşma" // wrong, must be humus
+  },
+  {
+    "word": "coğrafiyasinin",
+    "original_lemma": "coğrafiyasinin",
+    "new_lemma": "coğrafiya"
+  },
+  {
+    "word": "mitselisinin",
+    "original_lemma": "mitselisinin",
+    "new_lemma": "mitseli"
+  },
+  {
+    "word": "meriyasının",
+    "original_lemma": "meriyasının",
+    "new_lemma": "meriya"
+  },
+  {
+    "word": "İdarəetməsinin",
+    "original_lemma": "İdarəetməsinin",
+    "new_lemma": "İdarəetmə"
+  },
+  {
+    "word": "bəylərbəyisinə",
+    "original_lemma": "bəylərbəyisinə",
+    "new_lemma": "bəylərbəyi"
+  },
+  {
+    "word": "Ustasının",
+    "original_lemma": "Ustasının",
+    "new_lemma": "Usta"
+  },
+  {
+    "word": "Komisiyasının",
+    "original_lemma": "Komisiyasının",
+    "new_lemma": "Komisiya"
+  },
+  {
+    "word": "Ailəsinə",
+    "original_lemma": "Ailəsinə",
+    "new_lemma": "Ailə"
+  },
+  {
+    "word": "Respubliksının",
+    "original_lemma": "Respubliksının",
+    "new_lemma": "Respublik"
+  },
+  {
+    "word": "palpasiyasına",
+    "original_lemma": "palpasiyasına",
+    "new_lemma": "palpasiya"
+  },
+  {
+    "word": "lotereyasının",
+    "original_lemma": "lotereyasının",
+    "new_lemma": "lotereya"
+  },
+  {
+    "word": "lotereyasında",
+    "original_lemma": "lotereyasında",
+    "new_lemma": "lotereya"
+  },
+  {
+    "word": "azaldılmasında",
+    "original_lemma": "azaldılmasında",
+    "new_lemma": "azaldılma" // wrong, must be az
+  },
+  {
+    "word": "impedansının",
+    "original_lemma": "impedansının",
+    "new_lemma": "impedan" // wrong, must be deleted completely
+  },
+  {
+    "word": "Republikasının",
+    "original_lemma": "Republikasının",
+    "new_lemma": "Republika" // wrong, must be Respublika
+  },
+  {
+    "word": "Alyansının",
+    "original_lemma": "Alyansının",
+    "new_lemma": "Alyan"
+  },
+  {
+    "word": "Olimpiyadasının",
+    "original_lemma": "Olimpiyadasının",
+    "new_lemma": "Olimpiyada"
+  },
+  {
+    "word": "Əhallisinin",
+    "original_lemma": "Əhallisinin",
+    "new_lemma": "Əhalli" // wrong, must be deleted
+  },
+  {
+    "word": "təkrralanmasına",
+    "original_lemma": "təkrralanmasına",
+    "new_lemma": "təkrralanma" // wrong, must be təkrar, the word itself is misspelled
+  },
+  {
+    "word": "hisssəsinin",
+    "original_lemma": "hisssəsinin",
+    "new_lemma": "hisssə"
+  },
+  {
+    "word": "müqəddiməsində",
+    "original_lemma": "müqəddiməsində",
+    "new_lemma": "müqəddimə"
+  },
+  {
+    "word": "məqbərəsində",
+    "original_lemma": "məqbərəsində",
+    "new_lemma": "məqbərə"
+  },
+  {
+    "word": "fakultəsinin",
+    "original_lemma": "fakultəsinin",
+    "new_lemma": "fakultə"
+  },
+  {
+    "word": "pemasının",
+    "original_lemma": "pemasının",
+    "new_lemma": "pema"
+  },
+  {
+    "word": "dyilmişdir",
+    "original_lemma": "dyilmişdir",
+    "new_lemma": "dyil" // wrong, the word itselfi is misspelled, must be deyilmişdir, and the lemma must be de
+  },
+  {
+    "word": "Məsnəvisinə",
+    "original_lemma": "Məsnəvisinə",
+    "new_lemma": "Məsnəvi"
+  },
+  {
+    "word": "unudulmuşdur",
+    "original_lemma": "unudulmuşdur",
+    "new_lemma": "unudul"
+  },
+  {
+    "word": "təstiqlənmişdir",
+    "original_lemma": "təstiqlənmişdir",
+    "new_lemma": "təstiqlən" // wrong, must be təsdiq
+  },
+  {
+    "word": "yaradımışdır",
+    "original_lemma": "yaradımışdır",
+    "new_lemma": "yaradı" // wrong, must be yar
+  },
+  {
+    "word": "yarımkürrəsində",
+    "original_lemma": "yarımkürrəsində",
+    "new_lemma": "yarımkürrə"
+  },
+  {
+    "word": "Stansiyasında",
+    "original_lemma": "Stansiyasında",
+    "new_lemma": "Stansiya"
+  },
+  {
+    "word": "palaşmasının",
+    "original_lemma": "palaşmasının",
+    "new_lemma": "palaşma"
+  },
+  {
+    "word": "leksikasının",
+    "original_lemma": "leksikasının",
+    "new_lemma": "leksika"
+  },
+  {
+    "word": "Respunlikasının",
+    "original_lemma": "Respunlikasının",
+    "new_lemma": "Respunlika"
+  },
+  {
+    "word": "Yurd-yuvasına",
+    "original_lemma": "Yurd-yuvasına",
+    "new_lemma": "Yurd-yuva"
+  },
+  {
+    "word": "el-obasına",
+    "original_lemma": "el-obasına",
+    "new_lemma": "el-oba"
+  },
+  {
+    "word": "çerçilmişdir",
+    "original_lemma": "çerçilmişdir",
+    "new_lemma": "çerçil"
+  },
+  {
+    "word": "Rspublikasının",
+    "original_lemma": "Rspublikasının",
+    "new_lemma": "Rspublika"
+  },
+  {
+    "word": "mediasında",
+    "original_lemma": "mediasında",
+    "new_lemma": "media"
+  },
+  {
+    "word": "defolyasiyasına",
+    "original_lemma": "defolyasiyasına",
+    "new_lemma": "defolyasiya"
+  },
+  {
+    "word": "aoarılmasına",
+    "original_lemma": "aoarılmasına",
+    "new_lemma": "aoarılma" // wrong, the word itself is misspelled, must be aparılmasına, and the lemma must be apar
+  },
+  {
+    "word": "buraxmaxmışdır",
+    "original_lemma": "buraxmaxmışdır",
+    "new_lemma": "buraxmax" // wrong, the word itself is misspelled, must be buraxmamışdır, and the lemma must be buraxma
+  },
+  {
+    "word": "hazırlanmsına",
+    "original_lemma": "hazırlanmsına",
+    "new_lemma": "hazırlanm" // wrong, the word itself is misspelled, must be hazırlanmasına, and the lemma must be hazır
+  },
+  {
+    "word": "Sərgisinin",
+    "original_lemma": "Sərgisinin",
+    "new_lemma": "Sərgi"
+  },
+  {
+    "word": "verlmişdir",
+    "original_lemma": "verlmişdir",
+    "new_lemma": "verl"
+  },
+  {
+    "word": "çəkilməsinin",
+    "original_lemma": "çəkilməsinin",
+    "new_lemma": "çəkilmə" // wrong, must be çək
+  },
+  {
+    "word": "cülusunun",
+    "original_lemma": "cülusunun",
+    "new_lemma": "cülu"
+  },
+  {
+    "word": "kənxudasına",
+    "original_lemma": "kənxudasına",
+    "new_lemma": "kənxuda"
+  },
+  {
+    "word": "prefekturasına",
+    "original_lemma": "prefekturasına",
+    "new_lemma": "prefektura"
+  },
+  {
+    "word": "bazilikasının",
+    "original_lemma": "bazilikasının",
+    "new_lemma": "bazilika"
+  },
+  {
+    "word": "qaçırmışdır",
+    "original_lemma": "qaçırmışdır",
+    "new_lemma": "qaçır" // wrong, must be qaç
+  },
+  {
+    "word": "Nüvəsinin",
+    "original_lemma": "Nüvəsinin",
+    "new_lemma": "Nüvə"
+  },
+  {
+    "word": "kmhövzəsinin",
+    "original_lemma": "kmhövzəsinin",
+    "new_lemma": "kmhövzə"
+  },
+  {
+    "word": "Xəstəxanasına",
+    "original_lemma": "Xəstəxanasına",
+    "new_lemma": "Xəstəxana"
+  },
+  {
+    "word": "Hissəsinin",
+    "original_lemma": "Hissəsinin",
+    "new_lemma": "Hissə"
+  },
+  {
+    "word": "qovulmasına",
+    "original_lemma": "qovulmasına",
+    "new_lemma": "qovulma" // wrong, must be qov
+  },
+  {
+    "word": "sıfırlanmışdır",
+    "original_lemma": "sıfırlanmışdır",
+    "new_lemma": "sıfırlan" // wrong, must be sıfır
+  },
+  {
+    "word": "mərəsinə",
+    "original_lemma": "mərəsinə",
+    "new_lemma": "mərə"
+  },
+  {
+    "word": "qaçırmamışdır",
+    "original_lemma": "qaçırmamışdır",
+    "new_lemma": "qaçırma" // wrong, must be qaç
+  },
+  {
+    "word": "edadiyyəsinə",
+    "original_lemma": "edadiyyəsinə",
+    "new_lemma": "edadiyyə"
+  },
+  {
+    "word": "böyüməsinin",
+    "original_lemma": "böyüməsinin",
+    "new_lemma": "böyümə" // wrong, must be böyü
+  },
+  {
+    "word": "adaptasiyasının",
+    "original_lemma": "adaptasiyasının",
+    "new_lemma": "adaptasiya"
+  },
+  {
+    "word": "sürətlənməsinə",
+    "original_lemma": "sürətlənməsinə",
+    "new_lemma": "sürətlənmə" // wrong, must be sürət
+  },
+  {
+    "word": "Donanmasının",
+    "original_lemma": "Donanmasının",
+    "new_lemma": "Donanma"
+  },
+  {
+    "word": "Dişisinin",
+    "original_lemma": "Dişisinin",
+    "new_lemma": "Dişi"
+  },
+  {
+    "word": "yerləşdirmişdir",
+    "original_lemma": "yerləşdirmişdir",
+    "new_lemma": "yerləşdir" // wrong, must be yer
+  },
+  {
+    "word": "taplmışdır",
+    "original_lemma": "taplmışdır",
+    "new_lemma": "tapl" // wrong, the word itself is misspelled, must be tapılmışdır, and the lemma must be tap
+  },
+  {
+    "word": "Sahəsinin",
+    "original_lemma": "Sahəsinin",
+    "new_lemma": "Sahə"
+  },
+  {
+    "word": "Fizikasının",
+    "original_lemma": "Fizikasının",
+    "new_lemma": "Fizika"
+  },
+  {
+    "word": "yönəltməsinə",
+    "original_lemma": "yönəltməsinə",
+    "new_lemma": "yönəltmə" // wrong, must be yönəl
+  },
+  {
+    "word": "Arakatsunun",
+    "original_lemma": "Arakatsunun",
+    "new_lemma": "Arakat"
+  },
+  {
+    "word": "briqadasında",
+    "original_lemma": "briqadasında",
+    "new_lemma": "briqada"
+  },
+  {
+    "word": "Yayılmasının",
+    "original_lemma": "Yayılmasının",
+    "new_lemma": "Yayılma" // wrong, must be yayıl
+  },
+  {
+    "word": "anlamışdır",
+    "original_lemma": "anlamışdır",
+    "new_lemma": "anla" // wrong, must be an
+  },
+  {
+    "word": "böyüdülmüşdür",
+    "original_lemma": "böyüdülmüşdür",
+    "new_lemma": "böyüdül" // wrong, must be böyü
+  },
+  {
+    "word": "Şaxtaxtinksinin",
+    "original_lemma": "Şaxtaxtinksinin",
+    "new_lemma": "Şaxtaxtink"
+  },
+  {
+    "word": "Rukasinin",
+    "original_lemma": "Rukasinin",
+    "new_lemma": "Ruka"
+  },
+  {
+    "word": "dendrarisində",
+    "original_lemma": "dendrarisində",
+    "new_lemma": "dendrari"
+  },
+  {
+    "word": "Katilinasına",
+    "original_lemma": "Katilinasına",
+    "new_lemma": "Katilina"
+  },
+  {
+    "word": "hərəsinin",
+    "original_lemma": "hərəsinin",
+    "new_lemma": "hərə"
+  },
+  {
+    "word": "Firqəsinin",
+    "original_lemma": "Firqəsinin",
+    "new_lemma": "Firqə"
+  },
+  {
+    "word": "Axıntısının",
+    "original_lemma": "Axıntısının",
+    "new_lemma": "Axıntı"
+  },
+  {
+    "word": "Sonrasında",
+    "original_lemma": "Sonrasında",
+    "new_lemma": "Sonra"
+  },
+  {
+    "word": "gürüntüləməsinə",
+    "original_lemma": "gürüntüləməsinə",
+    "new_lemma": "gürüntüləmə" // wrong, the word itself is misspelled, must be görüntüləməsinə, and the lemma must be görüntü
+  },
+  {
+    "word": "dərcəsinə",
+    "original_lemma": "dərcəsinə",
+    "new_lemma": "dərcə" // wrong, the word itself is misspelled, must be dərəcəsinə, and the lemma must be dərəcə
+  },
+  {
+    "word": "tayfa-sına",
+    "original_lemma": "tayfa-sına",
+    "new_lemma": "tayfa-"
+  },
+  {
+    "word": "Gimnaziyasının",
+    "original_lemma": "Gimnaziyasının",
+    "new_lemma": "Gimnaziya"
+  },
+  {
+    "word": "əvəzləmişdir",
+    "original_lemma": "əvəzləmişdir",
+    "new_lemma": "əvəzlə" // wrong, must be əvəz
+  },
+  {
+    "word": "islahxanasında",
+    "original_lemma": "islahxanasında",
+    "new_lemma": "islahxana"
+  },
+  {
+    "word": "Redaksiyasının",
+    "original_lemma": "Redaksiyasının",
+    "new_lemma": "Redaksiya"
+  },
+  {
+    "word": "kinoepopeyasına",
+    "original_lemma": "kinoepopeyasına",
+    "new_lemma": "kinoepopeya"
+  },
+  {
+    "word": "klinikasının",
+    "original_lemma": "klinikasının",
+    "new_lemma": "klinika"
+  },
+  {
+    "word": "imzanalmasında",
+    "original_lemma": "imzanalmasında",
+    "new_lemma": "imzanalma"
+  },
+  {
+    "word": "pandemiyasına",
+    "original_lemma": "pandemiyasına",
+    "new_lemma": "pandemiya"
+  },
+  {
+    "word": "5-İnfilyasının",
+    "original_lemma": "5-İnfilyasının",
+    "new_lemma": "5-İnfilya"
+  },
+  {
+    "word": "naviqasiyasında",
+    "original_lemma": "naviqasiyasında",
+    "new_lemma": "naviqasiya"
+  },
+  {
+    "word": "Zapolyaryesinin",
+    "original_lemma": "Zapolyaryesinin",
+    "new_lemma": "Zapolyarye"
+  },
+  {
+    "word": "narteksinin",
+    "original_lemma": "narteksinin",
+    "new_lemma": "nartek"
+  },
+  {
+    "word": "Katolikosunun",
+    "original_lemma": "Katolikosunun",
+    "new_lemma": "Katoliko"
+  },
+  {
+    "word": "Mokatsinin",
+    "original_lemma": "Mokatsinin",
+    "new_lemma": "Mokat"
+  },
+  {
+    "word": "məqbərəsinə",
+    "original_lemma": "məqbərəsinə",
+    "new_lemma": "məqbərə"
+  },
+  {
+    "word": "Yerevantsinin",
+    "original_lemma": "Yerevantsinin",
+    "new_lemma": "Yerevant"
+  },
+  {
+    "word": "narteksində",
+    "original_lemma": "narteksində",
+    "new_lemma": "nartek"
+  },
+  {
+    "word": "mərkəsinin",
+    "original_lemma": "mərkəsinin",
+    "new_lemma": "mərkə"
+  },
+  {
+    "word": "Terrasının",
+    "original_lemma": "Terrasının",
+    "new_lemma": "Terra"
+  },
+  {
+    "word": "DAKapanitsının",
+    "original_lemma": "DAKapanitsının",
+    "new_lemma": "DAKapanit"
+  },
+  {
+    "word": "çatırılmışdır",
+    "original_lemma": "çatırılmışdır",
+    "new_lemma": "çatırıl"
+  },
+  {
+    "word": "Albaniyasında",
+    "original_lemma": "Albaniyasında",
+    "new_lemma": "Albaniya"
+  },
+  {
+    "word": "Dərəcəsinə",
+    "original_lemma": "Dərəcəsinə",
+    "new_lemma": "Dərəcə"
+  },
+  {
+    "word": "işlədilməsinin",
+    "original_lemma": "işlədilməsinin",
+    "new_lemma": "işlədilmə" // wrong, must be işlət
+  },
+  {
+    "word": "öldürüməsinə",
+    "original_lemma": "öldürüməsinə", 
+    "new_lemma": "öldürümə" // wrong, the word itself is misspelled, must be öldürülməsinə, and the lemma must be öl
+  },
+  {
+    "word": "platrformasına",
+    "original_lemma": "platrformasına",
+    "new_lemma": "platrforma" // wrong, the word itself is misspelled, must be platformasına, and the lemma must be platforma
+  },
+  {
+    "word": "medyesində",
+    "original_lemma": "medyesində",
+    "new_lemma": "medye"
+  },
+  {
+    "word": "Rakotsinin",
+    "original_lemma": "Rakotsinin",
+    "new_lemma": "Rakot"
+  },
+  {
+    "word": "Öyrənilmişdir",
+    "original_lemma": "Öyrənilmişdir",
+    "new_lemma": "Öyrənil" // wrong, must be öyrən
+  },
+  {
+    "word": "distrofiyasında",
+    "original_lemma": "distrofiyasında",
+    "new_lemma": "distrofiya"
+  },
+  {
+    "word": "Kürəsində",
+    "original_lemma": "Kürəsində",
+    "new_lemma": "Kürə"
+  },
+  {
+    "word": "Gəmisinin",
+    "original_lemma": "Gəmisinin",
+    "new_lemma": "Gəmi"
+  },
+  {
+    "word": "Gəmisində",
+    "original_lemma": "Gəmisində",
+    "new_lemma": "Gəmi"
+  },
+  {
+    "word": "daymyosunun",
+    "original_lemma": "daymyosunun",
+    "new_lemma": "daymyo"
+  },
+  {
+    "word": "Dairəsinə",
+    "original_lemma": "Dairəsinə",
+    "new_lemma": "Dairə"
+  },
+  {
+    "word": "külliyəsinin",
+    "original_lemma": "külliyəsinin",
+    "new_lemma": "külliyə"
+  },
+  {
+    "word": "plitəsinin",
+    "original_lemma": "plitəsinin",
+    "new_lemma": "plitə"
+  },
+  {
+    "word": "arçalanmasına",
+    "original_lemma": "arçalanmasına",
+    "new_lemma": "arçalanma" // wrong, must be deleted completely
+  },
+  {
+    "word": "Təcridxanasında",
+    "original_lemma": "Təcridxanasında",
+    "new_lemma": "Təcridxana"
+  },
+  {
+    "word": "qubrniysının",
+    "original_lemma": "qubrniysının",
+    "new_lemma": "qubrniy" // wrong, the word itself is misspelled, must be quberniyasının, and the lemma must be quberniya
+  },
+  {
+    "word": "Ortasında",
+    "original_lemma": "Ortasında",
+    "new_lemma": "Orta"
+  },
+  {
+    "word": "təbəsinin",
+    "original_lemma": "təbəsinin",
+    "new_lemma": "təbə"
+  },
+  {
+    "word": "ratuşasında",
+    "original_lemma": "ratuşasında",
+    "new_lemma": "ratuşa"
+  },
+  {
+    "word": "qısaltmasının",
+    "original_lemma": "qısaltmasının",
+    "new_lemma": "qısaltma"  // wrong, must be qısa
+  },
+  {
+    "word": "Yaylasının",
+    "original_lemma": "Yaylasının",
+    "new_lemma": "Yayla"
+  },
+  {
+    "word": "sitoplazmasında",
+    "original_lemma": "sitoplazmasında",
+    "new_lemma": "sitoplazma"
+  },
+  {
+    "word": "Klinikasının",
+    "original_lemma": "Klinikasının",
+    "new_lemma": "Klinika"
+  },
+  {
+    "word": "Qidalanmasında",
+    "original_lemma": "Qidalanmasında",
+    "new_lemma": "Qidalanma" // wrong, must be Qida
+  },
+  {
+    "word": "mxaresinin",
+    "original_lemma": "mxaresinin",
+    "new_lemma": "mxare" // wrong, must be deleted
+  },
+  {
+    "word": "Kumasinin",
+    "original_lemma": "Kumasinin",
+    "new_lemma": "Kuma"
+  },
+  {
+    "word": "Adlanmasına",
+    "original_lemma": "Adlanmasına",
+    "new_lemma": "Adlanma" // wrong, must be Ad
+  },
+  {
+    "word": "vəatasının",
+    "original_lemma": "vəatasının",
+    "new_lemma": "vəata" // wrong, must be deleted
+  },
+  {
+    "word": "Parityasının",
+    "original_lemma": "Parityasının",
+    "new_lemma": "Paritya"
+  },
+  {
+    "word": "Daruqasının",
+    "original_lemma": "Daruqasının",
+    "new_lemma": "Daruqa"
+  },
+  {
+    "word": "Daruqasına",
+    "original_lemma": "Daruqasına",
+    "new_lemma": "Daruqa"
+  },
+  {
+    "word": "uzadılmasına",
+    "original_lemma": "uzadılmasına",
+    "new_lemma": "uzadılma" // wrong, must be uza
+  },
+  {
+    "word": "foprmalaşmışdır",
+    "original_lemma": "foprmalaşmışdır",
+    "new_lemma": "foprmalaş" // wrong, the word itself is misspelled, must be formalaşmışdır, and the lemma must be forma
+  },
+  {
+    "word": "götürülməsinin",
+    "original_lemma": "götürülməsinin",
+    "new_lemma": "götürülmə" // wrong, must be götür
+  },
+  {
+    "word": "İşləməsinə",
+    "original_lemma": "İşləməsinə",
+    "new_lemma": "İşləmə" // wrong, must be İş
+  },
+  {
+    "word": "qəzetəsində",
+    "original_lemma": "qəzetəsində",
+    "new_lemma": "qəzetə"
+  },
+  {
+    "word": "nəşriyyəsinin",
+    "original_lemma": "nəşriyyəsinin",
+    "new_lemma": "nəşriyyə"
+  },
+  {
+    "word": "Diversiyasında",
+    "original_lemma": "Diversiyasında",
+    "new_lemma": "Diversiya"
+  },
+  {
+    "word": "platosunun",
+    "original_lemma": "platosunun",
+    "new_lemma": "plato"
+  },
+  {
+    "word": "palitrasının",
+    "original_lemma": "palitrasının",
+    "new_lemma": "palitra"
+  },
+  {
+    "word": "bəyənnaməsinə",
+    "original_lemma": "bəyənnaməsinə",
+    "new_lemma": "bəyənnamə"
+  },
+  {
+    "word": "edilməməsinin",
+    "original_lemma": "edilməməsinin",
+    "new_lemma": "edilməmə" // wrong, must be et
+  },
+  {
+    "word": "remiksinə",
+    "original_lemma": "remiksinə",
+    "new_lemma": "remik"
+  },
+  {
+    "word": "Reviriyasında",
+    "original_lemma": "Reviriyasında",
+    "new_lemma": "Reviriya"
+  },
+  {
+    "word": "quzey-batısında",
+    "original_lemma": "quzey-batısında",
+    "new_lemma": "quzey-batı"
+  },
+  {
+    "word": "elçəsinə",
+    "original_lemma": "elçəsinə",
+    "new_lemma": "elçə"
+  },
+  {
+    "word": "səcərəsinə",
+    "original_lemma": "səcərəsinə",
+    "new_lemma": "səcərə"
+  },
+  {
+    "word": "korumasında",
+    "original_lemma": "korumasında",
+    "new_lemma": "koruma"
+  },
+  {
+    "word": "elçəsinin",
+    "original_lemma": "elçəsinin",
+    "new_lemma": "elçə"
+  },
+  {
+    "word": "elçəsində",
+    "original_lemma": "elçəsində",
+    "new_lemma": "elçə"
+  },
+  {
+    "word": "müəssissəsinə",
+    "original_lemma": "müəssissəsinə",
+    "new_lemma": "müəssissə"
+  },
+  {
+    "word": "yörəsində",
+    "original_lemma": "yörəsində",
+    "new_lemma": "yörə"
+  },
+  {
+    "word": "yarımdəstəsinin",
+    "original_lemma": "yarımdəstəsinin",
+    "new_lemma": "yarımdəstə"
+  },
+  {
+    "word": "layılmışdır",
+    "original_lemma": "layılmışdır",
+    "new_lemma": "layıl"
+  },
+  {
+    "word": "kariyerasına",
+    "original_lemma": "kariyerasına",
+    "new_lemma": "kariyera"
+  },
+  {
+    "word": "Düşərgəsində",
+    "original_lemma": "Düşərgəsində",
+    "new_lemma": "Düşərgə"
+  },
+  {
+    "word": "miqyasının",
+    "original_lemma": "miqyasının",
+    "new_lemma": "miqya"
+  },
+  {
+    "word": "axrarısında",
+    "original_lemma": "axrarısında",
+    "new_lemma": "axrarı"
+  },
+  {
+    "word": "Respubilkasında",
+    "original_lemma": "Respubilkasında",
+    "new_lemma": "Respubilka"
+  },
+  {
+    "word": "Binasında",
+    "original_lemma": "Binasında",
+    "new_lemma": "Bina"
+  },
+  {
+    "word": "Binasının",
+    "original_lemma": "Binasının",
+    "new_lemma": "Bina"
+  },
+  {
+    "word": "prelüdiyasının",
+    "original_lemma": "prelüdiyasının",
+    "new_lemma": "prelüdiya"
+  },
+  {
+    "word": "Seriyasının",
+    "original_lemma": "Seriyasının",
+    "new_lemma": "Seriya"
+  },
+  {
+    "word": "müəssəsində",
+    "original_lemma": "müəssəsində",
+    "new_lemma": "müəssə" // wrong, the word itself is mispelled, must be müəssisəsində, and the lemma must be müəssisə
+  },
+  {
+    "word": "modasına",
+    "original_lemma": "modasına",
+    "new_lemma": "moda"
+  },
+  {
+    "word": "Müharəbəsinə",
+    "original_lemma": "Müharəbəsinə",
+    "new_lemma": "Müharəbə"
+  },
+  {
+    "word": "istifasinə",
+    "original_lemma": "istifasinə",
+    "new_lemma": "istifa"
+  },
+  {
+    "word": "mərkəsində",
+    "original_lemma": "mərkəsində",
+    "new_lemma": "mərkə"
+  },
+  {
+    "word": "kəliməsinin",
+    "original_lemma": "kəliməsinin",
+    "new_lemma": "kəlimə"
+  },
+  {
+    "word": "istifafəsinə",
+    "original_lemma": "istifafəsinə",
+    "new_lemma": "istifafə" // wrong, the word itself is misspelled, must be istifasına, and the lemma must be istifa
+  },
+  {
+    "word": "yönləndirmişdir",
+    "original_lemma": "yönləndirmişdir",
+    "new_lemma": "yönləndir" // wrong, must be yön
+  },
+  {
+    "word": "Qaşısına",
+    "original_lemma": "Qaşısına",
+    "new_lemma": "Qaşı"
+  },
+  {
+    "word": "dumasına",
+    "original_lemma": "dumasına",
+    "new_lemma": "duma"
+  },
+  {
+    "word": "tutumuşdur",
+    "original_lemma": "tutumuşdur",
+    "new_lemma": "tutu"
+  },
+  {
+    "word": "Bölgəsinin",
+    "original_lemma": "Bölgəsinin",
+    "new_lemma": "Bölgə"
+  },
+  {
+    "word": "Kommissiyasının",
+    "original_lemma": "Kommissiyasının",
+    "new_lemma": "Kommissiya"
+  },
+  {
+    "word": "yayınlamışdır",
+    "original_lemma": "yayınlamışdır",
+    "new_lemma": "yayınla" // wrong, must be yayın
+  },
+  {
+    "word": "aalınmışdır",
+    "original_lemma": "aalınmışdır",
+    "new_lemma": "aalın" // wrong, the word itself is misspelled, must be alınmışdır, and the lemma must be al
+  },
+  {
+    "word": "akeçirilməsinin",
+    "original_lemma": "akeçirilməsinin",
+    "new_lemma": "akeçirilmə"
+  },
+  {
+    "word": "lobbisinin",
+    "original_lemma": "lobbisinin",
+    "new_lemma": "lobbi"
+  },
+  {
+    "word": "deportasiyasına",
+    "original_lemma": "deportasiyasına",
+    "new_lemma": "deportasiya"
+  },
+  {
+    "word": "başladılmasına",
+    "original_lemma": "başladılmasına",
+    "new_lemma": "başladılma" // wrong, must be başla
+  },
+  {
+    "word": "kompaniyasına",
+    "original_lemma": "kompaniyasına",
+    "new_lemma": "kompaniya"
+  },
+  {
+    "word": "Külliyesinin",
+    "original_lemma": "Külliyesinin",
+    "new_lemma": "Külliye"
+  },
+  {
+    "word": "inteqrasiyasına",
+    "original_lemma": "inteqrasiyasına",
+    "new_lemma": "inteqrasiya"
+  },
+  {
+    "word": "Kabinəsinin",
+    "original_lemma": "Kabinəsinin",
+    "new_lemma": "Kabinə"
+  },
+  {
+    "word": "partiturasında",
+    "original_lemma": "partiturasında",
+    "new_lemma": "partitura"
+  },
+  {
+    "word": "süitasında",
+    "original_lemma": "süitasında",
+    "new_lemma": "süita"
+  },
+  {
+    "word": "süitasının",
+    "original_lemma": "süitasının",
+    "new_lemma": "süita"
+  },
+  {
+    "word": "lirikasına",
+    "original_lemma": "lirikasına",
+    "new_lemma": "lirika"
+  },
+  {
+    "word": "çəkilşmişdir",
+    "original_lemma": "çəkilşmişdir",
+    "new_lemma": "çəkilş" // wrong, the word itself is misspelled, must be çəkilmişdir, and the lemma must be çək
+  },
+  {
+    "word": "panteistcəsinə",
+    "original_lemma": "panteistcəsinə",
+    "new_lemma": "panteistcə"
+  },
+  {
+    "word": "yarmadasına",
+    "original_lemma": "yarmadasına",
+    "new_lemma": "yarmada"
+  },
+  {
+    "word": "sənəsində",
+    "original_lemma": "sənəsində",
+    "new_lemma": "sənə"
+  },
+  {
+    "word": "Mastersində",
+    "original_lemma": "Mastersində",
+    "new_lemma": "Master"
+  },
+  {
+    "word": "Dəftərxanasında",
+    "original_lemma": "Dəftərxanasında",
+    "new_lemma": "Dəftərxana"
+  },
+  {
+    "word": "tərəqqisində",
+    "original_lemma": "tərəqqisində",
+    "new_lemma": "tərəqqi"
+  },
+  {
+    "word": "yüksəldilməsinə",
+    "original_lemma": "yüksəldilməsinə",
+    "new_lemma": "yüksəldilmə" // wrong, must be yüksəlt
+  },
+  {
+    "word": "yüksəldilmişdir",
+    "original_lemma": "yüksəldilmişdir",
+    "new_lemma": "yüksəldil" // wrong, must be yüksəlt
+  },
+  {
+    "word": "komisiyasının",
+    "original_lemma": "komisiyasının",
+    "new_lemma": "komisiya"
+  },
+  {
+    "word": "Gülləsinin",
+    "original_lemma": "Gülləsinin",
+    "new_lemma": "Güllə"
+  },
+  {
+    "word": "Ölkəsinin",
+    "original_lemma": "Ölkəsinin",
+    "new_lemma": "Ölkə"
+  },
+  {
+    "word": "kampusunun",
+    "original_lemma": "kampusunun",
+    "new_lemma": "kampu"
+  },
+  {
+    "word": "Lotereyasında",
+    "original_lemma": "Lotereyasında",
+    "new_lemma": "Lotereya"
+  },
+  {
+    "word": "kavaleriyasında",
+    "original_lemma": "kavaleriyasında",
+    "new_lemma": "kavaleriya"
+  },
+  {
+    "word": "Birjasının",
+    "original_lemma": "Birjasının",
+    "new_lemma": "Birja"
+  },
+  {
+    "word": "mandasına",
+    "original_lemma": "mandasına",
+    "new_lemma": "manda"
+  },
+  {
+    "word": "pozisiyasında",
+    "original_lemma": "pozisiyasında",
+    "new_lemma": "pozisiya"
+  },
+  {
+    "word": "Şahnaməsində",
+    "original_lemma": "Şahnaməsində",
+    "new_lemma": "Şahnamə"
+  },
+  {
+    "word": "çoxaldılmasına",
+    "original_lemma": "çoxaldılmasına",
+    "new_lemma": "çoxaldılma"
+  },
+  {
+    "word": "yaranmişdir",
+    "original_lemma": "yaranmişdir",
+    "new_lemma": "yaran"
+  },
+  {
+    "word": "Mədrəsəsinə",
+    "original_lemma": "Mədrəsəsinə",
+    "new_lemma": "Mədrəsə"
+  },
+  {
+    "word": "duyurulmasına",
+    "original_lemma": "duyurulmasına",
+    "new_lemma": "duyurulma" // wrong, must be duyur
+  },
+  {
+    "word": "Fakültəsində",
+    "original_lemma": "Fakültəsində",
+    "new_lemma": "Fakültə"
+  },
+  {
+    "word": "Duygusunun",
+    "original_lemma": "Duygusunun",
+    "new_lemma": "Duygu"
+  },
+  {
+    "word": "Dəmokrasinin",
+    "original_lemma": "Dəmokrasinin",
+    "new_lemma": "Dəmokra"
+  },
+  {
+    "word": "saxlamişdir",
+    "original_lemma": "saxlamişdir",
+    "new_lemma": "saxla"
+  },
+  {
+    "word": "Nöqtəsinə",
+    "original_lemma": "Nöqtəsinə",
+    "new_lemma": "Nöqtə"
+  },
+  {
+    "word": "Kolleksiyasının",
+    "original_lemma": "Kolleksiyasının",
+    "new_lemma": "Kolleksiya"
+  },
+  {
+    "word": "kompaniyasında",
+    "original_lemma": "kompaniyasında",
+    "new_lemma": "kompaniya"
+  },
+  {
+    "word": "kötükçəsinin",
+    "original_lemma": "kötükçəsinin",
+    "new_lemma": "kötükçə"
+  },
+  {
+    "word": "klnikasında",
+    "original_lemma": "klnikasında",
+    "new_lemma": "klnika"
+  },
+  {
+    "word": "calışmışdır",
+    "original_lemma": "calışmışdır",
+    "new_lemma": "calış"
+  },
+  {
+    "word": "gostərmişdir",
+    "original_lemma": "gostərmişdir",
+    "new_lemma": "gostər"
+  },
+  {
+    "word": "secilmişdir",
+    "original_lemma": "secilmişdir",
+    "new_lemma": "secil"
+  },
+  {
+    "word": "Məhəlləsində",
+    "original_lemma": "Məhəlləsində",
+    "new_lemma": "Məhəllə"
+  },
+  {
+    "word": "Düşərgəsinə",
+    "original_lemma": "Düşərgəsinə",
+    "new_lemma": "Düşərgə"
+  },
+  {
+    "word": "mediyasında",
+    "original_lemma": "mediyasında",
+    "new_lemma": "mediya"
+  },
+  {
+    "word": "Bölgəsinə",
+    "original_lemma": "Bölgəsinə",
+    "new_lemma": "Bölgə"
+  },
+  {
+    "word": "Olimpiyadasında",
+    "original_lemma": "Olimpiyadasında",
+    "new_lemma": "Olimpiyada"
+  },
+  {
+    "word": "rastlanmışdır",
+    "original_lemma": "rastlanmışdır",
+    "new_lemma": "rastlan" 
+  },
+  {
+    "word": "qapadılmışdır",
+    "original_lemma": "qapadılmışdır",
+    "new_lemma": "qapadıl" // wrong, must be qapa
+  },
+  {
+    "word": "mutansiyasına",
+    "original_lemma": "mutansiyasına",
+    "new_lemma": "mutansiya"
+  },
+  {
+    "word": "mühafəzəsində",
+    "original_lemma": "mühafəzəsində",
+    "new_lemma": "mühafəzə"
+  },
+  {
+    "word": "Müəssisəsinin",
+    "original_lemma": "Müəssisəsinin",
+    "new_lemma": "Müəssisə"
+  },
+  {
+    "word": "gətirərmişdir",
+    "original_lemma": "gətirərmişdir",
+    "new_lemma": "gətirər" // wrong, must be gətir
+  },
+  {
+    "word": "Siyahısının",
+    "original_lemma": "Siyahısının",
+    "new_lemma": "Siyahı"
+  },
+  {
+    "word": "Lisesində",
+    "original_lemma": "Lisesində",
+    "new_lemma": "Lise"
+  },
+  {
+    "word": "iikincisində",
+    "original_lemma": "iikincisində",
+    "new_lemma": "iikinci"
+  },
+  {
+    "word": "Əsasnaməsində",
+    "original_lemma": "Əsasnaməsində",
+    "new_lemma": "Əsasnamə"
+  },
+  {
+    "word": "nahiyyəsinin",
+    "original_lemma": "nahiyyəsinin",
+    "new_lemma": "nahiyyə"
+  },
+  {
+    "word": "cevrilmişdir",
+    "original_lemma": "cevrilmişdir",
+    "new_lemma": "cevril"
+  },
+  {
+    "word": "cərcivəsində",
+    "original_lemma": "cərcivəsində",
+    "new_lemma": "cərcivə"
+  },
+  {
+    "word": "Palatasına",
+    "original_lemma": "Palatasına",
+    "new_lemma": "Palata"
+  },
+  {
+    "word": "klinikasında",
+    "original_lemma": "klinikasında",
+    "new_lemma": "klinika"
+  },
+  {
+    "word": "böyüməsində",
+    "original_lemma": "böyüməsində",
+    "new_lemma": "böyümə" // wrong, must be böyü
+  },
+  {
+    "word": "DZRK-sının",
+    "original_lemma": "DZRK-sının",
+    "new_lemma": "DZRK-"
+  },
+  {
+    "word": "Hamısında",
+    "original_lemma": "Hamısında",
+    "new_lemma": "Hamı"
+  },
+  {
+    "word": "Küçəsində",
+    "original_lemma": "Küçəsində",
+    "new_lemma": "Küçə"
+  },
+  {
+    "word": "Soljenitsının",
+    "original_lemma": "Soljenitsının",
+    "new_lemma": "Soljenit"
+  },
+  {
+    "word": "örtülümüşdür",
+    "original_lemma": "örtülümüşdür",
+    "new_lemma": "örtülü" // wrong, must be ört
+  },
+  {
+    "word": "önlənməsində",
+    "original_lemma": "önlənməsində",
+    "new_lemma": "önlənmə" // wrong, must be önlə
+  },
+  {
+    "word": "depressiyasının",
+    "original_lemma": "depressiyasının",
+    "new_lemma": "depressiya"
+  },
+  {
+    "word": "Bəzisinin",
+    "original_lemma": "Bəzisinin",
+    "new_lemma": "Bəzi"
+  },
+  {
+    "word": "yarımqitəsinə",
+    "original_lemma": "yarımqitəsinə",
+    "new_lemma": "yarımqitə"
+  },
+  {
+    "word": "Birjasında",
+    "original_lemma": "Birjasında",
+    "new_lemma": "Birja"
+  },
+  {
+    "word": "Birjasına",
+    "original_lemma": "Birjasına",
+    "new_lemma": "Birja"
+  },
+  {
+    "word": "İcmasının",
+    "original_lemma": "İcmasının",
+    "new_lemma": "İcma"
+  },
+  {
+    "word": "araşdınlmışdır",
+    "original_lemma": "araşdınlmışdır",
+    "new_lemma": "araşdınl"
+  },
+  {
+    "word": "Assosiasiyasına",
+    "original_lemma": "Assosiasiyasına",
+    "new_lemma": "Assosiasiya"
+  },
+  {
+    "word": "Göstərmişdir",
+    "original_lemma": "Göstərmişdir",
+    "new_lemma": "Göstər"
+  },
+  {
+    "word": "ata-anasına",
+    "original_lemma": "ata-anasına",
+    "new_lemma": "ata-ana"
+  },
+  {
+    "word": "Donammasının",
+    "original_lemma": "Donammasının",
+    "new_lemma": "Donamma"
+  },
+  {
+    "word": "sənədləşməsinin",
+    "original_lemma": "sənədləşməsinin",
+    "new_lemma": "sənədləşmə" // wrong, must be sənəd
+  },
+  {
+    "word": "Xəritəsində",
+    "original_lemma": "Xəritəsində",
+    "new_lemma": "Xəritə"
+  },
+  {
+    "word": "klişesinin",
+    "original_lemma": "klişesinin",
+    "new_lemma": "klişe"
+  },
+  {
+    "word": "Rəsədxanasında",
+    "original_lemma": "Rəsədxanasında",
+    "new_lemma": "Rəsədxana"
+  },
+  {
+    "word": "fəzasının",
+    "original_lemma": "fəzasının",
+    "new_lemma": "fəza"
+  },
+  {
+    "word": "olumasında",
+    "original_lemma": "olumasında",
+    "new_lemma": "oluma"
+  },
+  {
+    "word": "verlməsində",
+    "original_lemma": "verlməsində",
+    "new_lemma": "verlmə"
+  },
+  {
+    "word": "Papasının",
+    "original_lemma": "Papasının",
+    "new_lemma": "Papa"
+  },
+  {
+    "word": "flora-sının",
+    "original_lemma": "flora-sının",
+    "new_lemma": "flora-"
+  },
+  {
+    "word": "Qanunnaməsinə",
+    "original_lemma": "Qanunnaməsinə",
+    "new_lemma": "Qanunnamə"
+  },
+  {
+    "word": "Aviasiyasının",
+    "original_lemma": "Aviasiyasının",
+    "new_lemma": "Aviasiya"
+  },
+  {
+    "word": "bənzədilmişdir",
+    "original_lemma": "bənzədilmişdir",
+    "new_lemma": "bənzədil" // wrong, must be bənzə
+  },
+  {
+    "word": "Yaxasına",
+    "original_lemma": "Yaxasına",
+    "new_lemma": "Yaxa"
+  },
+  {
+    "word": "Mitolojisinin",
+    "original_lemma": "Mitolojisinin",
+    "new_lemma": "Mitoloji"
+  },
+  {
+    "word": "qütbləşməsinə",
+    "original_lemma": "qütbləşməsinə",
+    "new_lemma": "qütbləşmə"
+  },
+  {
+    "word": "Asambleyasına",
+    "original_lemma": "Asambleyasına",
+    "new_lemma": "Asambleya"
+  },
+  {
+    "word": "təstiqləmişdir",
+    "original_lemma": "təstiqləmişdir",
+    "new_lemma": "təstiqlə" // wrong, must be təsdiq
+  },
+  {
+    "word": "içməsinə",
+    "original_lemma": "içməsinə",
+    "new_lemma": "içmə"
+  },
+  {
+    "word": "asambleyasının",
+    "original_lemma": "asambleyasının",
+    "new_lemma": "asambleya"
+  },
+  {
+    "word": "içməsində",
+    "original_lemma": "içməsində",
+    "new_lemma": "içmə"
+  },
+  {
+    "word": "superqitəsinin",
+    "original_lemma": "superqitəsinin",
+    "new_lemma": "superqitə"
+  },
+  {
+    "word": "işərisində",
+    "original_lemma": "işərisində",
+    "new_lemma": "işəri" // wrong, the word itself is misspelled, must be işarəsində, and the lemma must be işarə
+  },
+  {
+    "word": "quberinyasının",
+    "original_lemma": "quberinyasının",
+    "new_lemma": "quberinya" // wrong, the word itself is misspelled, must be quberniyasının, and the lemma must be quberniya
+  },
+  {
+    "word": "interfeysinin",
+    "original_lemma": "interfeysinin",
+    "new_lemma": "interfey" // wrong, must be interfeys
+  },
+  {
+    "word": "Şəbəkəsində",
+    "original_lemma": "Şəbəkəsində",
+    "new_lemma": "Şəbəkə"
+  },
+  {
+    "word": "nominasiyasının",
+    "original_lemma": "nominasiyasının",
+    "new_lemma": "nominasiya"
+  },
+  {
+    "word": "ırazisində",
+    "original_lemma": "ırazisində",
+    "new_lemma": "ırazi" // wrong, must be deleted
+  },
+  {
+    "word": "Əsazisində",
+    "original_lemma": "Əsazisində",
+    "new_lemma": "Əsazi"
+  },
+  {
+    "word": "turnesinə",
+    "original_lemma": "turnesinə",
+    "new_lemma": "turne"
+  },
+  {
+    "word": "Türnesinin",
+    "original_lemma": "Türnesinin",
+    "new_lemma": "Türne"
+  },
+  {
+    "word": "öncəsində",
+    "original_lemma": "öncəsində",
+    "new_lemma": "öncə"
+  },
+  {
+    "word": "antalogiyasında",
+    "original_lemma": "antalogiyasında",
+    "new_lemma": "antalogiya"
+  },
+  {
+    "word": "Antalojisində",
+    "original_lemma": "Antalojisində",
+    "new_lemma": "Antaloji"
+  },
+  {
+    "word": "bozartmasına",
+    "original_lemma": "bozartmasına",
+    "new_lemma": "bozartma"
+  },
+  {
+    "word": "görüntüsünün",
+    "original_lemma": "görüntüsünün",
+    "new_lemma": "görüntü"
+  },
+  {
+    "word": "yaşantısının",
+    "original_lemma": "yaşantısının",
+    "new_lemma": "yaşantı" // wrong, must be yaşa
+  },
+  {
+    "word": "kübrəsinin",
+    "original_lemma": "kübrəsinin",
+    "new_lemma": "kübrə"
+  },
+  {
+    "word": "nizamnəməsinin",
+    "original_lemma": "nizamnəməsinin",
+    "new_lemma": "nizamnəmə"
+  },
+  {
+    "word": "uzadılmışdır",
+    "original_lemma": "uzadılmışdır",
+    "new_lemma": "uzadıl" // wrong, must be uza
+  },
+  {
+    "word": "librettosunun",
+    "original_lemma": "librettosunun",
+    "new_lemma": "libretto"
+  },
+  {
+    "word": "düzənləməsinin",
+    "original_lemma": "düzənləməsinin",
+    "new_lemma": "düzənləmə"
+  },
+  {
+    "word": "protejesində",
+    "original_lemma": "protejesində",
+    "new_lemma": "proteje"
+  },
+  {
+    "word": "premyerasının",
+    "original_lemma": "premyerasının",
+    "new_lemma": "premyera"
+  },
+  {
+    "word": "Premyerasının",
+    "original_lemma": "Premyerasının",
+    "new_lemma": "Premyera"
+  },
+  {
+    "word": "Luqosinin",
+    "original_lemma": "Luqosinin",
+    "new_lemma": "Luqo"
+  },
+  {
+    "word": "turnesində",
+    "original_lemma": "turnesində",
+    "new_lemma": "turne"
+  },
+  {
+    "word": "sərgiləmişdir",
+    "original_lemma": "sərgiləmişdir",
+    "new_lemma": "sərgilə"
+  },
+  {
+    "word": "terasına",
+    "original_lemma": "terasına",
+    "new_lemma": "tera"
+  },
+  {
+    "word": "Performansına",
+    "original_lemma": "Performansına",
+    "new_lemma": "Performan"
+  },
+  {
+    "word": "Kafedrasında",
+    "original_lemma": "Kafedrasında",
+    "new_lemma": "Kafedra"
+  },
+  {
+    "word": "Klinikasında",
+    "original_lemma": "Klinikasında",
+    "new_lemma": "Klinika"
+  },
+  {
+    "word": "animasiyasında",
+    "original_lemma": "animasiyasında",
+    "new_lemma": "animasiya"
+  },
+  {
+    "word": "alımmışdır",
+    "original_lemma": "alımmışdır",
+    "new_lemma": "alım" // wrong, the word itself is misspelled, must be alınmışdır, and the lemma must be al
+  },
+  {
+    "word": "Kampaniyasında",
+    "original_lemma": "Kampaniyasında",
+    "new_lemma": "Kampaniya" // wrong, the word itself is misspelled, must be Kompaniyasında, and the lemma must be Kompaniya
+  },
+  {
+    "word": "tpılmışdır",
+    "original_lemma": "tpılmışdır",
+    "new_lemma": "tpıl" // wrong, the word itself is misspelled, must be toplanmışdır, and the lemma must be topla
+  },
+  {
+    "word": "cillnmışdır",
+    "original_lemma": "cillnmışdır",
+    "new_lemma": "cilln" // wrong, must be deleted
+  },
+  {
+    "word": "tplnmışdır",
+    "original_lemma": "tplnmışdır",
+    "new_lemma": "tpln" // wrong, must be deleted
+  },
+  {
+    "word": "düzəltmişdir",
+    "original_lemma": "düzəltmişdir",
+    "new_lemma": "düzəlt" // wrong, must be düzəl
+  },
+  {
+    "word": "Sanatoriyasının",
+    "original_lemma": "Sanatoriyasının",
+    "new_lemma": "Sanatoriya"
+  },
+  {
+    "word": "Bankasında",
+    "original_lemma": "Bankasında",
+    "new_lemma": "Banka"
+  },
+  {
+    "word": "Qomesində",
+    "original_lemma": "Qomesində",
+    "new_lemma": "Qome"
+  },
+  {
+    "word": "dəqiqləşmişdir",
+    "original_lemma": "dəqiqləşmişdir",
+    "new_lemma": "dəqiqləş" // wrong, must be dəqiqlə
+  },
+  {
+    "word": "hanasının",
+    "original_lemma": "hanasının",
+    "new_lemma": "hana"
+  },
+  {
+    "word": "hanasında",
+    "original_lemma": "hanasında",
+    "new_lemma": "hana"
+  },
+  {
+    "word": "məntəqsinin",
+    "original_lemma": "məntəqsinin",
+    "new_lemma": "məntəq"
+  },
+  {
+    "word": "Üniversitesinə",
+    "original_lemma": "Üniversitesinə",
+    "new_lemma": "Üniversite"
+  },
+  {
+    "word": "ucadılmışdır",
+    "original_lemma": "ucadılmışdır",
+    "new_lemma": "ucadıl" // wrong, must be uca
+  },
+  {
+    "word": "Nyu-Cersinin",
+    "original_lemma": "Nyu-Cersinin",
+    "new_lemma": "Nyu-Cer"
+  },
+  {
+    "word": "kareyerasına",
+    "original_lemma": "kareyerasına",
+    "new_lemma": "kareyera"
+  },
+  {
+    "word": "Assambleyasına",
+    "original_lemma": "Assambleyasına",
+    "new_lemma": "Assambleya"
+  },
+  {
+    "word": "Kolumbiyasının",
+    "original_lemma": "Kolumbiyasının",
+    "new_lemma": "Kolumbiya"
+  },
+  {
+    "word": "Mədəsinin",
+    "original_lemma": "Mədəsinin",
+    "new_lemma": "Mədə"
+  },
+  {
+    "word": "yardılmışdır",
+    "original_lemma": "yardılmışdır",
+    "new_lemma": "yardıl" // wrong, must be deleted
+  },
+  {
+    "word": "oliqarxiyasının",
+    "original_lemma": "oliqarxiyasının",
+    "new_lemma": "oliqarxiya" // wrong, must be oliqarx
+  },
+  {
+    "word": "bələdəyyəsinə",
+    "original_lemma": "bələdəyyəsinə",
+    "new_lemma": "bələdəyyə" // wrong, the word itself is misspelled, must be bələdiyyəsinə, and the lemma must be bələdiyyə
+  },
+  {
+    "word": "külliyyəsində",
+    "original_lemma": "külliyyəsində",
+    "new_lemma": "külliyyə"
+  },
+  {
+    "word": "sökülməsinə",
+    "original_lemma": "sökülməsinə",
+    "new_lemma": "sökülmə" // wrong, must be sök
+  },
+  {
+    "word": "Avropasında",
+    "original_lemma": "Avropasında",
+    "new_lemma": "Avropa"
+  },
+  {
+    "word": "məqaləsinin",
+    "original_lemma": "məqaləsinin",
+    "new_lemma": "məqalə"
+  },
+  {
+    "word": "Apraksinin",
+    "original_lemma": "Apraksinin",
+    "new_lemma": "Aprak"
+  },
+  {
+    "word": "biryanisinin",
+    "original_lemma": "biryanisinin",
+    "new_lemma": "biryani"
+  },
+  {
+    "word": "Univesiadasında",
+    "original_lemma": "Univesiadasında",
+    "new_lemma": "Univesiada"
+  },
+  {
+    "word": "muharibəsində",
+    "original_lemma": "muharibəsində",
+    "new_lemma": "muharibə"
+  },
+  {
+    "word": "cıxarmışdır",
+    "original_lemma": "cıxarmışdır",
+    "new_lemma": "cıxar"
+  },
+  {
+    "word": "qvardiyasına",
+    "original_lemma": "qvardiyasına",
+    "new_lemma": "qvardiya"
+  },
+  {
+    "word": "sürtküsünün",
+    "original_lemma": "sürtküsünün",
+    "new_lemma": "sürtkü" // wrong, must be sürt
+  },
+  {
+    "word": "Yarımkürəsinə",
+    "original_lemma": "Yarımkürəsinə",
+    "new_lemma": "Yarımkürə"
+  },
+  {
+    "word": "qazarmasının",
+    "original_lemma": "qazarmasının",
+    "new_lemma": "qazarma"
+  },
+  {
+    "word": "dəstəkəmişdir",
+    "original_lemma": "dəstəkəmişdir",
+    "new_lemma": "dəstəkə" // wrong, the word itself is misspelled, must be dəstəklənmişdir, and the lemma must be dəstək
+  },
+  {
+    "word": "komanadasının",
+    "original_lemma": "komanadasının", 
+    "new_lemma": "komanada" // wrong, the word itself is misspelled, must be komandasının, and the lemma must be Komanda
+  },
+  {
+    "word": "yeritdirmişdir",
+    "original_lemma": "yeritdirmişdir",
+    "new_lemma": "yeritdir" // wrong, must be yeri
+  },
+  {
+    "word": "diasporasında",
+    "original_lemma": "diasporasında",
+    "new_lemma": "diaspora"
+  },
+  {
+    "word": "jupaniyasına",
+    "original_lemma": "jupaniyasına",
+    "new_lemma": "jupaniya"
+  },
+  {
+    "word": "Lojasının",
+    "original_lemma": "Lojasının",
+    "new_lemma": "Loja"
+  },
+  {
+    "word": "Qəbiləsinin",
+    "original_lemma": "Qəbiləsinin",
+    "new_lemma": "Qəbilə"
+  },
+  {
+    "word": "müharibəsisinin",
+    "original_lemma": "müharibəsisinin",
+    "new_lemma": "müharibəsi"
+  },
+  {
+    "word": "yedilmişdir",
+    "original_lemma": "yedilmişdir",
+    "new_lemma": "yedil" // wrong, must be deleted
+  },
+  {
+    "word": "karyyerasında",
+    "original_lemma": "karyyerasında",
+    "new_lemma": "karyyera" // wrong, the word itself is misspelled, must be karyerasında, and the lemma must be karyera
+  },
+  {
+    "word": "Filarmoniyasına",
+    "original_lemma": "Filarmoniyasına",
+    "new_lemma": "Filarmoniya"
+  },
+  {
+    "word": "Dövriyyəsinə",
+    "original_lemma": "Dövriyyəsinə",
+    "new_lemma": "Dövriyyə"
+  },
+  {
+    "word": "Komandasına",
+    "original_lemma": "Komandasına",
+    "new_lemma": "Komanda"
+  },
+  {
+    "word": "türməsində",
+    "original_lemma": "türməsində",
+    "new_lemma": "türmə"
+  },
+  {
+    "word": "təbəqəsində",
+    "original_lemma": "təbəqəsində",
+    "new_lemma": "təbəqə"
+  },
+  {
+    "word": "klirensinin",
+    "original_lemma": "klirensinin",
+    "new_lemma": "kliren"
+  },
+  {
+    "word": "reqressiyasına",
+    "original_lemma": "reqressiyasına",
+    "new_lemma": "reqressiya"
+  },
+  {
+    "word": "çalımışdır",
+    "original_lemma": "çalımışdır",
+    "new_lemma": "çalı" // wrong, the word itself is misspelled, must be çalınmışdır, and the lemma must be çal
+  },
+  {
+    "word": "fırtınasına",
+    "original_lemma": "fırtınasına",
+    "new_lemma": "fırtına"
+  },
+  {
+    "word": "qayıtmamışdır",
+    "original_lemma": "qayıtmamışdır",
+    "new_lemma": "qayıtma" // wrong, must be qayıt
+  },
+  {
+    "word": "sirvəsinin",
+    "original_lemma": "sirvəsinin",
+    "new_lemma": "sirvə"
+  },
+  {
+    "word": "kerosinin",
+    "original_lemma": "kerosinin",
+    "new_lemma": "kero"
+  },
+  {
+    "word": "zamanəsinin",
+    "original_lemma": "zamanəsinin",
+    "new_lemma": "zamanə"
+  },
+  {
+    "word": "Ereglisində",
+    "original_lemma": "Ereglisində",
+    "new_lemma": "Eregli"
+  },
+  {
+    "word": "Musiqisində",
+    "original_lemma": "Musiqisində",
+    "new_lemma": "Musiqi"
+  },
+  {
+    "word": "Dendrarisində",
+    "original_lemma": "Dendrarisində",
+    "new_lemma": "Dendrari"
+  },
+  {
+    "word": "Patbinsunun",
+    "original_lemma": "Patbinsunun",
+    "new_lemma": "Patbin"
+  },
+  {
+    "word": "ovulyasiyasına",
+    "original_lemma": "ovulyasiyasına",
+    "new_lemma": "ovulyasiya"
+  },
+  {
+    "word": "Atölyesində",
+    "original_lemma": "Atölyesində",
+    "new_lemma": "Atölye"
+  },
+  {
+    "word": "Respubilkasının",
+    "original_lemma": "Respubilkasının",
+    "new_lemma": "Respubilka"
+  },
+  {
+    "word": "gildiyasının",
+    "original_lemma": "gildiyasının",
+    "new_lemma": "gildiya" // wrong, must be deleted
+  },
+  {
+    "word": "qazarmasına",
+    "original_lemma": "qazarmasına",
+    "new_lemma": "qazarma"
+  },
+  {
+    "word": "yupikcəsinin",
+    "original_lemma": "yupikcəsinin",
+    "new_lemma": "yupikcə"
+  },
+  {
+    "word": "hzırlnmışdır",
+    "original_lemma": "hzırlnmışdır",
+    "new_lemma": "hzırln" // wrong, must be deleted
+  },
+  {
+    "word": "senayesində",
+    "original_lemma": "senayesində",
+    "new_lemma": "senaye"
+  },
+  {
+    "word": "kecirilmişdir",
+    "original_lemma": "kecirilmişdir",
+    "new_lemma": "keciril"
+  },
+  {
+    "word": "Siyahısında",
+    "original_lemma": "Siyahısında",
+    "new_lemma": "Siyahı"
+  },
+  {
+    "word": "politikasında",
+    "original_lemma": "politikasında",
+    "new_lemma": "politika"
+  },
+  {
+    "word": "Arenasında",
+    "original_lemma": "Arenasında",
+    "new_lemma": "Arena"
+  },
+  {
+    "word": "abu-havasında",
+    "original_lemma": "abu-havasında",
+    "new_lemma": "abu-hava"
+  },
+  {
+    "word": "Krıtısında",
+    "original_lemma": "Krıtısında",
+    "new_lemma": "Krıtı"
+  },
+  {
+    "word": "müəssəsinə",
+    "original_lemma": "müəssəsinə",
+    "new_lemma": "müəssə"
+  },
+  {
+    "word": "verilimişdir",
+    "original_lemma": "verilimişdir",
+    "new_lemma": "verili" // wrong, must be deletd
+  },
+  {
+    "word": "konfrasında",
+    "original_lemma": "konfrasında",
+    "new_lemma": "konfra" // wrong, must be konfransında, and the lemma must be konfrans
+  },
+  {
+    "word": "livasına",
+    "original_lemma": "livasına",
+    "new_lemma": "liva" // wrong, must be deleted
+  },
+  {
+    "word": "Rüznaməsində",
+    "original_lemma": "Rüznaməsində",
+    "new_lemma": "Rüznamə"
+  },
+  {
+    "word": "təqvasına",
+    "original_lemma": "təqvasına",
+    "new_lemma": "təqva" // wrong, must be deleted
+  },
+  {
+    "word": "Tiresinin",
+    "original_lemma": "Tiresinin",
+    "new_lemma": "Tire"
+  },
+  {
+    "word": "faküləltəsinin",
+    "original_lemma": "faküləltəsinin",
+    "new_lemma": "faküləltə" // wrong, the word itself is misspelled, must be fakültəsinin, and the lemma must be fakültə
+  },
+  {
+    "word": "Avtobusunun",
+    "original_lemma": "Avtobusunun",
+    "new_lemma": "Avtobu" // wrong, must be Avtobus
+  },
+  {
+    "word": "piridoksinin",
+    "original_lemma": "piridoksinin",
+    "new_lemma": "piridok"  // wrong, must be deleted
+  },
+  {
+    "word": "qalxasına",
+    "original_lemma": "qalxasına",
+    "new_lemma": "qalxa" // wrong, must be deleted
+  },
+  {
+    "word": "keçirtməsinin",
+    "original_lemma": "keçirtməsinin",
+    "new_lemma": "keçirtmə" // wrong, must be keç
+  },
+  {
+    "word": "tütbəsinə",
+    "original_lemma": "tütbəsinə",
+    "new_lemma": "tütbə"
+  },
+  {
+    "word": "Yarasının",
+    "original_lemma": "Yarasının",
+    "new_lemma": "Yara"
+  },
+  {
+    "word": "Estoniyasında",
+    "original_lemma": "Estoniyasında",
+    "new_lemma": "Estoniya"
+  },
+  {
+    "word": "Nənəsinin",
+    "original_lemma": "Nənəsinin",
+    "new_lemma": "Nənə"
+  },
+  {
+    "word": "yerləşdmişdir",
+    "original_lemma": "yerləşdmişdir",
+    "new_lemma": "yerləşd" // wrong, must be yer
+  },
+  {
+    "word": "əkilməmişdir",
+    "original_lemma": "əkilməmişdir",
+    "new_lemma": "əkilmə" // wrong, must be ək
+  },
+  {
+    "word": "ucaldılmasına",
+    "original_lemma": "ucaldılmasına",
+    "new_lemma": "ucaldılma" // wrong, must be uca
+  },
+  {
+    "word": "Horatsinin",
+    "original_lemma": "Horatsinin",
+    "new_lemma": "Horat"
+  },
+  {
+    "word": "qəzetəsinin",
+    "original_lemma": "qəzetəsinin",
+    "new_lemma": "qəzetə"
+  },
+  {
+    "word": "sərdabəsində",
+    "original_lemma": "sərdabəsində",
+    "new_lemma": "sərdabə"
+  },
+  {
+    "word": "tətbiqetməsinin",
+    "original_lemma": "tətbiqetməsinin",
+    "new_lemma": "tətbiqetmə"
+  },
+  {
+    "word": "körfəsində",
+    "original_lemma": "körfəsində",
+    "new_lemma": "körfə" // wrong, the word itself is misspelled, must be körfəzində, and the lemma must be körfəz
+  },
+  {
+    "word": "qurtulmuşdur",
+    "original_lemma": "qurtulmuşdur",
+    "new_lemma": "qurtul"
+  },
+  {
+    "word": "Kuzasının",
+    "original_lemma": "Kuzasının",
+    "new_lemma": "Kuza"
+  },
+  {
+    "word": "Şəbəkəsinin",
+    "original_lemma": "Şəbəkəsinin",
+    "new_lemma": "Şəbəkə"
+  },
+  {
+    "word": "Kollegiyasının",
+    "original_lemma": "Kollegiyasının",
+    "new_lemma": "Kollegiya"
+  },
+  {
+    "word": "Sminariyasının",
+    "original_lemma": "Sminariyasının",
+    "new_lemma": "Sminariya"
+  },
+  {
+    "word": "Sminariyasında",
+    "original_lemma": "Sminariyasında",
+    "new_lemma": "Sminariya"
+  },
+  {
+    "word": "Tutulmasının",
+    "original_lemma": "Tutulmasının",
+    "new_lemma": "Tutulma" // wrong, must be tutul
+  },
+  {
+    "word": "Bələdiyyəsində",
+    "original_lemma": "Bələdiyyəsində",
+    "new_lemma": "Bələdiyyə"
+  },
+  {
+    "word": "plakasına",
+    "original_lemma": "plakasına",
+    "new_lemma": "plaka"
+  },
+  {
+    "word": "İnşasına",
+    "original_lemma": "İnşasına",
+    "new_lemma": "İnşa"
+  },
+  {
+    "word": "yayılımasının",
+    "original_lemma": "yayılımasının",
+    "new_lemma": "yayılıma" // wrong, the word itself is misspelled, must be yayılması, and the lemma must be yayıl
+  },
+  {
+    "word": "Bəyannaməsinə",
+    "original_lemma": "Bəyannaməsinə",
+    "new_lemma": "Bəyannamə"
+  },
+  {
+    "word": "Upravasının",
+    "original_lemma": "Upravasının",
+    "new_lemma": "Uprava"
+  },
+  {
+    "word": "hobbisinin",
+    "original_lemma": "hobbisinin",
+    "new_lemma": "hobbi"
+  },
+  {
+    "word": "Xəmsəsində",
+    "original_lemma": "Xəmsəsində",
+    "new_lemma": "Xəmsə"
+  },
+  {
+    "word": "rəfiqəsinin",
+    "original_lemma": "rəfiqəsinin",
+    "new_lemma": "rəfiqə"
+  },
+  {
+    "word": "vəsiqəsinə",
+    "original_lemma": "vəsiqəsinə",
+    "new_lemma": "vəsiqə"
+  },
+  {
+    "word": "FEderasiyasının",
+    "original_lemma": "FEderasiyasının",
+    "new_lemma": "FEderasiya"
+  },
+  {
+    "word": "umutsuzcasına",
+    "original_lemma": "umutsuzcasına",
+    "new_lemma": "umutsuzca" // wrong, must be umutsuz
+  },
+  {
+    "word": "Andlaşmasının",
+    "original_lemma": "Andlaşmasının",
+    "new_lemma": "Andlaşma" // wrong, must be and
+  },
+  {
+    "word": "pyresində",
+    "original_lemma": "pyresində",
+    "new_lemma": "pyre" // wrong, must be deleted
+  },
+  {
+    "word": "kriteriyasına",
+    "original_lemma": "kriteriyasına",
+    "new_lemma": "kriteriya"
+  },
+  {
+    "word": "boşaldılmışdır",
+    "original_lemma": "boşaldılmışdır",
+    "new_lemma": "boşaldıl" // wrong, must be boş
+  },
+  {
+    "word": "çıxılmasına",
+    "original_lemma": "çıxılmasına",
+    "new_lemma": "çıxılma" // wrong, must be çıx
+  },
+  {
+    "word": "Alfonsunun",
+    "original_lemma": "Alfonsunun",
+    "new_lemma": "Alfon" // wrong, must be deleted
+  },
+  {
+    "word": "alleyasında",
+    "original_lemma": "alleyasında",
+    "new_lemma": "alleya"
+  },
+  {
+    "word": "Bazasında",
+    "original_lemma": "Bazasında",
+    "new_lemma": "Baza"
+  },
+  {
+    "word": "götürülməsində",
+    "original_lemma": "götürülməsində",
+    "new_lemma": "götürülmə" // wrong, must be götür
+  },
+  {
+    "word": "mədəniyyəsinin",
+    "original_lemma": "mədəniyyəsinin",
+    "new_lemma": "mədəniyyə" // wrong, the word itself is misspelled, must be mədəniyyətinin, and the lemma must be mədəniyyət
+  },
+  {
+    "word": "Patrtiyasının",
+    "original_lemma": "Patrtiyasının",
+    "new_lemma": "Patrtiya" // wrong, the word itself is misspelled, must be Partiyasının, and the lemma must be Partiya
+  },
+  {
+    "word": "Ordasına",
+    "original_lemma": "Ordasına",
+    "new_lemma": "Orda" // wrong, the word itself is misspelled, must be Ordusuna, and the lemma must be Ordu
+  },
+  {
+    "word": "ordasına",
+    "original_lemma": "ordasına",
+    "new_lemma": "orda" // wrong, the word itself is misspelled, must be ordusuna, and the lemma must be ordu
+  },
+  {
+    "word": "yönəldilməsinə",
+    "original_lemma": "yönəldilməsinə",
+    "new_lemma": "yönəldilmə" // wrong, must be yönəl
+  },
+  {
+    "word": "kvotasının",
+    "original_lemma": "kvotasının",
+    "new_lemma": "kvota"
+  },
+  {
+    "word": "enercisinin",
+    "original_lemma": "enercisinin",
+    "new_lemma": "enerci"
+  },
+  {
+    "word": "Konfusinin",
+    "original_lemma": "Konfusinin",
+    "new_lemma": "Konfu"
+  },
+  {
+    "word": "konurbasiyasına",
+    "original_lemma": "konurbasiyasına",
+    "new_lemma": "konurbasiya"
+  },
+  {
+    "word": "Xəstaxanasında",
+    "original_lemma": "Xəstaxanasında",
+    "new_lemma": "Xəstaxana"
+  },
+  {
+    "word": "cərrahiyyəsinin",
+    "original_lemma": "cərrahiyyəsinin",
+    "new_lemma": "cərrahiyyə"
+  },
+  {
+    "word": "Universitesində",
+    "original_lemma": "Universitesində",
+    "new_lemma": "Universite" // wrong, must be Universitetində, and the lemma must be Universitet
+  },
+  {
+    "word": "rezeksiyasında",
+    "original_lemma": "rezeksiyasında",
+    "new_lemma": "rezeksiya"
+  },
+  {
+    "word": "Univesitesində",
+    "original_lemma": "Univesitesində",
+    "new_lemma": "Univesite" // wrong, must be Universitetində, and the lemma must be Universitet
+  },
+  {
+    "word": "absesinin",
+    "original_lemma": "absesinin",
+    "new_lemma": "abse" // wrong, must be deleted
+  },
+  {
+    "word": "hazırlnamışdır",
+    "original_lemma": "hazırlnamışdır",
+    "new_lemma": "hazırlna" // wrong, must be deleted
+  },
+  {
+    "word": "disfunksiyasına",
+    "original_lemma": "disfunksiyasına",
+    "new_lemma": "disfunksiya"
+  },
+  {
+    "word": "Komossiyasının",
+    "original_lemma": "Komossiyasının",
+    "new_lemma": "Komossiya" // wrong, the word itself is misspelled, must be Komissiyasının, and the lemma must be Komissiya
+  },
+  {
+    "word": "qotikasının",
+    "original_lemma": "qotikasının",
+    "new_lemma": "qotika"
+  },
+  {
+    "word": "kıyısında",
+    "original_lemma": "kıyısında",
+    "new_lemma": "kıyı"
+  },
+  {
+    "word": "sçilmişdir",
+    "original_lemma": "sçilmişdir",
+    "new_lemma": "sçil" // wrong, the word itself is misspelled, must be seçilmişdir, and the lemma must be seç
+  },
+  {
+    "word": "tdirmişdir",
+    "original_lemma": "tdirmişdir",
+    "new_lemma": "tdir" // wrong, must be deleted
+  },
+  {
+    "word": "kçirmişdir",
+    "original_lemma": "kçirmişdir",
+    "new_lemma": "kçir" // wrong, the word itself is misspelled, must be keçirmişdir, and the lemma must be keç
+  },
+  {
+    "word": "Qülləsinə",
+    "original_lemma": "Qülləsinə",
+    "new_lemma": "Qüllə"
+  },
+  {
+    "word": "miomasının",
+    "original_lemma": "miomasının",
+    "new_lemma": "mioma"
+  },
+  {
+    "word": "ekskresiyasının",
+    "original_lemma": "ekskresiyasının",
+    "new_lemma": "ekskresiya"
+  },
+  {
+    "word": "atreriyasına",
+    "original_lemma": "atreriyasına",
+    "new_lemma": "atreriya"
+  },
+  {
+    "word": "xütbəsinə",
+    "original_lemma": "xütbəsinə",
+    "new_lemma": "xütbə"
+  },
+  {
+    "word": "qovulmasında",
+    "original_lemma": "qovulmasında",
+    "new_lemma": "qovulma"
+  },
+  {
+    "word": "populyasiyasında",
+    "original_lemma": "populyasiyasında",
+    "new_lemma": "populyasiya"
+  },
+  {
+    "word": "kontaminasiyasında",
+    "original_lemma": "kontaminasiyasında",
+    "new_lemma": "kontaminasiya"
+  },
+  {
+    "word": "generalizasiyasının",
+    "original_lemma": "generalizasiyasının",
+    "new_lemma": "generalizasiya"
+  },
+  {
+    "word": "profilaktikasına",
+    "original_lemma": "profilaktikasına",
+    "new_lemma": "profilaktika" // wrong, must be profilaktik
+  },
+  {
+    "word": "profilak-tikasının",
+    "original_lemma": "profilak-tikasının",
+    "new_lemma": "profilak-tika"
+  },
+  {
+    "word": "profilaktikasının",
+    "original_lemma": "profilaktikasının",
+    "new_lemma": "profilaktika" // wrong, must be profilaktik
+  },
+  {
+    "word": "Konstitusiyasının",
+    "original_lemma": "Konstitusiyasının",
+    "new_lemma": "Konstitusiya"
+  },
+  {
+    "word": "yerləşdirilmişdir",
+    "original_lemma": "yerləşdirilmişdir",
+    "new_lemma": "yerləşdiril"
+  },
+  {
+    "word": "Məcnunoperasında",
+    "original_lemma": "Məcnunoperasında",
+    "new_lemma": "Məcnunopera"
+  },
+  {
+    "word": "Məcnunoperasının",
+    "original_lemma": "Məcnunoperasının",
+    "new_lemma": "Məcnunopera"
+  },
+  {
+    "word": "siyahıyaalınmasına",
+    "original_lemma": "siyahıyaalınmasına",
+    "new_lemma": "siyahıyaalınma"
+  },
+  {
+    "word": "Konservatoriyasının",
+    "original_lemma": "Konservatoriyasının",
+    "new_lemma": "Konservatoriya"
+  },
+  {
+    "word": "Deklarasiyasının",
+    "original_lemma": "Deklarasiyasının",
+    "new_lemma": "Deklarasiya"
+  },
+  {
+    "word": "Arxivləşdirilmişdir",
+    "original_lemma": "Arxivləşdirilmişdir",
+    "new_lemma": "Arxivləşdiril" // wrong, must be Arxiv
+  },
+  {
+    "word": "qohum-əqrəbasının",
+    "original_lemma": "qohum-əqrəbasının",
+    "new_lemma": "qohum-əqrəba"
+  },
+  {
+    "word": "Assosiasiyasının",
+    "original_lemma": "Assosiasiyasının",
+    "new_lemma": "Assosiasiya"
+  },
+  {
+    "word": "Konfederasiyasının",
+    "original_lemma": "Konfederasiyasının",
+    "new_lemma": "Konfederasiya"
+  },
+  {
+    "word": "mümkünləşdirmişdir",
+    "original_lemma": "mümkünləşdirmişdir",
+    "new_lemma": "mümkünləşdir"
+  },
+  {
+    "word": "unikallaşdırmışdır",
+    "original_lemma": "unikallaşdırmışdır",
+    "new_lemma": "unikallaşdır" // wrong, must be unikal
+  },
+  {
+    "word": "proqnozlaşdırılmasına",
+    "original_lemma": "proqnozlaşdırılmasına",
+    "new_lemma": "proqnozlaşdırılma" // wrong, must be proqnozlaşdır
+  },
+  {
+    "word": "transqressiyasına",
+    "original_lemma": "transqressiyasına",
+    "new_lemma": "transqressiya" 
+  },
+  {
+    "word": "paleocoğrafiyasına",
+    "original_lemma": "paleocoğrafiyasına",
+    "new_lemma": "paleocoğrafiya"
+  },
+  {
+    "word": "paleogeomorfologiyasına",
+    "original_lemma": "paleogeomorfologiyasına",
+    "new_lemma": "paleogeomorfologiya"
+  },
+  {
+    "word": "biotənzimlənməsində",
+    "original_lemma": "biotənzimlənməsində",
+    "new_lemma": "biotənzimlənmə"
+  },
+  {
+    "word": "bioekologiyasına",
+    "original_lemma": "bioekologiyasına",
+    "new_lemma": "bioekologiya"
+  },
+  {
+    "word": "sdlandırılmışdır",
+    "original_lemma": "sdlandırılmışdır",
+    "new_lemma": "sdlandırıl"
+  },
+  {
+    "word": "Komnino-Varvasinin",
+    "original_lemma": "Komnino-Varvasinin",
+    "new_lemma": "Komnino-Varva"
+  },
+  {
+    "word": "administrasiyasının",
+    "original_lemma": "administrasiyasının",
+    "new_lemma": "administrasiya"
+  },
+  {
+    "word": "yurisdiksiyasına",
+    "original_lemma": "yurisdiksiyasına",
+    "new_lemma": "yurisdiksiya"
+  },
+  {
+    "word": "agioqrafiyasında",
+    "original_lemma": "agioqrafiyasında",
+    "new_lemma": "agioqrafiya"
+  },
+  {
+    "word": "arxitektonikasına",
+    "original_lemma": "arxitektonikasına",
+    "new_lemma": "arxitektonika"
+  },
+  {
+    "word": "portlaşdırılmışdır",
+    "original_lemma": "portlaşdırılmışdır",
+    "new_lemma": "portlaşdırıl"
+  },
+  {
+    "word": "monografiyasında",
+    "original_lemma": "monografiyasında",
+    "new_lemma": "monografiya"
+  },
+  {
+    "word": "istintaq-araşdırmasının",
+    "original_lemma": "istintaq-araşdırmasının",
+    "new_lemma": "istintaq-araşdırma"
+  },
+  {
+    "word": "aqlomerasiyasının",
+    "original_lemma": "aqlomerasiyasının",
+    "new_lemma": "aqlomerasiya"
+  },
+  {
+    "word": "KateqoriyaViskonsində",
+    "original_lemma": "KateqoriyaViskonsində",
+    "new_lemma": "KateqoriyaViskon"
+  },
+  {
+    "word": "yerləşdirilməsinin",
+    "original_lemma": "yerləşdirilməsinin",
+    "new_lemma": "yerləşdirilmə"
+  },
+  {
+    "word": "populyasiyasının",
+    "original_lemma": "populyasiyasının",
+    "new_lemma": "populyasiya"
+  },
+  {
+    "word": "mikrosəviyyəsinə",
+    "original_lemma": "mikrosəviyyəsinə",
+    "new_lemma": "mikrosəviyyə"
+  },
+  {
+    "word": "lisenziyalaşdırılmamışdır",
+    "original_lemma": "lisenziyalaşdırılmamışdır",
+    "new_lemma": "lisenziyalaşdırılma"
+  },
+  {
+    "word": "Konservatoriyasında",
+    "original_lemma": "Konservatoriyasında",
+    "new_lemma": "Konservatoriya"
+  },
+  {
+    "word": "yaxşılaşdırlımasına",
+    "original_lemma": "yaxşılaşdırlımasına",
+    "new_lemma": "yaxşılaşdırlıma" // wrong, must be yaxşı
+  },
+  {
+    "word": "sinifləndirilməsinin",
+    "original_lemma": "sinifləndirilməsinin",
+    "new_lemma": "sinifləndirilmə"
+  },
+  {
+    "word": "psevdokulturasının",
+    "original_lemma": "psevdokulturasının",
+    "new_lemma": "psevdokultura"
+  },
+  {
+    "word": "Layihələndirilməsinə",
+    "original_lemma": "Layihələndirilməsinə",
+    "new_lemma": "Layihələndirilmə" // wrong, must be Layihə
+  },
+  {
+    "word": "siyahıyaalınmasının",
+    "original_lemma": "siyahıyaalınmasının",
+    "new_lemma": "siyahıyaalınma"
+  },
+  {
+    "word": "Konfederasiyasına",
+    "original_lemma": "Konfederasiyasına",
+    "new_lemma": "Konfederasiya"
+  },
+  {
+    "word": "Assosiasiyasında",
+    "original_lemma": "Assosiasiyasında",
+    "new_lemma": "Assosiasiya"
+  },
+  {
+    "word": "assossasiyasının",
+    "original_lemma": "assossasiyasının",
+    "new_lemma": "assossasiya"
+  },
+  {
+    "word": "məlumatlandırılmamışdır",
+    "original_lemma": "məlumatlandırılmamışdır",
+    "new_lemma": "məlumatlandırılma"
+  },
+  {
+    "word": "İsgəndərnaməpoemasının",
+    "original_lemma": "İsgəndərnaməpoemasının",
+    "new_lemma": "İsgəndərnaməpoema"
+  },
+  {
+    "word": "Ekspedisiyasının",
+    "original_lemma": "Ekspedisiyasının",
+    "new_lemma": "Ekspedisiya"
+  },
+  {
+    "word": "Aydınlaşdırılmışdır",
+    "original_lemma": "Aydınlaşdırılmışdır",
+    "new_lemma": "Aydınlaşdırıl" // wrong, must be Aydın
+  },
+  {
+    "word": "yaşayıb-yaratmışdır",
+    "original_lemma": "yaşayıb-yaratmışdır",
+    "new_lemma": "yaşayıb-yarat"
+  },
+  {
+    "word": "Konservatoriyasına",
+    "original_lemma": "Konservatoriyasına",
+    "new_lemma": "Konservatoriya"
+  },
+  {
+    "word": "tikdirtdirmişdir",
+    "original_lemma": "tikdirtdirmişdir",
+    "new_lemma": "tikdirtdir" // wrong, must be tik
+  },
+  {
+    "word": "Asssosiasiyasının",
+    "original_lemma": "Asssosiasiyasının",
+    "new_lemma": "Asssosiasiya"
+  },
+  {
+    "word": "Siyahıyaalınmasına",
+    "original_lemma": "Siyahıyaalınmasına",
+    "new_lemma": "Siyahıyaalınma"
+  },
+  {
+    "word": "Populyasiyasının",
+    "original_lemma": "Populyasiyasının",
+    "new_lemma": "Populyasiya"
+  },
+  {
+    "word": "bronlaşdırmasının",
+    "original_lemma": "bronlaşdırmasının",
+    "new_lemma": "bronlaşdırma" // wrong, must be bron
+  },
+  {
+    "word": "şaxəsininsuayırıcısında",
+    "original_lemma": "şaxəsininsuayırıcısında",
+    "new_lemma": "şaxəsininsuayırıcı"
+  },
+  {
+    "word": "yarımmərtəbəsinə",
+    "original_lemma": "yarımmərtəbəsinə",
+    "new_lemma": "yarımmərtəbə"
+  },
+  {
+    "word": "Konstitusiyasına",
+    "original_lemma": "Konstitusiyasına",
+    "new_lemma": "Konstitusiya"
+  },
+  {
+    "word": "cəzalandırlmasına",
+    "original_lemma": "cəzalandırlmasına",
+    "new_lemma": "cəzalandırlma"
+  },
+  {
+    "word": "sivilizasiyasının",
+    "original_lemma": "sivilizasiyasının",
+    "new_lemma": "sivilizasiya"
+  },
+  {
+    "word": "Paralimpiadasının",
+    "original_lemma": "Paralimpiadasının",
+    "new_lemma": "Paralimpiada"
+  },
+  {
+    "word": "Filarmoniyasının",
+    "original_lemma": "Filarmoniyasının",
+    "new_lemma": "Filarmoniya"
+  },
+  {
+    "word": "ekspozisiyasında",
+    "original_lemma": "ekspozisiyasında",
+    "new_lemma": "ekspozisiya"
+  },
+  {
+    "word": "artilleriyasında",
+    "original_lemma": "artilleriyasında",
+    "new_lemma": "artilleriya"
+  },
+  {
+    "word": "aqlomerasiyasında",
+    "original_lemma": "aqlomerasiyasında",
+    "new_lemma": "aqlomerasiya"
+  },
+  {
+    "word": "edilib-edilməməsinə",
+    "original_lemma": "edilib-edilməməsinə",
+    "new_lemma": "edilib-edilməmə"
+  },
+  {
+    "word": "əhavli-ruhiyyəsinin",
+    "original_lemma": "əhavli-ruhiyyəsinin",
+    "new_lemma": "əhavli-ruhiyyə"
+  },
+  {
+    "word": "bölüşdürülmüşdür",
+    "original_lemma": "bölüşdürülmüşdür",
+    "new_lemma": "bölüşdürül" // wrong, must be böl
+  },
+  {
+    "word": "silahsızlaşdırılmışdır",
+    "original_lemma": "silahsızlaşdırılmışdır",
+    "new_lemma": "silahsızlaşdırıl" // wrong, must be silah
+  },
+  {
+    "word": "dizayn-konsepsiyasının",
+    "original_lemma": "dizayn-konsepsiyasının",
+    "new_lemma": "dizayn-konsepsiya"
+  },
+  {
+    "word": "instrumentovkasına",
+    "original_lemma": "instrumentovkasına",
+    "new_lemma": "instrumentovka"
+  },
+  {
+    "word": "Filarmoniyasında",
+    "original_lemma": "Filarmoniyasında",
+    "new_lemma": "Filarmoniya"
+  },
+  {
+    "word": "tənzimlənməsinin",
+    "original_lemma": "tənzimlənməsinin",
+    "new_lemma": "tənzimlənmə" // wrong, must be tənzim
+  },
+  {
+    "word": "müqəddəsləşdirmişdir",
+    "original_lemma": "müqəddəsləşdirmişdir",
+    "new_lemma": "müqəddəsləşdir" // wrong, must be müqəddəs
+  },
+  {
+    "word": "çılpaqgözlüsünün",
+    "original_lemma": "çılpaqgözlüsünün",
+    "new_lemma": "çılpaqgözlü"
+  },
+  {
+    "word": "hidroksilləşməsində",
+    "original_lemma": "hidroksilləşməsində",
+    "new_lemma": "hidroksilləşmə"
+  },
+  {
+    "word": "Kinostudiyasında",
+    "original_lemma": "Kinostudiyasında",
+    "new_lemma": "Kinostudiya"
+  },
+  {
+    "word": "ikonoqrafiyasında",
+    "original_lemma": "ikonoqrafiyasında",
+    "new_lemma": "ikonoqrafiya"
+  },
+  {
+    "word": "teatr-studiyasında",
+    "original_lemma": "teatr-studiyasında",
+    "new_lemma": "teatr-studiya"
+  },
+  {
+    "word": "istəyib-istəməməsinə",
+    "original_lemma": "istəyib-istəməməsinə",
+    "new_lemma": "istəyib-istəməmə"
+  },
+  {
+    "word": "malformasiyasının",
+    "original_lemma": "malformasiyasının",
+    "new_lemma": "malformasiya"
+  },
+  {
+    "word": "istiqamətləndirilməsində",
+    "original_lemma": "istiqamətləndirilməsində",
+    "new_lemma": "istiqamətləndirilmə" // wrong, must be istiqamət
+  },
+  {
+    "word": "yerləşdirilməsinə",
+    "original_lemma": "yerləşdirilməsinə",
+    "new_lemma": "yerləşdirilmə" //wrong, must be yerləş
+  },
+  {
+    "word": "transkripsiyasına",
+    "original_lemma": "transkripsiyasına",
+    "new_lemma": "transkripsiya"
+  },
+  {
+    "word": "məskunlaşmasının",
+    "original_lemma": "məskunlaşmasının",
+    "new_lemma": "məskunlaşma" // wrong, must be məskunlaş
+  },
+  {
+    "word": "Ensiklopediyasının",
+    "original_lemma": "Ensiklopediyasının",
+    "new_lemma": "Ensiklopediya"
+  },
+  {
+    "word": "observatoriyasında",
+    "original_lemma": "observatoriyasında",
+    "new_lemma": "observatoriya"
+  },
+  {
+    "word": "tipoqrafiyasında",
+    "original_lemma": "tipoqrafiyasında",
+    "new_lemma": "tipoqrafiya"
+  },
+  {
+    "word": "sənədləşdirilmişdir",
+    "original_lemma": "sənədləşdirilmişdir",
+    "new_lemma": "sənədləşdiril" // wrong, must be sənəd
+  },
+  {
+    "word": "inteqrasiyasının",
+    "original_lemma": "inteqrasiyasının",
+    "new_lemma": "inteqrasiya"
+  },
+  {
+    "word": "məskunlaşılmışdır",
+    "original_lemma": "məskunlaşılmışdır",
+    "new_lemma": "məskunlaşıl" // wrong, must be məskun
+  },
+  {
+    "word": "dissertasiyasının",
+    "original_lemma": "dissertasiyasının",
+    "new_lemma": "dissertasiya"
+  },
+  {
+    "word": "qoşalaşdırılmışdır",
+    "original_lemma": "qoşalaşdırılmışdır",
+    "new_lemma": "qoşalaşdırıl" // wrong, must be qoşa
+  },
+  {
+    "word": "Konfedrasiyasının",
+    "original_lemma": "Konfedrasiyasının",
+    "new_lemma": "Konfedrasiya"
+  },
+  {
+    "word": "sənayeləşdirilməsinə",
+    "original_lemma": "sənayeləşdirilməsinə",
+    "new_lemma": "sənayeləşdirilmə" // wrong, must be sənaye
+  },
+  {
+    "word": "Korporasiyasının",
+    "original_lemma": "Korporasiyasının",
+    "new_lemma": "Korporasiya"
+  },
+  {
+    "word": "Administrasiyasının",
+    "original_lemma": "Administrasiyasının",
+    "new_lemma": "Administrasiya"
+  },
+  {
+    "word": "dissertasiyasına",
+    "original_lemma": "dissertasiyasına",
+    "new_lemma": "dissertasiya"
+  },
+  {
+    "word": "arxeparxiyasının",
+    "original_lemma": "arxeparxiyasının",
+    "new_lemma": "arxeparxiya"
+  },
+  {
+    "word": "yurisdiksiyasında",
+    "original_lemma": "yurisdiksiyasında",
+    "new_lemma": "yurisdiksiya"
+  },
+  {
+    "word": "publikasiyasında",
+    "original_lemma": "publikasiyasında",
+    "new_lemma": "publikasiya"
+  },
+  {
+    "word": "inteqrasiyasında",
+    "original_lemma": "inteqrasiyasında",
+    "new_lemma": "inteqrasiya"
+  },
+  {
+    "word": "layihələndirilməsində",
+    "original_lemma": "layihələndirilməsində",
+    "new_lemma": "layihələndirilmə" // wrong, must be layihə
+  },
+  {
+    "word": "Konstitusiyasinin",
+    "original_lemma": "Konstitusiyasinin",
+    "new_lemma": "Konstitusiya"
+  },
+  {
+    "word": "rəsmiləşdirılmışdır",
+    "original_lemma": "rəsmiləşdirılmışdır",
+    "new_lemma": "rəsmiləşdirıl" // wrong, must be rəsmi
+  },
+  {
+    "word": "Rezidenturasında",
+    "original_lemma": "Rezidenturasında",
+    "new_lemma": "Rezidentura"
+  },
+  {
+    "word": "sürətləndirmişdir",
+    "original_lemma": "sürətləndirmişdir",
+    "new_lemma": "sürətləndir" // wrong, must be sürət
+  },
+  {
+    "word": "Radio-Televiziyasında",
+    "original_lemma": "Radio-Televiziyasında",
+    "new_lemma": "Radio-Televiziya"
+  },
+  {
+    "word": "filmləşdirilmişdir",
+    "original_lemma": "filmləşdirilmişdir",
+    "new_lemma": "filmləşdiril" // wrong, must be film
+  },
+  {
+    "word": "dəqiqləşdirilmişdir",
+    "original_lemma": "dəqiqləşdirilmişdir",
+    "new_lemma": "dəqiqləşdiril" // wrong, must be dəqiq
+  },
+  {
+    "word": "identifikasiyasına",
+    "original_lemma": "identifikasiyasına",
+    "new_lemma": "identifikasiya"
+  },
+  {
+    "word": "proqnozlaşdırılmasında",
+    "original_lemma": "proqnozlaşdırılmasında",
+    "new_lemma": "proqnozlaşdırılma" // wrong, must be proqnoz
+  },
+  {
+    "word": "profilaktikasında",
+    "original_lemma": "profilaktikasında",
+    "new_lemma": "profilaktika"
+  },
+  {
+    "word": "məlumatlandırmışdır",
+    "original_lemma": "məlumatlandırmışdır",
+    "new_lemma": "məlumatlandır" // wrong, must be məlumat
+  },
+  {
+    "word": "günahlandırmışdır",
+    "original_lemma": "günahlandırmışdır",
+    "new_lemma": "günahlandır" // wrong, must be günah
+  },
+  {
+    "word": "kondensasiyasının",
+    "original_lemma": "kondensasiyasının",
+    "new_lemma": "kondensasiya"
+  },
+  {
+    "word": "kreditləşməsinin",
+    "original_lemma": "kreditləşməsinin",
+    "new_lemma": "kreditləşmə" // wrong, must be kredit
+  },
+  {
+    "word": "layihələndirilməsinin",
+    "original_lemma": "layihələndirilməsinin",
+    "new_lemma": "layihələndirilmə" // wrong, must be layihə
+  },
+  {
+    "word": "sığortalanmasında",
+    "original_lemma": "sığortalanmasında",
+    "new_lemma": "sığortalanma" // wrong, must be sığorta
+  },
+  {
+    "word": "Telestudiyasında",
+    "original_lemma": "Telestudiyasında",
+    "new_lemma": "Telestudiya"
+  },
+  {
+    "word": "konsentrasiyasının",
+    "original_lemma": "konsentrasiyasının",
+    "new_lemma": "konsentrasiya"
+  },
+  {
+    "word": "Ensiklopediyasında",
+    "original_lemma": "Ensiklopediyasında",
+    "new_lemma": "Ensiklopediya"
+  },
+  {
+    "word": "etnorqafiyasının",
+    "original_lemma": "etnorqafiyasının",
+    "new_lemma": "etnorqafiya"
+  },
+  {
+    "word": "layihələndirilmişdir",
+    "original_lemma": "layihələndirilmişdir",
+    "new_lemma": "layihələndiril" // wrong, must be layihə
+  },
+  {
+    "word": "korporasiyasının",
+    "original_lemma": "korporasiyasının",
+    "new_lemma": "korporasiya"
+  },
+  {
+    "word": "ekstrapolyasiyasının",
+    "original_lemma": "ekstrapolyasiyasının",
+    "new_lemma": "ekstrapolyasiya"
+  },
+  {
+    "word": "qəhrəmanlaşdırılmamışdır",
+    "original_lemma": "qəhrəmanlaşdırılmamışdır",
+    "new_lemma": "qəhrəmanlaşdırılma"
+  },
+  {
+    "word": "sərgilənməməsinin",
+    "original_lemma": "sərgilənməməsinin",
+    "new_lemma": "sərgilənməmə" // wrong, must be sərgilənmə
+  },
+  {
+    "word": "yerləşdirməmişdir",
+    "original_lemma": "yerləşdirməmişdir",
+    "new_lemma": "yerləşdirmə" // wrong, must be yerləş
+  },
+  {
+    "word": "sərgilənməmişdir",
+    "original_lemma": "sərgilənməmişdir",
+    "new_lemma": "sərgilənmə" // wrong, must be sərgilə
+  },
+  {
+    "word": "dəyərləndirmişdir",
+    "original_lemma": "dəyərləndirmişdir",
+    "new_lemma": "dəyərləndir" // wrong, must be dəyər
+  },
+  {
+    "word": "magistraturasında",
+    "original_lemma": "magistraturasında",
+    "new_lemma": "magistratura"
+  },
+  {
+    "word": "monoqrafıyasında",
+    "original_lemma": "monoqrafıyasında",
+    "new_lemma": "monoqrafıya"
+  },
+  {
+    "word": "Konstitusiyasında",
+    "original_lemma": "Konstitusiyasında",
+    "new_lemma": "Konstitusiya"
+  },
+  {
+    "word": "Assosiyasiyasının",
+    "original_lemma": "Assosiyasiyasının",
+    "new_lemma": "Assosiyasiya"
+  },
+  {
+    "word": "denominasiyasına",
+    "original_lemma": "denominasiyasına",
+    "new_lemma": "denominasiya"
+  },
+  {
+    "word": "zərəsizləşdirilmişdir",
+    "original_lemma": "zərəsizləşdirilmişdir",
+    "new_lemma": "zərəsizləşdiril" // wrong, must be zərərsiz
+  },
+  {
+    "word": "konfiqurasiyasına",
+    "original_lemma": "konfiqurasiyasına",
+    "new_lemma": "konfiqurasiya"
+  },
+  {
+    "word": "layihələndirmişdir",
+    "original_lemma": "layihələndirmişdir",
+    "new_lemma": "layihələndir" // wrong, must be layihə
+  },
+  {
+    "word": "populyasıyasının",
+    "original_lemma": "populyasıyasının",
+    "new_lemma": "populyasıya"
+  },
+  {
+    "word": "yerləşdirilməsində",
+    "original_lemma": "yerləşdirilməsində",
+    "new_lemma": "yerləşdirilmə" // wrong, must be yerləş
+  },
+  {
+    "word": "profiliktikasında",
+    "original_lemma": "profiliktikasında",
+    "new_lemma": "profiliktika"
+  },
+  {
+    "word": "diskriminasiyasına",
+    "original_lemma": "diskriminasiyasına",
+    "new_lemma": "diskriminasiya"
+  },
+  {
+    "word": "kammunikasiyasının",
+    "original_lemma": "kammunikasiyasının",
+    "new_lemma": "kammunikasiya"
+  },
+  {
+    "word": "minerallaşmasında",
+    "original_lemma": "minerallaşmasında",
+    "new_lemma": "minerallaşma" // wrong, must be mineral
+  },
+  {
+    "word": "şəhadətnaməsində",
+    "original_lemma": "şəhadətnaməsində",
+    "new_lemma": "şəhadətnamə"
+  },
+  {
+    "word": "tənzimlənməsində",
+    "original_lemma": "tənzimlənməsində",
+    "new_lemma": "tənzimlənmə" // wrong, must be tənzim
+  },
+  {
+    "word": "yayınlanmamışdır",
+    "original_lemma": "yayınlanmamışdır",
+    "new_lemma": "yayınlanma" // wrong, must be yayın
+  },
+  {
+    "word": "Universiadasının",
+    "original_lemma": "Universiadasının",
+    "new_lemma": "Universiada"
+  },
+  {
+    "word": "neştərvaridirsivriləşmişdir",
+    "original_lemma": "neştərvaridirsivriləşmişdir",
+    "new_lemma": "neştərvaridirsivriləş"
+  },
+  {
+    "word": "mütləqləşdirilməsinə",
+    "original_lemma": "mütləqləşdirilməsinə",
+    "new_lemma": "mütləqləşdirilmə" // wrong, must be mütləq
+  },
+  {
+    "word": "jandarmeriyasında",
+    "original_lemma": "jandarmeriyasında",
+    "new_lemma": "jandarmeriya"
+  },
+  {
+    "word": "jandarmeriyasının",
+    "original_lemma": "jandarmeriyasının",
+    "new_lemma": "jandarmeriya"
+  },
+  {
+    "word": "istiqamətləndirmişdir",
+    "original_lemma": "istiqamətləndirmişdir",
+    "new_lemma": "istiqamətləndir" // wrong, must be istiqamət
+  },
+  {
+    "word": "Laboratoriyasında",
+    "original_lemma": "Laboratoriyasında",
+    "new_lemma": "Laboratoriya"
+  },
+  {
+    "word": "marginallaşmışdır",
+    "original_lemma": "marginallaşmışdır",
+    "new_lemma": "marginallaş" // wrong, must be marjinal
+  },
+  {
+    "word": "farmakokinetikasının",
+    "original_lemma": "farmakokinetikasının",
+    "new_lemma": "farmakokinetika"
+  },
+  {
+    "word": "konfiqurasiyasının",
+    "original_lemma": "konfiqurasiyasının",
+    "new_lemma": "konfiqurasiya"
+  },
+  {
+    "word": "patomorfologiyasının",
+    "original_lemma": "patomorfologiyasının",
+    "new_lemma": "patomorfologiya"
+  },
+  {
+    "word": "artilleriyasının",
+    "original_lemma": "artilleriyasının",
+    "new_lemma": "artilleriya"
+  },
+  {
+    "word": "Laboratoriyasının",
+    "original_lemma": "Laboratoriyasının",
+    "new_lemma": "Laboratoriya"
+  },
+  {
+    "word": "metrostansiyasına",
+    "original_lemma": "metrostansiyasına",
+    "new_lemma": "metrostansiya"
+  },
+  {
+    "word": "istiqamətlənmişdir",
+    "original_lemma": "istiqamətlənmişdir",
+    "new_lemma": "istiqamətlən" // wrong, must be istiqamət
+  },
+  {
+    "word": "quruluşuərazisində",
+    "original_lemma": "quruluşuərazisində",
+    "new_lemma": "quruluşuərazi"
+  },
+  {
+    "word": "Konstitutsiyasına",
+    "original_lemma": "Konstitutsiyasına",
+    "new_lemma": "Konstitutsiya"
+  },
+  {
+    "word": "genişlədilmişdir",
+    "original_lemma": "genişlədilmişdir",
+    "new_lemma": "genişlədil" // wrong, must be geniş
+  },
+  {
+    "word": "administrasiyasına",
+    "original_lemma": "administrasiyasına",
+    "new_lemma": "administrasiya"
+  },
+  {
+    "word": "İsgəndəriyyəsinin",
+    "original_lemma": "İsgəndəriyyəsinin",
+    "new_lemma": "İsgəndəriyyə"
+  },
+  {
+    "word": "İskəndəriyyəsinin",
+    "original_lemma": "İskəndəriyyəsinin",
+    "new_lemma": "İskəndəriyyə"
+  },
+  {
+    "word": "yuxarısındakıüyməsinə",
+    "original_lemma": "yuxarısındakıüyməsinə",
+    "new_lemma": "yuxarısındakıüymə"
+  },
+  {
+    "word": "aydanlaşdırılmışdır",
+    "original_lemma": "aydanlaşdırılmışdır",
+    "new_lemma": "aydanlaşdırıl"
+  },
+  {
+    "word": "stabilləşməsinin",
+    "original_lemma": "stabilləşməsinin",
+    "new_lemma": "stabilləşmə"
+  },
+  {
+    "word": "doktoranturasına",
+    "original_lemma": "doktoranturasına",
+    "new_lemma": "doktorantura"
+  },
+  {
+    "word": "regiomərtəbəsinə",
+    "original_lemma": "regiomərtəbəsinə",
+    "new_lemma": "regiomərtəbə"
+  },
+  {
+    "word": "təlim-tərbiyəsinə",
+    "original_lemma": "təlim-tərbiyəsinə",
+    "new_lemma": "təlim-tərbiyə"
+  },
+  {
+    "word": "labaratoriyasında",
+    "original_lemma": "labaratoriyasında",
+    "new_lemma": "labaratoriya"
+  },
+  {
+    "word": "siviliziyasiyasının",
+    "original_lemma": "siviliziyasiyasının",
+    "new_lemma": "siviliziyasiya"
+  },
+  {
+    "word": "emansipasiyasına",
+    "original_lemma": "emansipasiyasına",
+    "new_lemma": "emansipasiya"
+  },
+  {
+    "word": "müqəddəsləşdirilmişdir",
+    "original_lemma": "müqəddəsləşdirilmişdir",
+    "new_lemma": "müqəddəsləşdiril"
+  },
+  {
+    "word": "konseptuallaşdırmışdır",
+    "original_lemma": "konseptuallaşdırmışdır",
+    "new_lemma": "konseptuallaşdır"
+  },
+  {
+    "word": "kreditləşdirilməsinin",
+    "original_lemma": "kreditləşdirilməsinin",
+    "new_lemma": "kreditləşdirilmə"
+  },
+  {
+    "word": "institutlaşdırmışdır",
+    "original_lemma": "institutlaşdırmışdır",
+    "new_lemma": "institutlaşdır" // wrong, must be institut
+  },
+  {
+    "word": "institutlaşdırmamışdır",
+    "original_lemma": "institutlaşdırmamışdır",
+    "new_lemma": "institutlaşdırma"
+  },
+  {
+    "word": "metrostansiyasının",
+    "original_lemma": "metrostansiyasının",
+    "new_lemma": "metrostansiya"
+  },
+  {
+    "word": "təşkilatlanmasının",
+    "original_lemma": "təşkilatlanmasının",
+    "new_lemma": "təşkilatlanma" // wrong, must be təşkilat
+  },
+  {
+    "word": "Costaguana-sında",
+    "original_lemma": "Costaguana-sında",
+    "new_lemma": "Costaguana-"
+  },
+  {
+    "word": "siyahıyaalınmasında",
+    "original_lemma": "siyahıyaalınmasında",
+    "new_lemma": "siyahıyaalınma"
+  },
+  {
+    "word": "erməniləşdirilməsinə",
+    "original_lemma": "erməniləşdirilməsinə",
+    "new_lemma": "erməniləşdirilmə"
+  },
+  {
+    "word": "deportasiyasının",
+    "original_lemma": "deportasiyasının",
+    "new_lemma": "deportasiya"
+  },
+  {
+    "word": "yönləndirilmişdir",
+    "original_lemma": "yönləndirilmişdir",
+    "new_lemma": "yönləndiril" // wrong, must be yön
+  },
+  {
+    "word": "kompensasiyasının",
+    "original_lemma": "kompensasiyasının",
+    "new_lemma": "kompensasiya"
+  },
+  {
+    "word": "aşkarlanmamışdır",
+    "original_lemma": "aşkarlanmamışdır",
+    "new_lemma": "aşkarlanma" // wrong, must be aşkar
+  },
+  {
+    "word": "kolonizasiyasının",
+    "original_lemma": "kolonizasiyasının",
+    "new_lemma": "kolonizasiya"
+  },
+  {
+    "word": "şərtləndirmişdir",
+    "original_lemma": "şərtləndirmişdir",
+    "new_lemma": "şərtləndir" // wrong, must be şərt
+  },
+  {
+    "word": "metroritmikasının",
+    "original_lemma": "metroritmikasının",
+    "new_lemma": "metroritmika"
+  },
+  {
+    "word": "diversifikasiyasına",
+    "original_lemma": "diversifikasiyasına",
+    "new_lemma": "diversifikasiya"
+  },
+  {
+    "word": "kondensasiyasına",
+    "original_lemma": "kondensasiyasına",
+    "new_lemma": "kondensasiya"
+  },
+  {
+    "word": "Arxiyeparxiyasının",
+    "original_lemma": "Arxiyeparxiyasının",
+    "new_lemma": "Arxiyeparxiya"
+  },
+  {
+    "word": "sülhməramlısının",
+    "original_lemma": "sülhməramlısının",
+    "new_lemma": "sülhməramlı"
+  },
+  {
+    "word": "biznes-firmasında",
+    "original_lemma": "biznes-firmasında",
+    "new_lemma": "biznes-firma"
+  },
+  {
+    "word": "polimerləşməsində",
+    "original_lemma": "polimerləşməsində",
+    "new_lemma": "polimerləşmə" // wrong, must be polimer
+  },
+  {
+    "word": "adminstrasiyasına",
+    "original_lemma": "adminstrasiyasına",
+    "new_lemma": "adminstrasiya"
+  },
+  {
+    "word": "Konfederasiyasında",
+    "original_lemma": "Konfederasiyasında",
+    "new_lemma": "Konfederasiya"
+  },
+  {
+    "word": "imperatriçasının",
+    "original_lemma": "imperatriçasının",
+    "new_lemma": "imperatriça"
+  },
+  {
+    "word": "harmonizasiyasına",
+    "original_lemma": "harmonizasiyasına",
+    "new_lemma": "harmonizasiya"
+  },
+  {
+    "word": "korrelyasiyasına",
+    "original_lemma": "korrelyasiyasına",
+    "new_lemma": "korrelyasiya"
+  },
+  {
+    "word": "Spartakiadasının",
+    "original_lemma": "Spartakiadasının",
+    "new_lemma": "Spartakiada"
+  },
+  {
+    "word": "yerləştirilməsinə",
+    "original_lemma": "yerləştirilməsinə",
+    "new_lemma": "yerləştirilmə" //wrong, must be yerləş
+  },
+  {
+    "word": "tarixi-coğrafiyasına",
+    "original_lemma": "tarixi-coğrafiyasına",
+    "new_lemma": "tarixi-coğrafiya"
+  },
+  {
+    "word": "şəhadətnaməsinin",
+    "original_lemma": "şəhadətnaməsinin",
+    "new_lemma": "şəhadətnamə"
+  },
+  {
+    "word": "internaturasında",
+    "original_lemma": "internaturasında",
+    "new_lemma": "internatura"
+  },
+  {
+    "word": "regiomərtəbəsinin",
+    "original_lemma": "regiomərtəbəsinin",
+    "new_lemma": "regiomərtəbə"
+  },
+  {
+    "word": "idarəedilməsinin",
+    "original_lemma": "idarəedilməsinin",
+    "new_lemma": "idarəedilmə"
+  },
+  {
+    "word": "idərəedilməsinin",
+    "original_lemma": "idərəedilməsinin",
+    "new_lemma": "idərəedilmə"
+  },
+  {
+    "word": "termodinamikasının",
+    "original_lemma": "termodinamikasının",
+    "new_lemma": "termodinamika"
+  },
+  {
+    "word": "kolleksiyasıçısının",
+    "original_lemma": "kolleksiyasıçısının",
+    "new_lemma": "kolleksiyasıçı"
+  },
+  {
+    "word": "sivilizasiyasına",
+    "original_lemma": "sivilizasiyasına",
+    "new_lemma": "sivilizasiya"
+  },
+  {
+    "word": "sivilizasiyasında",
+    "original_lemma": "sivilizasiyasında",
+    "new_lemma": "sivilizasiya"
+  },
+  {
+    "word": "dəyirmiləş-dirilmişdir",
+    "original_lemma": "dəyirmiləş-dirilmişdir",
+    "new_lemma": "dəyirmiləş-diril"
+  },
+  {
+    "word": "indeksləşdirilmişdir",
+    "original_lemma": "indeksləşdirilmişdir",
+    "new_lemma": "indeksləşdiril" // wrong, must be indeks
+  },
+  {
+    "word": "Konsertaiyasının",
+    "original_lemma": "Konsertaiyasının",
+    "new_lemma": "Konsertaiya"
+  },
+  {
+    "word": "konsevatoriyasında",
+    "original_lemma": "konsevatoriyasında",
+    "new_lemma": "konsevatoriya"
+  },
+  {
+    "word": "LinkedInıninfoqrafikasına",
+    "original_lemma": "LinkedInıninfoqrafikasına",
+    "new_lemma": "LinkedInıninfoqrafika"
+  },
+  {
+    "word": "elektronikasının",
+    "original_lemma": "elektronikasının",
+    "new_lemma": "elektronika"
+  },
+  {
+    "word": "modernləşdirilmişdir",
+    "original_lemma": "modernləşdirilmişdir",
+    "new_lemma": "modernləşdiril" // wrong, must be modern
+  },
+  {
+    "word": "modelləşdirilməsinə",
+    "original_lemma": "modelləşdirilməsinə",
+    "new_lemma": "modelləşdirilmə" // wrong, must be model
+  },
+  {
+    "word": "differensiyasına",
+    "original_lemma": "differensiyasına",
+    "new_lemma": "differensiya"
+  },
+  {
+    "word": "modelləşdirilməsinin",
+    "original_lemma": "modelləşdirilməsinin",
+    "new_lemma": "modelləşdirilmə" // wrong, must be model
+  },
+  {
+    "word": "aktyorlarıarasında",
+    "original_lemma": "aktyorlarıarasında",
+    "new_lemma": "aktyorlarıara" // wrong, must be aktyor
+  },
+  {
+    "word": "vəzifələndirilmişdir",
+    "original_lemma": "vəzifələndirilmişdir",
+    "new_lemma": "vəzifələndiril" // wrong, must be vəzifə
+  },
+  {
+    "word": "təsdiqlənməsində",
+    "original_lemma": "təsdiqlənməsində",
+    "new_lemma": "təsdiqlənmə" // wrong, must be təsdiq
+  },
+  {
+    "word": "rekonstruksiyasına",
+    "original_lemma": "rekonstruksiyasına",
+    "new_lemma": "rekonstruksiya"
+  },
+  {
+    "word": "konsitutsiyasına",
+    "original_lemma": "konsitutsiyasına",
+    "new_lemma": "konsitutsiya"
+  },
+  {
+    "word": "konsitutsiyasının",
+    "original_lemma": "konsitutsiyasının",
+    "new_lemma": "konsitutsiya"
+  },
+  {
+    "word": "kompilyasiyasında",
+    "original_lemma": "kompilyasiyasında",
+    "new_lemma": "kompilyasiya"
+  },
+  {
+    "word": "biozədələnməsinin",
+    "original_lemma": "biozədələnməsinin",
+    "new_lemma": "biozədələnmə"
+  },
+  {
+    "word": "reality-şousunun",
+    "original_lemma": "reality-şousunun",
+    "new_lemma": "reality-şou"
+  },
+  {
+    "word": "elektrodinamikasının",
+    "original_lemma": "elektrodinamikasının",
+    "new_lemma": "elektrodinamika"
+  },
+  {
+    "word": "dəqiqləşməmişdir",
+    "original_lemma": "dəqiqləşməmişdir",
+    "new_lemma": "dəqiqləşmə" // wrong, must be dəqiq
+  },
+  {
+    "word": "novella-pyesinin",
+    "original_lemma": "novella-pyesinin",
+    "new_lemma": "novella-pye"
+  },
+  {
+    "word": "saxtalaşdırılmasına",
+    "original_lemma": "saxtalaşdırılmasına",
+    "new_lemma": "saxtalaşdırılma" // wrong, must be saxta
+  },
+  {
+    "word": "maaliyələşdirmişdir",
+    "original_lemma": "maaliyələşdirmişdir",
+    "new_lemma": "maaliyələşdir" // wrong, must be maliyyə
+  },
+  {
+    "word": "arakəsmələrinsıxılmasına",
+    "original_lemma": "arakəsmələrinsıxılmasına",
+    "new_lemma": "arakəsmələrinsıxılma"
+  },
+  {
+    "word": "heyfslənməmişdir",
+    "original_lemma": "heyfslənməmişdir",
+    "new_lemma": "heyfslənmə" // wrong, must be heyf
+  },
+  {
+    "word": "konstitutsiyasında",
+    "original_lemma": "konstitutsiyasında",
+    "new_lemma": "konstitutsiya"
+  },
+  {
+    "word": "proto-demokratiyasının",
+    "original_lemma": "proto-demokratiyasının",
+    "new_lemma": "proto-demokratiya"
+  },
+  {
+    "word": "konstitutsiyasına",
+    "original_lemma": "konstitutsiyasına",
+    "new_lemma": "konstitutsiya"
+  },
+  {
+    "word": "konstitutsiyasının",
+    "original_lemma": "konstitutsiyasının",
+    "new_lemma": "konstitutsiya"
+  },
+  {
+    "word": "minerallaşmışdır",
+    "original_lemma": "minerallaşmışdır",
+    "new_lemma": "minerallaş" // wrong, must be mineral
+  },
+  {
+    "word": "adlananmüstəvisinin",
+    "original_lemma": "adlananmüstəvisinin",
+    "new_lemma": "adlananmüstəvi"
+  },
+  {
+    "word": "hipertrofiyasına",
+    "original_lemma": "hipertrofiyasına",
+    "new_lemma": "hipertrofiya"
+  },
+  {
+    "word": "proqnozlaşdırılmasının",
+    "original_lemma": "proqnozlaşdırılmasının",
+    "new_lemma": "proqnozlaşdırılma"
+  },
+  {
+    "word": "əhvali-ruhiyyəsinin",
+    "original_lemma": "əhvali-ruhiyyəsinin",
+    "new_lemma": "əhvali-ruhiyyə"
+  },
+  {
+    "word": "sənayesininmüstəmləkəsinə",
+    "original_lemma": "sənayesininmüstəmləkəsinə",
+    "new_lemma": "sənayesininmüstəmləkə"
+  },
+  {
+    "word": "provakasiyasının",
+    "original_lemma": "provakasiyasının",
+    "new_lemma": "provakasiya"
+  },
+  {
+    "word": "ekvilibristikasının",
+    "original_lemma": "ekvilibristikasının",
+    "new_lemma": "ekvilibristika"
+  },
+  {
+    "word": "birləşməsinətəşkilatlanmasına",
+    "original_lemma": "birləşməsinətəşkilatlanmasına",
+    "new_lemma": "birləşməsinətəşkilatlanma" 
+  },
+  {
+    "word": "Universiyadasında",
+    "original_lemma": "Universiyadasında",
+    "new_lemma": "Universiyada"
+  },
+  {
+    "word": "Spartakiadasında",
+    "original_lemma": "Spartakiadasında",
+    "new_lemma": "Spartakiada"
+  },
+  {
+    "word": "Elsiklopediyasında",
+    "original_lemma": "Elsiklopediyasında",
+    "new_lemma": "Elsiklopediya"
+  },
+  {
+    "word": "lüminessensiyasının",
+    "original_lemma": "lüminessensiyasının",
+    "new_lemma": "lüminessensiya"
+  },
+  {
+    "word": "inhibitləşməsinin",
+    "original_lemma": "inhibitləşməsinin",
+    "new_lemma": "inhibitləşmə"
+  },
+  {
+    "word": "dəyərləndirilməsində",
+    "original_lemma": "dəyərləndirilməsində",
+    "new_lemma": "dəyərləndirilmə" // wrong, must be dəyər
+  },
+  {
+    "word": "Enciklopediyasının",
+    "original_lemma": "Enciklopediyasının",
+    "new_lemma": "Enciklopediya"
+  },
+  {
+    "word": "Respubilikasının",
+    "original_lemma": "Respubilikasının",
+    "new_lemma": "Respubilika"
+  },
+  {
+    "word": "metaplaziyasının",
+    "original_lemma": "metaplaziyasının",
+    "new_lemma": "metaplaziya"
+  },
+  {
+    "word": "günahlandırılmışdır",
+    "original_lemma": "günahlandırılmışdır",
+    "new_lemma": "günahlandırıl" // wrong, must be günah
+  },
+  {
+    "word": "təqsirləndirilmişdir",
+    "original_lemma": "təqsirləndirilmişdir",
+    "new_lemma": "təqsirləndiril" // wrong, must be təqsir
+  },
+  {
+    "word": "illəriniatasının",
+    "original_lemma": "illəriniatasının",
+    "new_lemma": "illəriniata"
+  },
+  {
+    "word": "profilaktoriyasında",
+    "original_lemma": "profilaktoriyasında",
+    "new_lemma": "profilaktoriya"
+  },
+  {
+    "word": "sakitləşdirilməsində",
+    "original_lemma": "sakitləşdirilməsində",
+    "new_lemma": "sakitləşdirilmə" // wrong, must be sakit
+  },
+  {
+    "word": "konsentrasiyasına",
+    "original_lemma": "konsentrasiyasına",
+    "new_lemma": "konsentrasiya"
+  },
+  {
+    "word": "patentləşdirilmişdir",
+    "original_lemma": "patentləşdirilmişdir",
+    "new_lemma": "patentləşdiril"
+  },
+  {
+    "word": "sopolimerləşməsində",
+    "original_lemma": "sopolimerləşməsində",
+    "new_lemma": "sopolimerləşmə"
+  },
+  {
+    "word": "administrasiyasında",
+    "original_lemma": "administrasiyasında",
+    "new_lemma": "administrasiya"
+  },
+  {
+    "word": "biotransformasiyasısahəsində",
+    "original_lemma": "biotransformasiyasısahəsində",
+    "new_lemma": "biotransformasiyasısahə"
+  },
+  {
+    "word": "reaksiyalarıəsasında",
+    "original_lemma": "reaksiyalarıəsasında",
+    "new_lemma": "reaksiyalarıəsa"
+  },
+  {
+    "word": "kanonizasiyasının",
+    "original_lemma": "kanonizasiyasının",
+    "new_lemma": "kanonizasiya"
+  },
+  {
+    "word": "makromolekulasında",
+    "original_lemma": "makromolekulasında",
+    "new_lemma": "makromolekula"
+  },
+  {
+    "word": "reğiomərtəbəsinin",
+    "original_lemma": "reğiomərtəbəsinin",
+    "new_lemma": "reğiomərtəbə"
+  },
+  {
+    "word": "Canavargiləsinin",
+    "original_lemma": "Canavargiləsinin",
+    "new_lemma": "Canavargilə"
+  },
+  {
+    "word": "islamlaşdırılmışdır",
+    "original_lemma": "islamlaşdırılmışdır",
+    "new_lemma": "islamlaşdırıl" // wrong, must be islam
+  },
+  {
+    "word": "Ensiklopediyasına",
+    "original_lemma": "Ensiklopediyasına",
+    "new_lemma": "Ensiklopediya"
+  },
+  {
+    "word": "piqmentlənmişdir",
+    "original_lemma": "piqmentlənmişdir",
+    "new_lemma": "piqmentlən" // wrong, must be piqment
+  },
+  {
+    "word": "ucuzlaşdırılmasına",
+    "original_lemma": "ucuzlaşdırılmasına",
+    "new_lemma": "ucuzlaşdırılma" // wrong, must be ucuz
+  },
+  {
+    "word": "konyunkturasının",
+    "original_lemma": "konyunkturasının",
+    "new_lemma": "konyunktura"
+  },
+  {
+    "word": "konfederasiyasının",
+    "original_lemma": "konfederasiyasının",
+    "new_lemma": "konfederasiya"
+  },
+  {
+    "word": "disproporsiyasında",
+    "original_lemma": "disproporsiyasında",
+    "new_lemma": "disproporsiya"
+  },
+  {
+    "word": "differensiallaşmasında",
+    "original_lemma": "differensiallaşmasında",
+    "new_lemma": "differensiallaşma" // wrong, must be differensial
+  },
+  {
+    "word": "müasirləşdirlməsində",
+    "original_lemma": "müasirləşdirlməsində",
+    "new_lemma": "müasirləşdirlmə" // wrong, must be müasir
+  },
+  {
+    "word": "transplantasiyasında",
+    "original_lemma": "transplantasiyasında",
+    "new_lemma": "transplantasiya"
+  },
+  {
+    "word": "disfunksiyasının",
+    "original_lemma": "disfunksiyasının",
+    "new_lemma": "disfunksiya"
+  },
+  {
+    "word": "filmoqrafiyasında",
+    "original_lemma": "filmoqrafiyasında",
+    "new_lemma": "filmoqrafiya"
+  },
+  {
+    "word": "uçub-dağılmışdır",
+    "original_lemma": "uçub-dağılmışdır",
+    "new_lemma": "uçub-dağıl"
+  },
+  {
+    "word": "kolonizasiyasına",
+    "original_lemma": "kolonizasiyasına",
+    "new_lemma": "kolonizasiya"
+  },
+  {
+    "word": "konsentrasiyasında",
+    "original_lemma": "konsentrasiyasında",
+    "new_lemma": "konsentrasiya"
+  },
+  {
+    "word": "stimulyasiyasına",
+    "original_lemma": "stimulyasiyasına",
+    "new_lemma": "stimulyasiya"
+  },
+  {
+    "word": "hemodinamikasının",
+    "original_lemma": "hemodinamikasının",
+    "new_lemma": "hemodinamika"
+  },
+  {
+    "word": "mübarizə",
+    "original_lemma": "mübariz",
+    "new_lemma": "mübarizə"
+  },
+  {
+    "word": "giriş",
+    "original_lemma": "gir",
+    "new_lemma": "giriş"
+  },
+  {
+    "word": "davam",
+    "original_lemma": "dava",
+    "new_lemma": "davam"
+  },
+  {
+    "word": "çıxış",
+    "original_lemma": "çıx",
+    "new_lemma": "çıxış"
+  },
+  {
+    "word": "balıq",
+    "original_lemma": "bal",
+    "new_lemma": "balıq"
+  },
+  {
+    "word": "baxış",
+    "original_lemma": "bax",
+    "new_lemma": "baxış"
+  },
+  {
+    "word": "davamı",
+    "original_lemma": "dava",
+    "new_lemma": "davam"
+  },
+  {
+    "word": "yayış",
+    "original_lemma": "yay",
+    "new_lemma": "yayış"
+  }
+]

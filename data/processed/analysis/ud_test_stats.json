@@ -1,0 +1,22 @@
+{
+  "total_examples": 726,
+  "unique_words": 418,
+  "unique_lemmas": 262,
+  "avg_context_length": 6.2782369146005506,
+  "pos_distribution": {
+    "NOUN": 241,
+    "VERB": 189,
+    "PRON": 47,
+    "SCONJ": 5,
+    "CCONJ": 15,
+    "PROPN": 87,
+    "ADJ": 47,
+    "DET": 12,
+    "ADV": 33,
+    "AUX": 29,
+    "NUM": 8,
+    "ADP": 11,
+    "INTJ": 1,
+    "PART": 1
+  }
+}

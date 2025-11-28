@@ -1,0 +1,14 @@
+{
+  "source": "UD_Azerbaijani-TueCL",
+  "num_examples": 726,
+  "train_examples": 508,
+  "val_examples": 108,
+  "test_examples": 110,
+  "char_vocab_size": 116,
+  "splits": {
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "test_ratio": 0.15
+  },
+  "seed": 42
+}
